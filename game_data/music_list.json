@@ -1,0 +1,12886 @@
+{
+  "info": {
+    "version": "Ver.CN 1.40",
+    "date": "1970-01-01 00:00:00"
+  },
+  "data": {
+  "8": {
+    "title": "True Love Song",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      10.2,
+      12.4
+    ]
+  },
+  "9": {
+    "title": "Color My World",
+    "chart_difficulty": [
+      4.0,
+      7.1,
+      9.8,
+      12.4
+    ]
+  },
+  "10": {
+    "title": "LOVE ＆ JOY",
+    "chart_difficulty": [
+      5.0,
+      7.1,
+      8.1,
+      9.9
+    ]
+  },
+  "11": {
+    "title": "じょいふる",
+    "chart_difficulty": [
+      5.0,
+      6.2,
+      7.0,
+      8.7
+    ]
+  },
+  "15": {
+    "title": "Everyday、カチューシャ",
+    "chart_difficulty": [
+      4.0,
+      6.9,
+      8.5,
+      8.9
+    ]
+  },
+  "17": {
+    "title": "Future",
+    "chart_difficulty": [
+      7.0,
+      7.8,
+      9.5,
+      10.7,
+      12.7
+    ]
+  },
+  "18": {
+    "title": "Love You",
+    "chart_difficulty": [
+      6.0,
+      6.8,
+      9.6,
+      11.7
+    ]
+  },
+  "20": {
+    "title": "恋愛サーキュレーション",
+    "chart_difficulty": [
+      4.0,
+      6.4,
+      7.8,
+      9.9
+    ]
+  },
+  "21": {
+    "title": "コネクト",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      8.5,
+      12.0
+    ]
+  },
+  "22": {
+    "title": "In Chaos",
+    "chart_difficulty": [
+      6.0,
+      7.6,
+      9.7,
+      12.5,
+      14.8
+    ]
+  },
+  "23": {
+    "title": "Crush On You",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      9.2,
+      11.4,
+      13.7
+    ]
+  },
+  "24": {
+    "title": "Sun Dance",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      8.9,
+      11.4,
+      13.9
+    ]
+  },
+  "25": {
+    "title": "Sweets×Sweets",
+    "chart_difficulty": [
+      6.0,
+      7.4,
+      9.3,
+      11.4
+    ]
+  },
+  "27": {
+    "title": "Love or Lies",
+    "chart_difficulty": [
+      5.0,
+      6.8,
+      9.5,
+      11.7
+    ]
+  },
+  "29": {
+    "title": "VICTORY",
+    "chart_difficulty": [
+      4.0,
+      6.7,
+      7.9,
+      9.3
+    ]
+  },
+  "30": {
+    "title": "ネコ日和。",
+    "chart_difficulty": [
+      6.0,
+      7.9,
+      8.8,
+      11.8
+    ]
+  },
+  "31": {
+    "title": "虹と太陽",
+    "chart_difficulty": [
+      6.0,
+      8.4,
+      11.2,
+      12.8
+    ]
+  },
+  "34": {
+    "title": "Garden",
+    "chart_difficulty": [
+      4.0,
+      5.5,
+      7.4,
+      8.9
+    ]
+  },
+  "35": {
+    "title": "炭★坑★節",
+    "chart_difficulty": [
+      5.0,
+      7.1,
+      10.7,
+      13.3
+    ]
+  },
+  "38": {
+    "title": "NIGHT OF FIRE",
+    "chart_difficulty": [
+      7.0,
+      8.2,
+      10.0,
+      11.7
+    ]
+  },
+  "40": {
+    "title": "come again",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      10.2,
+      12.4
+    ]
+  },
+  "41": {
+    "title": "Chu Chu",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      7.2,
+      9.5
+    ]
+  },
+  "42": {
+    "title": "jelly",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      9.3,
+      12.4
+    ]
+  },
+  "43": {
+    "title": "愛を止めないで",
+    "chart_difficulty": [
+      4.0,
+      6.9,
+      8.4,
+      10.0
+    ]
+  },
+  "44": {
+    "title": "ハッピーシンセサイザ",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      9.6,
+      12.5
+    ]
+  },
+  "45": {
+    "title": "Choo Choo TRAIN",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      8.1,
+      10.2
+    ]
+  },
+  "46": {
+    "title": "ルカルカ★ナイトフィーバー",
+    "chart_difficulty": [
+      6.0,
+      7.6,
+      9.3,
+      11.7
+    ]
+  },
+  "47": {
+    "title": "源平大戦絵巻テーマソング",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      10.7,
+      12.8,
+      14.5
+    ]
+  },
+  "49": {
+    "title": "アイデンティティ",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      8.0,
+      9.8
+    ]
+  },
+  "53": {
+    "title": "美しく燃える森",
+    "chart_difficulty": [
+      6.0,
+      7.2,
+      9.1,
+      10.7
+    ]
+  },
+  "54": {
+    "title": "ヘビーローテーション",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      7.6,
+      9.8
+    ]
+  },
+  "55": {
+    "title": "CAN'T GET BACK",
+    "chart_difficulty": [
+      4.0,
+      6.2,
+      8.6,
+      9.4
+    ]
+  },
+  "56": {
+    "title": "ウッーウッーウマウマ(ﾟ∀ﾟ)",
+    "chart_difficulty": [
+      6.0,
+      8.3,
+      9.7,
+      13.4
+    ]
+  },
+  "58": {
+    "title": "Endless World",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      11.2,
+      12.8,
+      13.4
+    ]
+  },
+  "59": {
+    "title": "PON PON PON",
+    "chart_difficulty": [
+      5.0,
+      7.1,
+      8.0,
+      9.4
+    ]
+  },
+  "60": {
+    "title": "New World",
+    "chart_difficulty": [
+      5.0,
+      6.1,
+      7.8,
+      9.5
+    ]
+  },
+  "61": {
+    "title": "Beat Of Mind",
+    "chart_difficulty": [
+      6.0,
+      9.3,
+      12.7,
+      12.5,
+      14.2
+    ]
+  },
+  "62": {
+    "title": "檄！帝国華撃団(改)",
+    "chart_difficulty": [
+      5.0,
+      7.4,
+      9.4,
+      10.7,
+      13.1
+    ]
+  },
+  "63": {
+    "title": "メランコリック",
+    "chart_difficulty": [
+      7.0,
+      7.8,
+      9.4,
+      11.7
+    ]
+  },
+  "64": {
+    "title": "教えて!! 魔法のLyric",
+    "chart_difficulty": [
+      7.0,
+      8.0,
+      9.7,
+      12.4
+    ]
+  },
+  "65": {
+    "title": "ZIGG-ZAGG",
+    "chart_difficulty": [
+      7.0,
+      7.8,
+      9.3,
+      11.4,
+      12.5
+    ]
+  },
+  "66": {
+    "title": "ワールズエンド・ダンスホール",
+    "chart_difficulty": [
+      7.0,
+      8.4,
+      9.7,
+      12.8,
+      13.3
+    ]
+  },
+  "67": {
+    "title": "パンダヒーロー",
+    "chart_difficulty": [
+      6.0,
+      7.7,
+      9.8,
+      12.4
+    ]
+  },
+  "68": {
+    "title": "オレンジの夏",
+    "chart_difficulty": [
+      6.0,
+      7.6,
+      10.0,
+      12.4
+    ]
+  },
+  "69": {
+    "title": "BaBan!! －甘い罠－",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      12.3,
+      12.5
+    ]
+  },
+  "70": {
+    "title": "ジングルベル",
+    "chart_difficulty": [
+      6.0,
+      7.9,
+      10.9,
+      14.3,
+      14.2
+    ]
+  },
+  "71": {
+    "title": "マトリョシカ",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      9.7,
+      11.7,
+      13.2
+    ]
+  },
+  "73": {
+    "title": "メグメグ☆ファイアーエンドレスナイト",
+    "chart_difficulty": [
+      7.0,
+      7.8,
+      8.8,
+      11.7
+    ]
+  },
+  "75": {
+    "title": "天国と地獄",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      10.0,
+      13.4
+    ]
+  },
+  "76": {
+    "title": "きみのためなら死ねる",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.0,
+      12.5
+    ]
+  },
+  "77": {
+    "title": "怪盗Rのテーマ",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.5,
+      12.7
+    ]
+  },
+  "78": {
+    "title": "マリアをはげませ",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      8.7,
+      11.7
+    ]
+  },
+  "79": {
+    "title": "SHOW TIME",
+    "chart_difficulty": [
+      5.0,
+      6.6,
+      8.9,
+      12.5
+    ]
+  },
+  "80": {
+    "title": "City Escape: Act1",
+    "chart_difficulty": [
+      5.0,
+      6.2,
+      9.7,
+      12.7,
+      12.7
+    ]
+  },
+  "81": {
+    "title": "Rooftop Run: Act1",
+    "chart_difficulty": [
+      5.0,
+      7.4,
+      11.7,
+      12.4,
+      13.2
+    ]
+  },
+  "82": {
+    "title": "Reach For The Stars",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      10.9,
+      13.9
+    ]
+  },
+  "83": {
+    "title": "Urban Crusher [Remix]",
+    "chart_difficulty": [
+      6.0,
+      9.1,
+      12.7,
+      13.4
+    ]
+  },
+  "84": {
+    "title": "Catch The Future",
+    "chart_difficulty": [
+      6.0,
+      8.7,
+      10.8,
+      12.8
+    ]
+  },
+  "85": {
+    "title": "JACKY [Remix]",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      11.1,
+      13.7,
+      13.9
+    ]
+  },
+  "100": {
+    "title": "Tell Your World",
+    "chart_difficulty": [
+      6.0,
+      7.5,
+      10.5,
+      12.4,
+      13.2
+    ]
+  },
+  "101": {
+    "title": "おちゃめ機能",
+    "chart_difficulty": [
+      5.0,
+      8.1,
+      9.1,
+      13.7
+    ]
+  },
+  "102": {
+    "title": "ダンシング☆サムライ",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      11.1,
+      12.7
+    ]
+  },
+  "106": {
+    "title": "BAD∞END∞NIGHT",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      10.7,
+      13.6
+    ]
+  },
+  "107": {
+    "title": "ロミオとシンデレラ",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      11.1,
+      12.7,
+      13.3
+    ]
+  },
+  "108": {
+    "title": "Sweetiex2",
+    "chart_difficulty": [
+      5.0,
+      6.9,
+      8.5,
+      12.4
+    ]
+  },
+  "109": {
+    "title": "腐れ外道とチョコレゐト",
+    "chart_difficulty": [
+      6.0,
+      9.0,
+      12.7,
+      13.7
+    ]
+  },
+  "110": {
+    "title": "Quartet Theme [Reborn]",
+    "chart_difficulty": [
+      3.0,
+      7.3,
+      11.9,
+      12.8
+    ]
+  },
+  "111": {
+    "title": "Sky High [Reborn]",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      10.7,
+      12.7,
+      12.7
+    ]
+  },
+  "112": {
+    "title": "Like the Wind [Reborn]",
+    "chart_difficulty": [
+      6.0,
+      9.0,
+      11.4,
+      14.0
+    ]
+  },
+  "113": {
+    "title": "YA･DA･YO [Reborn]",
+    "chart_difficulty": [
+      4.0,
+      8.7,
+      13.0,
+      13.4
+    ]
+  },
+  "114": {
+    "title": "Space Harrier Main Theme [Reborn]",
+    "chart_difficulty": [
+      6.0,
+      7.6,
+      11.7,
+      13.8
+    ]
+  },
+  "115": {
+    "title": "DADDY MULK -Groove remix-",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      12.0,
+      13.8,
+      13.7
+    ]
+  },
+  "116": {
+    "title": "ぴぴぱぷぅ！",
+    "chart_difficulty": [
+      3.0,
+      8.2,
+      11.2,
+      13.0
+    ]
+  },
+  "117": {
+    "title": "炎歌 -ほむらうた-",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      12.0,
+      13.7
+    ]
+  },
+  "118": {
+    "title": "犬日和。",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      10.0,
+      12.4
+    ]
+  },
+  "119": {
+    "title": "ソーラン☆節",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      11.4,
+      13.4
+    ]
+  },
+  "120": {
+    "title": "デコボコ体操第二",
+    "chart_difficulty": [
+      5.0,
+      6.8,
+      9.1,
+      10.7
+    ]
+  },
+  "121": {
+    "title": "スイートマジック",
+    "chart_difficulty": [
+      4.0,
+      7.1,
+      10.7,
+      12.4
+    ]
+  },
+  "122": {
+    "title": "ゴーゴー幽霊船",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      11.2,
+      12.5
+    ]
+  },
+  "125": {
+    "title": "千本桜",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      10.7,
+      13.4
+    ]
+  },
+  "126": {
+    "title": "つけまつける",
+    "chart_difficulty": [
+      4.0,
+      7.1,
+      8.0,
+      9.9
+    ]
+  },
+  "127": {
+    "title": "Get Off of My Way",
+    "chart_difficulty": [
+      5.0,
+      6.9,
+      10.9,
+      10.9
+    ]
+  },
+  "128": {
+    "title": "御旗のもとに",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      12.1,
+      12.7
+    ]
+  },
+  "130": {
+    "title": "FEEL ALIVE",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.1,
+      13.8
+    ]
+  },
+  "131": {
+    "title": "Link",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      12.5,
+      12.5,
+      13.5
+    ]
+  },
+  "132": {
+    "title": "Turn around",
+    "chart_difficulty": [
+      6.0,
+      8.1,
+      13.1,
+      13.7
+    ]
+  },
+  "133": {
+    "title": "We Gonna Party",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      12.9,
+      13.7,
+      13.7
+    ]
+  },
+  "134": {
+    "title": "Night Fly",
+    "chart_difficulty": [
+      3.0,
+      8.2,
+      11.7,
+      13.2,
+      13.4
+    ]
+  },
+  "135": {
+    "title": "Feel My Fire",
+    "chart_difficulty": [
+      5.0,
+      9.1,
+      11.1,
+      13.2
+    ]
+  },
+  "136": {
+    "title": "Streak",
+    "chart_difficulty": [
+      6.0,
+      8.1,
+      12.7,
+      13.7
+    ]
+  },
+  "137": {
+    "title": "Spin me harder",
+    "chart_difficulty": [
+      6.0,
+      8.4,
+      12.2,
+      13.4
+    ]
+  },
+  "138": {
+    "title": "Lionheart",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      11.4,
+      13.4
+    ]
+  },
+  "139": {
+    "title": "Acceleration",
+    "chart_difficulty": [
+      7.0,
+      8.7,
+      11.9,
+      13.4
+    ]
+  },
+  "140": {
+    "title": "Sprintrances",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.1,
+      13.3
+    ]
+  },
+  "141": {
+    "title": "Nerverakes",
+    "chart_difficulty": [
+      7.0,
+      8.4,
+      11.9,
+      14.0
+    ]
+  },
+  "142": {
+    "title": "Black Out",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      13.0,
+      13.3
+    ]
+  },
+  "143": {
+    "title": "Fragrance",
+    "chart_difficulty": [
+      6.0,
+      9.3,
+      12.7,
+      14.2,
+      14.5
+    ]
+  },
+  "144": {
+    "title": "air's gravity",
+    "chart_difficulty": [
+      7.0,
+      8.6,
+      11.3,
+      13.3,
+      13.5
+    ]
+  },
+  "145": {
+    "title": "Starlight Disco",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.9,
+      12.4,
+      12.7
+    ]
+  },
+  "146": {
+    "title": "39",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      11.2,
+      12.9,
+      13.4
+    ]
+  },
+  "147": {
+    "title": "地上の戦士",
+    "chart_difficulty": [
+      5.0,
+      7.7,
+      11.4,
+      12.7
+    ]
+  },
+  "148": {
+    "title": "サブリナ",
+    "chart_difficulty": [
+      4.0,
+      6.7,
+      8.5,
+      11.3
+    ]
+  },
+  "149": {
+    "title": "SPELL MAGIC",
+    "chart_difficulty": [
+      5.0,
+      7.4,
+      9.0,
+      10.3
+    ]
+  },
+  "152": {
+    "title": "超絶！Superlative",
+    "chart_difficulty": [
+      6.0,
+      8.7,
+      11.8,
+      13.2
+    ]
+  },
+  "153": {
+    "title": "采配の刻 Power of order",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.9,
+      13.2
+    ]
+  },
+  "154": {
+    "title": "DO RORO DERODERO ON DO RORO",
+    "chart_difficulty": [
+      6.0,
+      8.9,
+      13.2,
+      13.7
+    ]
+  },
+  "155": {
+    "title": "泣き虫O'clock",
+    "chart_difficulty": [
+      4.0,
+      8.1,
+      10.9,
+      13.2,
+      12.9
+    ]
+  },
+  "157": {
+    "title": "Natural Flow",
+    "chart_difficulty": [
+      4.0,
+      7.9,
+      11.8,
+      12.5
+    ]
+  },
+  "159": {
+    "title": "maimaiちゃんのテーマ",
+    "chart_difficulty": [
+      5.0,
+      7.1,
+      9.3,
+      12.4
+    ]
+  },
+  "161": {
+    "title": "CANDY CANDY",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      8.2,
+      9.8
+    ]
+  },
+  "164": {
+    "title": "READY STEADY GO",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      9.1,
+      10.1
+    ]
+  },
+  "165": {
+    "title": "リライト",
+    "chart_difficulty": [
+      4.0,
+      6.4,
+      8.4,
+      9.9
+    ]
+  },
+  "166": {
+    "title": "カルマ",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      7.7,
+      9.9
+    ]
+  },
+  "167": {
+    "title": "GO!!!",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      8.6,
+      10.4
+    ]
+  },
+  "168": {
+    "title": "LOVEドッきゅん♥",
+    "chart_difficulty": [
+      4.0,
+      6.9,
+      9.3,
+      10.2
+    ]
+  },
+  "169": {
+    "title": "galaxias!",
+    "chart_difficulty": [
+      4.0,
+      6.3,
+      8.1,
+      10.0
+    ]
+  },
+  "172": {
+    "title": "女々しくて",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      8.2,
+      11.1
+    ]
+  },
+  "173": {
+    "title": "サラバ、愛しき悲しみたちよ",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      8.6,
+      10.0
+    ]
+  },
+  "174": {
+    "title": "創聖のアクエリオン",
+    "chart_difficulty": [
+      3.0,
+      6.6,
+      7.5,
+      10.7
+    ]
+  },
+  "176": {
+    "title": "Butter-Fly",
+    "chart_difficulty": [
+      5.0,
+      6.0,
+      9.2,
+      10.6
+    ]
+  },
+  "181": {
+    "title": "君の知らない物語",
+    "chart_difficulty": [
+      2.0,
+      7.4,
+      9.6,
+      11.7
+    ]
+  },
+  "182": {
+    "title": "残酷な天使のテーゼ",
+    "chart_difficulty": [
+      4.0,
+      6.4,
+      7.3,
+      9.5
+    ]
+  },
+  "184": {
+    "title": "I ♥",
+    "chart_difficulty": [
+      5.0,
+      7.7,
+      9.4,
+      12.7
+    ]
+  },
+  "185": {
+    "title": "＊ハロー、プラネット。",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.6,
+      12.8
+    ]
+  },
+  "186": {
+    "title": "イアイア★ナイトオブデザイア",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      9.8,
+      11.2
+    ]
+  },
+  "187": {
+    "title": "ローリンガール",
+    "chart_difficulty": [
+      4.0,
+      7.4,
+      9.8,
+      13.2
+    ]
+  },
+  "188": {
+    "title": "天ノ弱",
+    "chart_difficulty": [
+      4.0,
+      8.4,
+      11.0,
+      13.3
+    ]
+  },
+  "189": {
+    "title": "弱虫モンブラン",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.9,
+      12.7
+    ]
+  },
+  "190": {
+    "title": "モザイクロール",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      10.7,
+      12.7
+    ]
+  },
+  "191": {
+    "title": "脳漿炸裂ガール",
+    "chart_difficulty": [
+      5.0,
+      7.1,
+      12.7,
+      14.0
+    ]
+  },
+  "192": {
+    "title": "SPiCa",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      9.9,
+      12.8
+    ]
+  },
+  "193": {
+    "title": "セツナトリップ",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      11.0,
+      13.3
+    ]
+  },
+  "194": {
+    "title": "放課後ストライド",
+    "chart_difficulty": [
+      5.0,
+      8.4,
+      10.7,
+      13.3
+    ]
+  },
+  "198": {
+    "title": "カゲロウデイズ",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      11.7,
+      13.2,
+      14.0
+    ]
+  },
+  "199": {
+    "title": "チルノのパーフェクトさんすう教室",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      10.4,
+      12.9
+    ]
+  },
+  "200": {
+    "title": "Bad Apple!! feat nomico",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      10.6,
+      12.5,
+      13.3
+    ]
+  },
+  "201": {
+    "title": "魔理沙は大変なものを盗んでいきました",
+    "chart_difficulty": [
+      6.0,
+      7.2,
+      9.5,
+      13.3
+    ]
+  },
+  "202": {
+    "title": "Grip & Break down !!",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.7,
+      13.3
+    ]
+  },
+  "203": {
+    "title": "Help me, ERINNNNNN!!",
+    "chart_difficulty": [
+      6.0,
+      7.0,
+      11.6,
+      12.5
+    ]
+  },
+  "204": {
+    "title": "ナイト・オブ・ナイツ",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      11.9,
+      13.3,
+      14.3
+    ]
+  },
+  "205": {
+    "title": "全人類ノ非想天則",
+    "chart_difficulty": [
+      4.0,
+      7.9,
+      10.6,
+      13.2
+    ]
+  },
+  "206": {
+    "title": "しゅわスパ大作戦☆",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      9.9,
+      12.7
+    ]
+  },
+  "207": {
+    "title": "時空を超えて久しぶり！",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      10.3,
+      12.7
+    ]
+  },
+  "208": {
+    "title": "Her Dream Is To Be A Fantastic Sorceress",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      10.9,
+      12.0
+    ]
+  },
+  "209": {
+    "title": "ココロスキャンのうた",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      11.3,
+      13.7
+    ]
+  },
+  "212": {
+    "title": "神室雪月花",
+    "chart_difficulty": [
+      2.0,
+      7.7,
+      12.2,
+      12.7
+    ]
+  },
+  "213": {
+    "title": "KONNANじゃないっ！",
+    "chart_difficulty": [
+      5.0,
+      6.8,
+      9.0,
+      13.4
+    ]
+  },
+  "214": {
+    "title": "awake",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      9.3,
+      13.2
+    ]
+  },
+  "216": {
+    "title": "Mysterious Destiny",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      12.7,
+      13.3
+    ]
+  },
+  "217": {
+    "title": "Riders Of The Light",
+    "chart_difficulty": [
+      4.0,
+      7.4,
+      11.7,
+      12.5
+    ]
+  },
+  "218": {
+    "title": "Terminal Storm",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      11.5,
+      13.4
+    ]
+  },
+  "219": {
+    "title": "記憶、記録",
+    "chart_difficulty": [
+      4.0,
+      9.2,
+      11.2,
+      13.5,
+      14.2
+    ]
+  },
+  "220": {
+    "title": "セガサターン起動音[H.][Remix]",
+    "chart_difficulty": [
+      2.0,
+      7.1,
+      11.1,
+      12.8
+    ]
+  },
+  "223": {
+    "title": "夜咄ディセイブ",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      12.5,
+      13.7
+    ]
+  },
+  "224": {
+    "title": "ウサテイ",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      10.8,
+      14.0
+    ]
+  },
+  "225": {
+    "title": "sweet little sister",
+    "chart_difficulty": [
+      4.0,
+      7.1,
+      10.7,
+      13.4
+    ]
+  },
+  "226": {
+    "title": "Blew Moon",
+    "chart_difficulty": [
+      5.0,
+      9.2,
+      12.5,
+      13.4,
+      13.4
+    ]
+  },
+  "227": {
+    "title": "Garakuta Doll Play",
+    "chart_difficulty": [
+      6.0,
+      9.0,
+      13.1,
+      14.2,
+      14.8
+    ]
+  },
+  "228": {
+    "title": "Dreampainter",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.1,
+      12.9
+    ]
+  },
+  "229": {
+    "title": "ぐるぐるWASH！コインランドリー・ディスコ",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      9.8,
+      12.5
+    ]
+  },
+  "230": {
+    "title": "CYCLES",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      10.8,
+      13.3
+    ]
+  },
+  "231": {
+    "title": "Heartbeats",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      11.8,
+      13.2
+    ]
+  },
+  "232": {
+    "title": "Life Feels Good",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.8,
+      13.7
+    ]
+  },
+  "233": {
+    "title": "MYTHOS",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      12.2,
+      14.4
+    ]
+  },
+  "234": {
+    "title": "End of Twilight",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.9,
+      13.2
+    ]
+  },
+  "235": {
+    "title": "火炎地獄",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      12.6,
+      13.9
+    ]
+  },
+  "236": {
+    "title": "ユビキリ",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      11.8,
+      13.3
+    ]
+  },
+  "237": {
+    "title": "Pixel Voyage",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.7,
+      12.8
+    ]
+  },
+  "238": {
+    "title": "Get Happy",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      12.9,
+      13.8
+    ]
+  },
+  "239": {
+    "title": "System “Z”",
+    "chart_difficulty": [
+      6.0,
+      9.1,
+      12.8,
+      14.4,
+      14.0
+    ]
+  },
+  "240": {
+    "title": "Beat of getting entangled",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.8,
+      13.7,
+      14.5
+    ]
+  },
+  "241": {
+    "title": "Cosmic Train",
+    "chart_difficulty": [
+      3.0,
+      6.4,
+      10.9,
+      12.5
+    ]
+  },
+  "242": {
+    "title": "ナミダと流星",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.8,
+      12.5
+    ]
+  },
+  "244": {
+    "title": "おても☆Yan",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      10.5,
+      12.8
+    ]
+  },
+  "246": {
+    "title": "maiム・maiム feat.週刊少年マガジン",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      11.5,
+      13.2
+    ]
+  },
+  "247": {
+    "title": "Danza zandA",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.8,
+      13.4,
+      13.5
+    ]
+  },
+  "248": {
+    "title": "Backyun! －悪い女－",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      11.8,
+      12.7,
+      13.3
+    ]
+  },
+  "251": {
+    "title": "Monochrome Rainbow",
+    "chart_difficulty": [
+      3.0,
+      8.6,
+      10.9,
+      13.0
+    ]
+  },
+  "252": {
+    "title": "みんなのマイマイマー",
+    "chart_difficulty": [
+      4.0,
+      8.6,
+      11.2,
+      13.7,
+      13.7
+    ]
+  },
+  "253": {
+    "title": "円舞曲、君に",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      11.3,
+      13.3
+    ]
+  },
+  "254": {
+    "title": "Live & Learn",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      11.3,
+      13.3
+    ]
+  },
+  "255": {
+    "title": "Burning Hearts ～炎のANGEL～",
+    "chart_difficulty": [
+      5.0,
+      8.4,
+      10.9,
+      12.7,
+      13.7
+    ]
+  },
+  "256": {
+    "title": "いーあるふぁんくらぶ",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      8.6,
+      12.0,
+      12.7
+    ]
+  },
+  "258": {
+    "title": "Nyan Cat EX",
+    "chart_difficulty": [
+      5.0,
+      7.9,
+      11.7,
+      13.8
+    ]
+  },
+  "259": {
+    "title": "ぽっぴっぽー",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      9.9,
+      13.3
+    ]
+  },
+  "260": {
+    "title": "LUCIA",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      12.3,
+      13.2,
+      13.7
+    ]
+  },
+  "261": {
+    "title": "Death Scythe",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      12.1,
+      13.8,
+      14.2
+    ]
+  },
+  "262": {
+    "title": "BREAK YOU!!",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      11.0,
+      13.7
+    ]
+  },
+  "263": {
+    "title": "JUMPIN' JUMPIN'",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      11.7,
+      13.0
+    ]
+  },
+  "264": {
+    "title": "L'épilogue",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      11.7,
+      13.7
+    ]
+  },
+  "265": {
+    "title": "Save This World νMIX",
+    "chart_difficulty": [
+      4.0,
+      8.1,
+      10.6,
+      13.3,
+      13.3
+    ]
+  },
+  "266": {
+    "title": "Living Universe",
+    "chart_difficulty": [
+      3.0,
+      8.1,
+      10.0,
+      11.8,
+      12.6
+    ]
+  },
+  "267": {
+    "title": "Ignite Infinity",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      11.9,
+      12.5
+    ]
+  },
+  "268": {
+    "title": "トルコ行進曲 - オワタ＼(^o^)／",
+    "chart_difficulty": [
+      3.0,
+      7.6,
+      10.0,
+      13.8
+    ]
+  },
+  "269": {
+    "title": "裏表ラバーズ",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      12.6,
+      13.8
+    ]
+  },
+  "270": {
+    "title": "Outlaw's Lullaby",
+    "chart_difficulty": [
+      4.0,
+      8.6,
+      10.7,
+      14.0
+    ]
+  },
+  "271": {
+    "title": "Brand-new Japanesque",
+    "chart_difficulty": [
+      3.0,
+      8.4,
+      10.7,
+      12.7
+    ]
+  },
+  "274": {
+    "title": "RPG",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      7.9,
+      9.9
+    ]
+  },
+  "277": {
+    "title": "Tachyon",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      8.8,
+      11.3
+    ]
+  },
+  "278": {
+    "title": "レッツゴー!陰陽師",
+    "chart_difficulty": [
+      2.0,
+      7.5,
+      9.7,
+      13.3
+    ]
+  },
+  "280": {
+    "title": "炉心融解",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      11.4,
+      13.2
+    ]
+  },
+  "281": {
+    "title": "ダブルラリアット",
+    "chart_difficulty": [
+      5.0,
+      6.6,
+      10.9,
+      13.2
+    ]
+  },
+  "282": {
+    "title": "からくりピエロ",
+    "chart_difficulty": [
+      3.0,
+      6.6,
+      10.1,
+      12.5,
+      12.8
+    ]
+  },
+  "283": {
+    "title": "ネトゲ廃人シュプレヒコール",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.7,
+      13.7
+    ]
+  },
+  "284": {
+    "title": "むかしむかしのきょうのぼく",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      10.1,
+      12.5
+    ]
+  },
+  "285": {
+    "title": "magician's operation",
+    "chart_difficulty": [
+      4.0,
+      7.9,
+      11.8,
+      13.7
+    ]
+  },
+  "288": {
+    "title": "六兆年と一夜物語",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.7,
+      13.8
+    ]
+  },
+  "289": {
+    "title": "みくみくにしてあげる♪【してやんよ】",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      9.4,
+      11.9
+    ]
+  },
+  "290": {
+    "title": "リリリリ★バーニングナイト",
+    "chart_difficulty": [
+      6.0,
+      8.3,
+      9.7,
+      10.9
+    ]
+  },
+  "291": {
+    "title": "ハロ／ハワユ",
+    "chart_difficulty": [
+      3.0,
+      6.6,
+      9.4,
+      12.0
+    ]
+  },
+  "293": {
+    "title": "Our Fighting",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      10.8,
+      12.5
+    ]
+  },
+  "295": {
+    "title": "緋色のDance",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      10.7,
+      13.3,
+      13.7
+    ]
+  },
+  "296": {
+    "title": "明星ロケット",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      10.0,
+      12.4,
+      12.7
+    ]
+  },
+  "297": {
+    "title": "The Great Journey",
+    "chart_difficulty": [
+      6.0,
+      6.8,
+      10.5,
+      11.8
+    ]
+  },
+  "298": {
+    "title": "お嫁にしなさいっ！",
+    "chart_difficulty": [
+      3.0,
+      7.6,
+      10.9,
+      12.8
+    ]
+  },
+  "299": {
+    "title": "ロストワンの号哭",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      10.8,
+      13.5,
+      14.2
+    ]
+  },
+  "300": {
+    "title": "Sweet Devil",
+    "chart_difficulty": [
+      4.0,
+      7.4,
+      11.5,
+      12.7
+    ]
+  },
+  "301": {
+    "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      10.7,
+      13.7,
+      14.0
+    ]
+  },
+  "302": {
+    "title": "ケロ⑨destiny",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      10.9,
+      12.9
+    ]
+  },
+  "303": {
+    "title": "Endless, Sleepless Night",
+    "chart_difficulty": [
+      4.0,
+      8.3,
+      10.8,
+      13.3
+    ]
+  },
+  "305": {
+    "title": "POP STAR",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.6,
+      11.4
+    ]
+  },
+  "308": {
+    "title": "Back 2 Back",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      10.8,
+      13.7
+    ]
+  },
+  "309": {
+    "title": "神々の祈り",
+    "chart_difficulty": [
+      3.0,
+      7.1,
+      9.3,
+      12.7
+    ]
+  },
+  "310": {
+    "title": "エピクロスの虹はもう見えない",
+    "chart_difficulty": [
+      3.0,
+      7.4,
+      9.9,
+      11.8,
+      13.2
+    ]
+  },
+  "311": {
+    "title": "シアワセうさぎ",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      8.8,
+      11.0
+    ]
+  },
+  "312": {
+    "title": "ってゐ！ ～えいえんてゐVer～",
+    "chart_difficulty": [
+      3.0,
+      7.3,
+      9.7,
+      12.5,
+      13.2
+    ]
+  },
+  "313": {
+    "title": "待チ人ハ来ズ。",
+    "chart_difficulty": [
+      3.0,
+      7.6,
+      9.8,
+      13.2
+    ]
+  },
+  "314": {
+    "title": "Cosmic Magic Shooter",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.8,
+      13.9
+    ]
+  },
+  "315": {
+    "title": "深海少女",
+    "chart_difficulty": [
+      3.0,
+      7.3,
+      9.9,
+      13.2
+    ]
+  },
+  "316": {
+    "title": "M.S.S.Planet",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      10.7,
+      12.6
+    ]
+  },
+  "318": {
+    "title": "東方スイーツ！～鬼畜姉妹と受難メイド～",
+    "chart_difficulty": [
+      5.0,
+      7.7,
+      10.7,
+      13.2
+    ]
+  },
+  "319": {
+    "title": "幻想のサテライト",
+    "chart_difficulty": [
+      4.0,
+      8.1,
+      11.3,
+      14.0
+    ]
+  },
+  "320": {
+    "title": "最速最高シャッターガール",
+    "chart_difficulty": [
+      4.0,
+      8.2,
+      10.9,
+      12.6
+    ]
+  },
+  "321": {
+    "title": "バラライカ",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      9.8,
+      12.0
+    ]
+  },
+  "322": {
+    "title": "林檎華憐歌",
+    "chart_difficulty": [
+      5.0,
+      7.4,
+      11.3,
+      12.5
+    ]
+  },
+  "323": {
+    "title": "YATTA!",
+    "chart_difficulty": [
+      3.0,
+      6.9,
+      9.7,
+      11.7
+    ]
+  },
+  "324": {
+    "title": "Jack-the-Ripper◆",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      12.2,
+      14.0
+    ]
+  },
+  "325": {
+    "title": "Windy Hill -Zone 1",
+    "chart_difficulty": [
+      4.0,
+      8.3,
+      11.0,
+      13.4
+    ]
+  },
+  "326": {
+    "title": "コトバ・カラフル",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      8.6,
+      13.7
+    ]
+  },
+  "327": {
+    "title": "タカハせ！名人マン",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      9.8,
+      13.5
+    ]
+  },
+  "328": {
+    "title": "言ノ葉カルマ",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.7,
+      13.4,
+      13.3
+    ]
+  },
+  "329": {
+    "title": "かせげ！ジャリンコヒーロー",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      9.8,
+      12.5
+    ]
+  },
+  "330": {
+    "title": "キズナの物語",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      9.1,
+      13.2
+    ]
+  },
+  "331": {
+    "title": "Heart Beats",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      9.8,
+      12.4
+    ]
+  },
+  "332": {
+    "title": "アゲアゲアゲイン",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      10.3,
+      12.5
+    ]
+  },
+  "333": {
+    "title": "GO MY WAY!!",
+    "chart_difficulty": [
+      4.0,
+      6.2,
+      8.5,
+      10.6
+    ]
+  },
+  "334": {
+    "title": "THE IDOLM@STER 2nd-mix",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.1,
+      9.8
+    ]
+  },
+  "335": {
+    "title": "The world is all one !!",
+    "chart_difficulty": [
+      4.0,
+      5.7,
+      7.8,
+      9.6
+    ]
+  },
+  "336": {
+    "title": "紅蓮の弓矢",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      9.0,
+      11.1
+    ]
+  },
+  "337": {
+    "title": "鼓動",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.8,
+      13.3
+    ]
+  },
+  "338": {
+    "title": "リクライム",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      9.3,
+      10.9
+    ]
+  },
+  "339": {
+    "title": "DRAGONLADY",
+    "chart_difficulty": [
+      4.0,
+      8.4,
+      12.8,
+      14.0
+    ]
+  },
+  "340": {
+    "title": "恋のヒメヒメぺったんこ",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      7.8,
+      10.3
+    ]
+  },
+  "341": {
+    "title": "二息歩行",
+    "chart_difficulty": [
+      3.0,
+      7.6,
+      10.1,
+      13.2
+    ]
+  },
+  "342": {
+    "title": "ファンタジーゾーン OPA-OPA! -GMT remix-",
+    "chart_difficulty": [
+      4.0,
+      7.4,
+      10.8,
+      13.4
+    ]
+  },
+  "343": {
+    "title": "電車で電車でGO!GO!GO!GC! -GMT remix-",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      9.5,
+      12.5
+    ]
+  },
+  "344": {
+    "title": "RIDGE RACER STEPS -GMT remix-",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.8,
+      13.4
+    ]
+  },
+  "345": {
+    "title": "リッジでリッジでGO!GO!GO! -GMT mashup-",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      11.8,
+      13.7
+    ]
+  },
+  "346": {
+    "title": "オパ! オパ! RACER -GMT mashup-",
+    "chart_difficulty": [
+      4.0,
+      7.1,
+      10.8,
+      13.7
+    ]
+  },
+  "347": {
+    "title": "電車で電車でOPA!OPA!OPA! -GMT mashup-",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      11.8,
+      13.7
+    ]
+  },
+  "348": {
+    "title": "Axeria",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      12.9,
+      14.5
+    ]
+  },
+  "349": {
+    "title": "ピーマンたべたら",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      11.4,
+      13.7
+    ]
+  },
+  "351": {
+    "title": "MIRROR of MAGIC",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.7,
+      13.2
+    ]
+  },
+  "352": {
+    "title": "究極焼肉レストラン！お燐の地獄亭！",
+    "chart_difficulty": [
+      6.0,
+      7.3,
+      10.7,
+      12.7
+    ]
+  },
+  "353": {
+    "title": "shake it!",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      9.0,
+      12.5
+    ]
+  },
+  "356": {
+    "title": "1/3の純情な感情",
+    "chart_difficulty": [
+      5.0,
+      6.8,
+      10.4,
+      12.5
+    ]
+  },
+  "357": {
+    "title": "みかんのうた",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      9.3,
+      12.1
+    ]
+  },
+  "358": {
+    "title": "毒占欲",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.8,
+      13.6
+    ]
+  },
+  "359": {
+    "title": "YU-MU",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.8,
+      13.2
+    ]
+  },
+  "360": {
+    "title": "物凄い勢いでけーねが物凄いうた",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      9.8,
+      12.9
+    ]
+  },
+  "362": {
+    "title": "BETTER CHOICE",
+    "chart_difficulty": [
+      4.0,
+      8.3,
+      10.8,
+      12.9
+    ]
+  },
+  "363": {
+    "title": "Oshama Scramble!",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.9,
+      14.5
+    ]
+  },
+  "364": {
+    "title": "D✪N’T  ST✪P  R✪CKIN’",
+    "chart_difficulty": [
+      6.0,
+      8.1,
+      11.9,
+      13.8,
+      13.5
+    ]
+  },
+  "365": {
+    "title": "ガラテアの螺旋",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      13.3,
+      14.6,
+      14.7
+    ]
+  },
+  "366": {
+    "title": "oboro",
+    "chart_difficulty": [
+      6.0,
+      8.4,
+      12.0,
+      13.7
+    ]
+  },
+  "367": {
+    "title": "Dragoon",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      10.9,
+      13.4,
+      14.5
+    ]
+  },
+  "368": {
+    "title": "シリウス",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      8.6,
+      10.6
+    ]
+  },
+  "369": {
+    "title": "ほとんど違法行為",
+    "chart_difficulty": [
+      4.0,
+      6.3,
+      8.2,
+      10.7
+    ]
+  },
+  "370": {
+    "title": "naraku within",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      9.1,
+      11.8
+    ]
+  },
+  "371": {
+    "title": "Stand Up!!!!",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      8.8,
+      11.0
+    ]
+  },
+  "372": {
+    "title": "ファミリーパーティー",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      7.4,
+      10.7
+    ]
+  },
+  "374": {
+    "title": "アンハッピーリフレイン",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      11.8,
+      13.4
+    ]
+  },
+  "375": {
+    "title": "One Step Ahead",
+    "chart_difficulty": [
+      6.0,
+      7.5,
+      11.2,
+      12.7
+    ]
+  },
+  "376": {
+    "title": "L9",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      11.1,
+      13.7
+    ]
+  },
+  "377": {
+    "title": "おいでよ！妖精の森",
+    "chart_difficulty": [
+      4.0,
+      6.6,
+      9.0,
+      11.4
+    ]
+  },
+  "378": {
+    "title": "planet dancer",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.2,
+      13.2,
+      13.7
+    ]
+  },
+  "379": {
+    "title": "Caliburne ～Story of the Legendary sword～",
+    "chart_difficulty": [
+      5.0,
+      9.4,
+      12.9,
+      14.3
+    ]
+  },
+  "380": {
+    "title": "どうしてこうなった",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.7,
+      13.7
+    ]
+  },
+  "381": {
+    "title": "B.B.K.K.B.K.K.",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.7,
+      14.0
+    ]
+  },
+  "382": {
+    "title": "おこちゃま戦争",
+    "chart_difficulty": [
+      6.0,
+      7.3,
+      10.8,
+      13.3
+    ]
+  },
+  "383": {
+    "title": "Link",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      10.7,
+      12.5
+    ]
+  },
+  "384": {
+    "title": "VERTeX",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      11.9,
+      14.5
+    ]
+  },
+  "385": {
+    "title": "Ignis Danse",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      13.0,
+      14.6
+    ]
+  },
+  "386": {
+    "title": "Scars of FAUNA",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.2,
+      13.8
+    ]
+  },
+  "387": {
+    "title": "FUJIN Rumble",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      11.9,
+      14.5
+    ]
+  },
+  "388": {
+    "title": "きたさいたま2000",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      13.3,
+      14.2
+    ]
+  },
+  "389": {
+    "title": "FLOWER",
+    "chart_difficulty": [
+      6.0,
+      8.3,
+      11.9,
+      13.9,
+      14.2
+    ]
+  },
+  "390": {
+    "title": "Got more raves？",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.8,
+      14.0
+    ]
+  },
+  "397": {
+    "title": "Can Do",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      9.0,
+      11.8
+    ]
+  },
+  "398": {
+    "title": "The Other self",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      9.1,
+      10.8
+    ]
+  },
+  "399": {
+    "title": "不毛！",
+    "chart_difficulty": [
+      3.0,
+      8.1,
+      10.1,
+      12.7
+    ]
+  },
+  "400": {
+    "title": "デッドレッドガールズ",
+    "chart_difficulty": [
+      4.0,
+      8.6,
+      10.9,
+      13.9
+    ]
+  },
+  "401": {
+    "title": "赤心性：カマトト荒療治",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      9.9,
+      13.7
+    ]
+  },
+  "402": {
+    "title": "ニブンノイチ",
+    "chart_difficulty": [
+      3.0,
+      5.5,
+      7.9,
+      10.1
+    ]
+  },
+  "403": {
+    "title": "悪戯",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      10.4,
+      12.9
+    ]
+  },
+  "404": {
+    "title": "響縁",
+    "chart_difficulty": [
+      5.0,
+      6.8,
+      9.7,
+      13.0
+    ]
+  },
+  "405": {
+    "title": "カノン",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      9.2,
+      10.7
+    ]
+  },
+  "406": {
+    "title": "オルフェ",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.1,
+      10.4
+    ]
+  },
+  "407": {
+    "title": "LOL -lots of laugh-",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.6,
+      12.7
+    ]
+  },
+  "408": {
+    "title": "クローバー♣クラブ",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.7,
+      13.3
+    ]
+  },
+  "409": {
+    "title": "妄想税",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      10.7,
+      12.0
+    ]
+  },
+  "410": {
+    "title": "どういうことなの！？",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.3,
+      13.4
+    ]
+  },
+  "411": {
+    "title": "初音ミクの消失",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      11.8,
+      13.9
+    ]
+  },
+  "412": {
+    "title": "イノコリ先生",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      9.9,
+      12.7
+    ]
+  },
+  "413": {
+    "title": "キャプテン・ムラサのケツアンカー",
+    "chart_difficulty": [
+      6.0,
+      7.4,
+      11.5,
+      13.4
+    ]
+  },
+  "414": {
+    "title": "若い力 -SEGA HARD GIRLS MIX-",
+    "chart_difficulty": [
+      5.0,
+      7.1,
+      10.0,
+      12.7,
+      12.7
+    ]
+  },
+  "416": {
+    "title": "ココロオドル",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      8.7,
+      11.5
+    ]
+  },
+  "417": {
+    "title": "ウミユリ海底譚",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      9.7,
+      13.4
+    ]
+  },
+  "418": {
+    "title": "welcome to maimai!! with マイマイマー",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      9.9,
+      12.9
+    ]
+  },
+  "419": {
+    "title": "ストリーミングハート",
+    "chart_difficulty": [
+      3.0,
+      8.0,
+      10.7,
+      13.3
+    ]
+  },
+  "420": {
+    "title": "Change Our MIRAI！",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      11.0,
+      13.4
+    ]
+  },
+  "421": {
+    "title": "Aiolos",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.7,
+      14.3
+    ]
+  },
+  "422": {
+    "title": "LANCE",
+    "chart_difficulty": [
+      5.0,
+      8.7,
+      11.7,
+      13.8
+    ]
+  },
+  "423": {
+    "title": "SAVIOR OF SONG",
+    "chart_difficulty": [
+      4.0,
+      7.4,
+      9.7,
+      13.1
+    ]
+  },
+  "424": {
+    "title": "橙の幻想郷音頭",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      11.0,
+      13.3
+    ]
+  },
+  "425": {
+    "title": "東方妖々夢 ～the maximum moving about～",
+    "chart_difficulty": [
+      6.0,
+      8.3,
+      9.9,
+      13.3
+    ]
+  },
+  "426": {
+    "title": "蒼空に舞え、墨染の桜",
+    "chart_difficulty": [
+      6.0,
+      7.2,
+      11.0,
+      13.4
+    ]
+  },
+  "427": {
+    "title": "少女幻葬戦慄曲 ～ Necro Fantasia",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      10.8,
+      13.9
+    ]
+  },
+  "431": {
+    "title": "Contrapasso -paradiso-",
+    "chart_difficulty": [
+      6.0,
+      9.5,
+      13.0,
+      14.4
+    ]
+  },
+  "432": {
+    "title": "幸せになれる隠しコマンドがあるらしい",
+    "chart_difficulty": [
+      6.0,
+      9.3,
+      12.7,
+      14.0
+    ]
+  },
+  "434": {
+    "title": "フラグメンツ -T.V. maimai edit-",
+    "chart_difficulty": [
+      4.0,
+      6.6,
+      9.9,
+      12.8
+    ]
+  },
+  "435": {
+    "title": "願いを呼ぶ季節",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      10.4,
+      12.5
+    ]
+  },
+  "436": {
+    "title": "おじゃま虫",
+    "chart_difficulty": [
+      2.0,
+      7.3,
+      9.8,
+      12.3
+    ]
+  },
+  "437": {
+    "title": "Yet Another ”drizzly rain”",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      10.4,
+      12.6
+    ]
+  },
+  "438": {
+    "title": "四次元跳躍機関",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.8,
+      13.4
+    ]
+  },
+  "439": {
+    "title": "最終鬼畜妹・一部声",
+    "chart_difficulty": [
+      6.0,
+      8.3,
+      11.9,
+      13.9
+    ]
+  },
+  "440": {
+    "title": "はじめまして地球人さん",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      10.4,
+      13.0
+    ]
+  },
+  "441": {
+    "title": "Pursuing My True Self",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.7,
+      11.4
+    ]
+  },
+  "442": {
+    "title": "Signs Of Love (“Never More” ver.)",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.9,
+      11.7
+    ]
+  },
+  "443": {
+    "title": "specialist (“Never More” ver.)",
+    "chart_difficulty": [
+      4.0,
+      6.4,
+      9.2,
+      11.4
+    ]
+  },
+  "444": {
+    "title": "Time To Make History (AKIRA YAMAOKA Remix)",
+    "chart_difficulty": [
+      5.0,
+      7.4,
+      9.6,
+      12.5
+    ]
+  },
+  "446": {
+    "title": "GEMINI -M-",
+    "chart_difficulty": [
+      7.0,
+      7.8,
+      11.9,
+      13.9
+    ]
+  },
+  "447": {
+    "title": "+♂",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      10.6,
+      13.4
+    ]
+  },
+  "448": {
+    "title": "ありふれたせかいせいふく",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      9.9,
+      13.5
+    ]
+  },
+  "449": {
+    "title": "すろぉもぉしょん",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      9.7,
+      12.7
+    ]
+  },
+  "450": {
+    "title": "絵の上手かった友達",
+    "chart_difficulty": [
+      3.0,
+      6.4,
+      8.9,
+      12.4
+    ]
+  },
+  "451": {
+    "title": "頓珍漢の宴",
+    "chart_difficulty": [
+      5.0,
+      8.7,
+      11.7,
+      13.8
+    ]
+  },
+  "453": {
+    "title": "Garden Of The Dragon",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      11.9,
+      13.3
+    ]
+  },
+  "454": {
+    "title": "After Burner",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.8,
+      13.7
+    ]
+  },
+  "455": {
+    "title": "Counselor",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.7,
+      12.4
+    ]
+  },
+  "456": {
+    "title": "Glorious Crown",
+    "chart_difficulty": [
+      7.0,
+      10.5,
+      13.2,
+      14.8
+    ]
+  },
+  "457": {
+    "title": "言ノ葉遊戯",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.9,
+      12.7
+    ]
+  },
+  "458": {
+    "title": "りばーぶ",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.9,
+      11.4
+    ]
+  },
+  "459": {
+    "title": "幾四音-Ixion-",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      10.8,
+      13.3
+    ]
+  },
+  "460": {
+    "title": "閃鋼のブリューナク",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      11.8,
+      13.9
+    ]
+  },
+  "461": {
+    "title": "無敵We are one!!",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      10.1,
+      13.7
+    ]
+  },
+  "462": {
+    "title": "7thSense",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      11.8,
+      14.4
+    ]
+  },
+  "463": {
+    "title": "FEEL the BEATS",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      11.6,
+      13.6,
+      14.0
+    ]
+  },
+  "464": {
+    "title": "Revive The Rave",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.7,
+      13.8,
+      14.4
+    ]
+  },
+  "465": {
+    "title": "スリップフリップ",
+    "chart_difficulty": [
+      4.0,
+      8.3,
+      10.7,
+      13.8
+    ]
+  },
+  "466": {
+    "title": "Jimang Shot",
+    "chart_difficulty": [
+      6.0,
+      7.6,
+      10.6,
+      13.3
+    ]
+  },
+  "467": {
+    "title": "儚きもの人間",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      10.9,
+      13.9
+    ]
+  },
+  "468": {
+    "title": "ラブリー☆えんじぇる!!",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      10.1,
+      12.5
+    ]
+  },
+  "469": {
+    "title": "ひみつをちょーだい",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      7.7,
+      9.8
+    ]
+  },
+  "470": {
+    "title": "Touch Tap Baby",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      7.7,
+      10.5
+    ]
+  },
+  "471": {
+    "title": "オモイヨシノ",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.8,
+      13.3
+    ]
+  },
+  "472": {
+    "title": "アージェントシンメトリー",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      10.9,
+      13.5,
+      14.0
+    ]
+  },
+  "473": {
+    "title": "ゲラゲラポーのうた",
+    "chart_difficulty": [
+      3.0,
+      5.8,
+      7.4,
+      9.9
+    ]
+  },
+  "474": {
+    "title": "秘密の扉から会いにきて",
+    "chart_difficulty": [
+      4.0,
+      6.9,
+      8.5,
+      11.0
+    ]
+  },
+  "475": {
+    "title": "かくしん的☆めたまるふぉ～ぜっ！",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      8.8,
+      11.8,
+      12.7
+    ]
+  },
+  "476": {
+    "title": "極上スマイル",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      7.8,
+      10.8
+    ]
+  },
+  "477": {
+    "title": "厨病激発ボーイ",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      10.9,
+      13.8
+    ]
+  },
+  "479": {
+    "title": "Dragon Night",
+    "chart_difficulty": [
+      4.0,
+      5.8,
+      8.6,
+      10.2
+    ]
+  },
+  "480": {
+    "title": "HIMITSUスパーク",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      10.1,
+      13.2
+    ]
+  },
+  "481": {
+    "title": "でんでんぱっしょん",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      8.2,
+      11.2
+    ]
+  },
+  "482": {
+    "title": "Party 4U ”holy nite mix”",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.8,
+      13.7
+    ]
+  },
+  "483": {
+    "title": "囲い無き世は一期の月影",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      10.7,
+      12.6
+    ]
+  },
+  "484": {
+    "title": "Luminize",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      8.5,
+      10.1
+    ]
+  },
+  "485": {
+    "title": "Falling Roses",
+    "chart_difficulty": [
+      5.0,
+      7.7,
+      9.5,
+      12.3
+    ]
+  },
+  "486": {
+    "title": "青春はNon-Stop！",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      9.3,
+      11.7
+    ]
+  },
+  "487": {
+    "title": "ようかい体操第一",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      7.6,
+      8.7
+    ]
+  },
+  "488": {
+    "title": "Lividi",
+    "chart_difficulty": [
+      5.0,
+      9.6,
+      13.2,
+      14.0
+    ]
+  },
+  "490": {
+    "title": "Infantoon Fantasy",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      10.8,
+      13.8
+    ]
+  },
+  "491": {
+    "title": "ヘタリアン☆ジェット",
+    "chart_difficulty": [
+      4.0,
+      6.1,
+      8.2,
+      10.5
+    ]
+  },
+  "492": {
+    "title": "Jumble Rumble",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.9,
+      14.0
+    ]
+  },
+  "493": {
+    "title": "Imitation:Loud Lounge",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      12.8,
+      13.4
+    ]
+  },
+  "494": {
+    "title": "CITRUS MONSTER",
+    "chart_difficulty": [
+      7.0,
+      9.3,
+      12.9,
+      14.5
+    ]
+  },
+  "495": {
+    "title": "Hyper Active",
+    "chart_difficulty": [
+      6.0,
+      9.1,
+      13.2,
+      13.9
+    ]
+  },
+  "496": {
+    "title": "AMAZING MIGHTYYYY!!!!",
+    "chart_difficulty": [
+      7.7,
+      9.8,
+      13.6,
+      14.7,
+      14.5
+    ]
+  },
+  "497": {
+    "title": "fake!fake!",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.1,
+      13.0
+    ]
+  },
+  "498": {
+    "title": "夏にキスしていいですか？",
+    "chart_difficulty": [
+      5.0,
+      6.5,
+      7.7,
+      10.2
+    ]
+  },
+  "499": {
+    "title": "夏祭り",
+    "chart_difficulty": [
+      4.0,
+      6.2,
+      7.5,
+      11.1
+    ]
+  },
+  "500": {
+    "title": "シュガーソングとビターステップ",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      9.0,
+      12.9
+    ]
+  },
+  "501": {
+    "title": "Daydream café",
+    "chart_difficulty": [
+      4.0,
+      6.1,
+      8.4,
+      12.1
+    ]
+  },
+  "502": {
+    "title": "Scatman (Ski Ba Bop Ba Dop Bop)",
+    "chart_difficulty": [
+      4.0,
+      6.4,
+      10.2,
+      11.6
+    ]
+  },
+  "503": {
+    "title": "イチズレシピ",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      8.3,
+      10.7
+    ]
+  },
+  "504": {
+    "title": "ふ・れ・ん・ど・し・た・い",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      7.3,
+      10.3,
+      11.5
+    ]
+  },
+  "505": {
+    "title": "ちょちょちょ！ゆるゆり☆かぷりっちょ！！！",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.4,
+      11.4
+    ]
+  },
+  "506": {
+    "title": "セハガガガンバッちゃう！！",
+    "chart_difficulty": [
+      6.0,
+      8.1,
+      11.5,
+      13.3
+    ]
+  },
+  "507": {
+    "title": "キミノヨゾラ哨戒班",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.8,
+      12.9
+    ]
+  },
+  "508": {
+    "title": "恋愛裁判",
+    "chart_difficulty": [
+      4.0,
+      7.1,
+      10.0,
+      11.8
+    ]
+  },
+  "509": {
+    "title": "Just Be Friends",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.7,
+      12.8
+    ]
+  },
+  "510": {
+    "title": "ヒビカセ",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.6,
+      13.1
+    ]
+  },
+  "511": {
+    "title": "パーフェクト生命",
+    "chart_difficulty": [
+      6.0,
+      8.1,
+      10.1,
+      13.4
+    ]
+  },
+  "512": {
+    "title": "StargazeR",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      10.8,
+      12.7
+    ]
+  },
+  "513": {
+    "title": "だんだん早くなる",
+    "chart_difficulty": [
+      3.0,
+      8.3,
+      10.4,
+      11.9,
+      12.7
+    ]
+  },
+  "514": {
+    "title": "ヘルシーエンド",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.1,
+      13.0
+    ]
+  },
+  "515": {
+    "title": "クノイチでも恋がしたい",
+    "chart_difficulty": [
+      6.0,
+      7.9,
+      11.0,
+      13.4
+    ]
+  },
+  "516": {
+    "title": "ココロ",
+    "chart_difficulty": [
+      3.0,
+      7.3,
+      9.9,
+      12.5
+    ]
+  },
+  "517": {
+    "title": "東京リアルワールド",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      9.4,
+      10.8
+    ]
+  },
+  "518": {
+    "title": "やめろ！聴くな！",
+    "chart_difficulty": [
+      6.0,
+      7.9,
+      10.1,
+      13.3
+    ]
+  },
+  "519": {
+    "title": "ゆっくりしていってね！！！",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      11.7,
+      13.7
+    ]
+  },
+  "520": {
+    "title": "木彫り鯰と右肩ゾンビ",
+    "chart_difficulty": [
+      6.0,
+      8.1,
+      10.8,
+      13.7
+    ]
+  },
+  "521": {
+    "title": "ECHO",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      11.3,
+      13.5
+    ]
+  },
+  "522": {
+    "title": "Mr. Wonderland",
+    "chart_difficulty": [
+      5.0,
+      6.5,
+      9.1,
+      13.2
+    ]
+  },
+  "523": {
+    "title": "しんでしまうとはなさけない！",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      10.1,
+      12.9
+    ]
+  },
+  "524": {
+    "title": "Hand in Hand",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      10.6,
+      12.8
+    ]
+  },
+  "525": {
+    "title": "ブリキノダンス",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.9,
+      12.5,
+      13.4
+    ]
+  },
+  "526": {
+    "title": "brilliant better",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      11.7,
+      13.3
+    ]
+  },
+  "527": {
+    "title": "ハート・ビート",
+    "chart_difficulty": [
+      6.0,
+      8.3,
+      10.8,
+      13.4
+    ]
+  },
+  "528": {
+    "title": "Invitation",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      9.9,
+      13.1
+    ]
+  },
+  "529": {
+    "title": "connecting with you",
+    "chart_difficulty": [
+      4.0,
+      8.2,
+      10.8,
+      13.2
+    ]
+  },
+  "530": {
+    "title": "高気圧ねこロック",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      11.7,
+      13.8
+    ]
+  },
+  "531": {
+    "title": "Prophesy One",
+    "chart_difficulty": [
+      7.7,
+      9.3,
+      12.4,
+      14.6
+    ]
+  },
+  "532": {
+    "title": "洗脳",
+    "chart_difficulty": [
+      4.0,
+      7.1,
+      10.7,
+      12.4,
+      12.9
+    ]
+  },
+  "533": {
+    "title": "Barbed Eye",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      10.8,
+      13.0
+    ]
+  },
+  "534": {
+    "title": "Nitrous Fury",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      12.0,
+      14.0
+    ]
+  },
+  "535": {
+    "title": "色は匂へど散りぬるを",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      9.8,
+      12.5
+    ]
+  },
+  "536": {
+    "title": "月に叢雲華に風",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      10.0,
+      13.2
+    ]
+  },
+  "537": {
+    "title": "No Routine",
+    "chart_difficulty": [
+      6.0,
+      7.3,
+      11.0,
+      13.4
+    ]
+  },
+  "538": {
+    "title": "ひれ伏せ愚民どもっ！",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.7,
+      13.3
+    ]
+  },
+  "539": {
+    "title": "エテルニタス・ルドロジー",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      11.3,
+      13.7
+    ]
+  },
+  "540": {
+    "title": "泡沫、哀のまほろば",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.2,
+      12.5
+    ]
+  },
+  "541": {
+    "title": "華鳥風月",
+    "chart_difficulty": [
+      2.0,
+      6.6,
+      9.7,
+      12.8
+    ]
+  },
+  "542": {
+    "title": "METATRON",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.8,
+      14.0
+    ]
+  },
+  "543": {
+    "title": "終わりなき物語",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      10.9,
+      12.7
+    ]
+  },
+  "544": {
+    "title": "ゆりゆららららゆるゆり大事件",
+    "chart_difficulty": [
+      4.0,
+      6.4,
+      7.5,
+      10.7
+    ]
+  },
+  "546": {
+    "title": "フォルテシモBELL",
+    "chart_difficulty": [
+      3.0,
+      6.9,
+      9.5,
+      12.6
+    ]
+  },
+  "547": {
+    "title": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察",
+    "chart_difficulty": [
+      6.0,
+      7.5,
+      9.9,
+      13.4
+    ]
+  },
+  "548": {
+    "title": "DETARAME ROCK&ROLL THEORY",
+    "chart_difficulty": [
+      5.0,
+      8.4,
+      11.0,
+      13.8
+    ]
+  },
+  "550": {
+    "title": "PERFECT HUMAN",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      8.5,
+      11.2
+    ]
+  },
+  "551": {
+    "title": "ファッとして桃源郷",
+    "chart_difficulty": [
+      6.0,
+      6.5,
+      10.4,
+      13.3
+    ]
+  },
+  "552": {
+    "title": "ゴーストルール",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      10.9,
+      13.2
+    ]
+  },
+  "553": {
+    "title": "チュルリラ・チュルリラ・ダッダッダ！",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      11.0,
+      13.3
+    ]
+  },
+  "555": {
+    "title": "GOODMEN",
+    "chart_difficulty": [
+      6.0,
+      8.1,
+      11.7,
+      13.4
+    ]
+  },
+  "556": {
+    "title": "夜明けまであと３秒",
+    "chart_difficulty": [
+      6.0,
+      9.3,
+      13.1,
+      14.0
+    ]
+  },
+  "557": {
+    "title": "Last Brave ～ Go to zero",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.8,
+      13.8
+    ]
+  },
+  "558": {
+    "title": "STAIRWAY TO GENERATION",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      11.6,
+      13.7
+    ]
+  },
+  "559": {
+    "title": "空威張りビヘイビア",
+    "chart_difficulty": [
+      6.0,
+      8.1,
+      10.8,
+      13.7
+    ]
+  },
+  "560": {
+    "title": "回レ！雪月花",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      10.7,
+      13.3
+    ]
+  },
+  "561": {
+    "title": "いっしそう電☆舞舞神拳！",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.5,
+      13.7
+    ]
+  },
+  "562": {
+    "title": "いぇす！ゆゆゆ☆ゆるゆり♪♪",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.2,
+      11.2
+    ]
+  },
+  "564": {
+    "title": "ENJOY POLIS",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      10.7,
+      12.9
+    ]
+  },
+  "565": {
+    "title": "生きてるおばけは生きている",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      11.0,
+      13.3
+    ]
+  },
+  "566": {
+    "title": "天火明命",
+    "chart_difficulty": [
+      6.0,
+      9.7,
+      13.3,
+      13.9
+    ]
+  },
+  "567": {
+    "title": "HERA",
+    "chart_difficulty": [
+      6.0,
+      9.3,
+      12.9,
+      14.2
+    ]
+  },
+  "568": {
+    "title": "分からない",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      11.7,
+      14.0
+    ]
+  },
+  "571": {
+    "title": "Our Wrenally",
+    "chart_difficulty": [
+      6.0,
+      9.8,
+      13.0,
+      14.8
+    ]
+  },
+  "572": {
+    "title": "Scream out! -maimai SONIC WASHER Edit-",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      12.7,
+      14.0
+    ]
+  },
+  "573": {
+    "title": "四月の雨",
+    "chart_difficulty": [
+      3.0,
+      8.6,
+      12.5,
+      13.9
+    ]
+  },
+  "574": {
+    "title": "Selector",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.9,
+      13.7
+    ]
+  },
+  "575": {
+    "title": "Star☆Glitter",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.5,
+      11.3
+    ]
+  },
+  "576": {
+    "title": "H-A-J-I-M-A-R-I-U-T-A-!!",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      8.7,
+      11.7
+    ]
+  },
+  "578": {
+    "title": "ドキドキDREAM!!!",
+    "chart_difficulty": [
+      5.0,
+      8.7,
+      11.7,
+      13.2
+    ]
+  },
+  "579": {
+    "title": "ポップミュージックは僕のもの",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.9,
+      12.5
+    ]
+  },
+  "580": {
+    "title": "吉原ラメント",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      11.8,
+      13.7
+    ]
+  },
+  "581": {
+    "title": "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？",
+    "chart_difficulty": [
+      6.0,
+      9.3,
+      13.0,
+      14.5
+    ]
+  },
+  "582": {
+    "title": "幽闇に目醒めしは",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      11.2,
+      13.3
+    ]
+  },
+  "583": {
+    "title": "Starlight Vision",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      11.6,
+      12.7
+    ]
+  },
+  "584": {
+    "title": "Club Ibuki in Break All",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      11.2,
+      13.3
+    ]
+  },
+  "585": {
+    "title": "Phantasm Brigade",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      11.7,
+      13.4
+    ]
+  },
+  "586": {
+    "title": "永遠のメロディ",
+    "chart_difficulty": [
+      6.0,
+      7.3,
+      10.6,
+      12.5
+    ]
+  },
+  "587": {
+    "title": "白ゆき",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      11.7,
+      13.4
+    ]
+  },
+  "589": {
+    "title": "Panopticon",
+    "chart_difficulty": [
+      5.0,
+      9.5,
+      12.9,
+      14.2,
+      14.1
+    ]
+  },
+  "592": {
+    "title": "Sakura Fubuki",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      12.2,
+      13.9
+    ]
+  },
+  "593": {
+    "title": "conflict",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.7,
+      14.2
+    ]
+  },
+  "598": {
+    "title": "すーぱーぬこになりたい",
+    "chart_difficulty": [
+      6.0,
+      8.3,
+      10.8,
+      13.7
+    ]
+  },
+  "599": {
+    "title": "踊れオーケストラ",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      9.9,
+      12.0
+    ]
+  },
+  "600": {
+    "title": "SUSHI食べたい feat.ソイソース",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      8.8,
+      11.7
+    ]
+  },
+  "601": {
+    "title": "きらっせ☆ウッド村ファーム",
+    "chart_difficulty": [
+      6.0,
+      8.1,
+      10.1,
+      12.7
+    ]
+  },
+  "602": {
+    "title": "taboo tears you up",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      11.3,
+      13.4
+    ]
+  },
+  "603": {
+    "title": "その群青が愛しかったようだった",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.0,
+      12.7
+    ]
+  },
+  "604": {
+    "title": "Jumping!!",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      8.4,
+      10.7
+    ]
+  },
+  "605": {
+    "title": "7 Girls War",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      8.8,
+      10.2
+    ]
+  },
+  "606": {
+    "title": "The wheel to the right",
+    "chart_difficulty": [
+      7.0,
+      8.9,
+      13.3,
+      14.0
+    ]
+  },
+  "609": {
+    "title": "SAKURAスキップ",
+    "chart_difficulty": [
+      4.0,
+      6.2,
+      7.8,
+      10.9
+    ]
+  },
+  "610": {
+    "title": "リンカーネイション",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      11.3,
+      13.7
+    ]
+  },
+  "611": {
+    "title": "宿題が終わらないっ！",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      10.6,
+      12.9
+    ]
+  },
+  "612": {
+    "title": "GO BACK 2 YOUR RAVE",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.3,
+      14.0
+    ]
+  },
+  "613": {
+    "title": "天国と地獄 -言ノ葉リンネ-",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      11.7,
+      13.3
+    ]
+  },
+  "614": {
+    "title": "夢花火",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      11.5,
+      13.7
+    ]
+  },
+  "615": {
+    "title": "Paradisus-Paradoxum",
+    "chart_difficulty": [
+      5.0,
+      8.1,
+      10.8,
+      13.2
+    ]
+  },
+  "617": {
+    "title": "オトヒメモリー☆ウタゲーション",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.7,
+      12.9
+    ]
+  },
+  "618": {
+    "title": "ラブチーノ",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      9.9,
+      11.9
+    ]
+  },
+  "620": {
+    "title": "東京レトロ",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.8,
+      11.5
+    ]
+  },
+  "621": {
+    "title": "ARROW",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      12.1,
+      13.3
+    ]
+  },
+  "622": {
+    "title": "バッド・ダンス・ホール",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      11.6,
+      13.4
+    ]
+  },
+  "624": {
+    "title": "KISS CANDY FLAVOR",
+    "chart_difficulty": [
+      4.0,
+      8.3,
+      11.3,
+      13.4
+    ]
+  },
+  "625": {
+    "title": "Maxi",
+    "chart_difficulty": [
+      6.0,
+      9.3,
+      12.8,
+      14.0
+    ]
+  },
+  "626": {
+    "title": "相思創愛",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.4,
+      13.5
+    ]
+  },
+  "627": {
+    "title": "心象蜃気楼",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.0,
+      13.4
+    ]
+  },
+  "628": {
+    "title": "光線チューニング",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      11.7,
+      13.7
+    ]
+  },
+  "629": {
+    "title": "Limit Break",
+    "chart_difficulty": [
+      6.0,
+      8.3,
+      11.5,
+      13.4,
+      13.8
+    ]
+  },
+  "630": {
+    "title": "曖昧mind",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      11.8,
+      13.4
+    ]
+  },
+  "631": {
+    "title": "KING is BACK!!",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      11.9,
+      14.0
+    ]
+  },
+  "632": {
+    "title": "Ultranova",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      12.9,
+      14.0
+    ]
+  },
+  "634": {
+    "title": "GET!! 夢&DREAM",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      9.8,
+      12.5
+    ]
+  },
+  "636": {
+    "title": "日本の米は世界一",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.7,
+      13.3
+    ]
+  },
+  "637": {
+    "title": "ないせんのうた",
+    "chart_difficulty": [
+      5.0,
+      6.8,
+      10.8,
+      12.7
+    ]
+  },
+  "639": {
+    "title": "Starlight Dance Floor",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      10.2,
+      12.5
+    ]
+  },
+  "640": {
+    "title": "妖精村の月誕祭 ～Lunate Elf",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      10.5,
+      13.3
+    ]
+  },
+  "641": {
+    "title": "Calamity Fortune",
+    "chart_difficulty": [
+      7.0,
+      9.3,
+      12.9,
+      14.2
+    ]
+  },
+  "642": {
+    "title": "Justified",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      12.9,
+      13.9
+    ]
+  },
+  "643": {
+    "title": "Excalibur ～Revived resolution～",
+    "chart_difficulty": [
+      5.0,
+      10.3,
+      13.0,
+      14.8
+    ]
+  },
+  "645": {
+    "title": "ホシトハナ",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      9.2,
+      11.0
+    ]
+  },
+  "646": {
+    "title": "名探偵連続殺人事件",
+    "chart_difficulty": [
+      5.0,
+      6.8,
+      11.1,
+      12.5
+    ]
+  },
+  "647": {
+    "title": "エイリアンエイリアン",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      10.0,
+      12.8
+    ]
+  },
+  "648": {
+    "title": "My Dearest Song",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      11.8,
+      13.3
+    ]
+  },
+  "649": {
+    "title": "猛進ソリストライフ！",
+    "chart_difficulty": [
+      7.0,
+      9.5,
+      12.6,
+      13.7
+    ]
+  },
+  "650": {
+    "title": "Let's Go Away",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.9,
+      12.8
+    ]
+  },
+  "653": {
+    "title": "Now Loading!!!!",
+    "chart_difficulty": [
+      4.0,
+      7.4,
+      8.8,
+      11.2
+    ]
+  },
+  "654": {
+    "title": "真・ハンサム体操でズンドコホイ",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      10.2,
+      13.4
+    ]
+  },
+  "655": {
+    "title": "フラジール",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      9.8,
+      12.8
+    ]
+  },
+  "656": {
+    "title": "未来(ソラ)の歌",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      8.6,
+      11.4
+    ]
+  },
+  "657": {
+    "title": "オーディエンスを沸かす程度の能力 feat.タイツォン",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      10.6,
+      13.7
+    ]
+  },
+  "658": {
+    "title": "人里に下ったアタイがいつの間にか社畜になっていた件",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      13.2,
+      14.0
+    ]
+  },
+  "659": {
+    "title": "ギリギリ最強あいまいみー！",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      10.9,
+      13.7
+    ]
+  },
+  "661": {
+    "title": "CALL HEAVEN!!",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      9.2,
+      10.8
+    ]
+  },
+  "662": {
+    "title": "Sunshine world tour",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      8.8,
+      11.0
+    ]
+  },
+  "663": {
+    "title": "ちがう!!!",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      10.9,
+      13.4
+    ]
+  },
+  "664": {
+    "title": "Moon of Noon",
+    "chart_difficulty": [
+      7.0,
+      9.0,
+      13.1,
+      14.4
+    ]
+  },
+  "665": {
+    "title": "チルノのパーフェクトさんすう教室　⑨周年バージョン",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.8,
+      13.4
+    ]
+  },
+  "666": {
+    "title": "デスパレイト",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      11.9,
+      13.9
+    ]
+  },
+  "668": {
+    "title": "ようこそジャパリパークへ",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      9.9,
+      12.5,
+      12.9
+    ]
+  },
+  "669": {
+    "title": "あ・え・い・う・え・お・あお!!",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      10.8,
+      12.9
+    ]
+  },
+  "670": {
+    "title": "ドーナツホール",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      11.9,
+      13.7
+    ]
+  },
+  "672": {
+    "title": "MilK",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      12.5,
+      13.8
+    ]
+  },
+  "673": {
+    "title": "咲キ誇レ常世ノ華",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.8,
+      13.5
+    ]
+  },
+  "674": {
+    "title": "Magical Flavor",
+    "chart_difficulty": [
+      3.0,
+      8.3,
+      10.6,
+      13.3
+    ]
+  },
+  "675": {
+    "title": "白い雪のプリンセスは",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      11.7,
+      12.9
+    ]
+  },
+  "676": {
+    "title": "好き！雪！本気マジック",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      11.0,
+      12.5
+    ]
+  },
+  "677": {
+    "title": "スターナイトスノウ",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      10.5,
+      11.5
+    ]
+  },
+  "678": {
+    "title": "This game",
+    "chart_difficulty": [
+      4.0,
+      7.4,
+      11.7,
+      13.3
+    ]
+  },
+  "679": {
+    "title": "Los! Los! Los!",
+    "chart_difficulty": [
+      4.0,
+      8.2,
+      11.3,
+      12.6
+    ]
+  },
+  "680": {
+    "title": "Candy Tall Woman",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      11.8,
+      13.8
+    ]
+  },
+  "681": {
+    "title": "Signature",
+    "chart_difficulty": [
+      4.0,
+      8.6,
+      12.4,
+      13.6
+    ]
+  },
+  "682": {
+    "title": "人生リセットボタン",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.9,
+      13.8
+    ]
+  },
+  "683": {
+    "title": "しねばいいのに",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.2,
+      13.0
+    ]
+  },
+  "684": {
+    "title": "もうみんなしねばいいのに",
+    "chart_difficulty": [
+      5.0,
+      8.1,
+      12.7,
+      14.0
+    ]
+  },
+  "687": {
+    "title": "共感覚おばけ",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      10.9,
+      13.2
+    ]
+  },
+  "688": {
+    "title": "麒麟",
+    "chart_difficulty": [
+      7.0,
+      9.5,
+      13.0,
+      14.1
+    ]
+  },
+  "689": {
+    "title": "Credits",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      13.3,
+      14.5
+    ]
+  },
+  "690": {
+    "title": "ダンスロボットダンス",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      11.6,
+      13.3
+    ]
+  },
+  "691": {
+    "title": "アルカリレットウセイ",
+    "chart_difficulty": [
+      6.0,
+      7.3,
+      10.8,
+      12.7
+    ]
+  },
+  "692": {
+    "title": "ドクハク",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      10.6,
+      13.4
+    ]
+  },
+  "693": {
+    "title": "キレキャリオン",
+    "chart_difficulty": [
+      6.0,
+      7.0,
+      10.4,
+      13.1
+    ]
+  },
+  "694": {
+    "title": "猫祭り",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      11.8,
+      13.4
+    ]
+  },
+  "695": {
+    "title": "TRUST",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      11.4,
+      13.1
+    ]
+  },
+  "696": {
+    "title": "Still",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      11.2,
+      13.4
+    ]
+  },
+  "697": {
+    "title": "ガヴリールドロップキック",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      9.8,
+      12.7
+    ]
+  },
+  "698": {
+    "title": "fantastic dreamer",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      10.2,
+      12.5
+    ]
+  },
+  "699": {
+    "title": "天狗の落とし文 feat. ｙｔｒ",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      11.8,
+      12.8
+    ]
+  },
+  "700": {
+    "title": "疾走あんさんぶる",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.7,
+      13.7
+    ]
+  },
+  "701": {
+    "title": "Doll Judgment",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      12.1,
+      13.8
+    ]
+  },
+  "702": {
+    "title": "WARNING×WARNING×WARNING",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      10.8,
+      12.6
+    ]
+  },
+  "704": {
+    "title": "SPILL OVER COLORS",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      11.8,
+      13.3,
+      13.4
+    ]
+  },
+  "705": {
+    "title": "Mare Maris",
+    "chart_difficulty": [
+      5.0,
+      9.3,
+      12.5,
+      13.8
+    ]
+  },
+  "706": {
+    "title": "シャルル",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      9.8,
+      12.8
+    ]
+  },
+  "707": {
+    "title": "フリィダム ロリィタ",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      10.0,
+      12.6
+    ]
+  },
+  "708": {
+    "title": "バレリーコ",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      10.7,
+      12.6
+    ]
+  },
+  "709": {
+    "title": "アウターサイエンス",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.7,
+      13.3
+    ]
+  },
+  "710": {
+    "title": "REVIVER オルタンシア・サーガ -蒼の騎士団- オリジナルVer.",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      10.9,
+      13.7
+    ]
+  },
+  "711": {
+    "title": "拝啓ドッペルゲンガー",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.6,
+      13.8
+    ]
+  },
+  "712": {
+    "title": "ミラクル・ショッピング",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      10.8,
+      12.7
+    ]
+  },
+  "713": {
+    "title": "Kinda Way",
+    "chart_difficulty": [
+      4.0,
+      8.6,
+      11.8,
+      12.9
+    ]
+  },
+  "717": {
+    "title": "ラブって♡ジュエリー♪えんじぇる☆ブレイク！！",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      11.8,
+      13.2
+    ]
+  },
+  "718": {
+    "title": "ヤバい○○",
+    "chart_difficulty": [
+      4.0,
+      6.4,
+      9.0,
+      11.7
+    ]
+  },
+  "719": {
+    "title": "エンドマークに希望と涙を添えて",
+    "chart_difficulty": [
+      6.0,
+      9.6,
+      12.7,
+      14.3
+    ]
+  },
+  "720": {
+    "title": "ナンセンス文学",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.7,
+      13.4
+    ]
+  },
+  "721": {
+    "title": "Bang Babang Bang!!!",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      11.6,
+      13.2
+    ]
+  },
+  "722": {
+    "title": "Tic Tac DREAMIN’",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      9.3,
+      12.1
+    ]
+  },
+  "723": {
+    "title": "SPICY SWINGY STYLE",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      11.8,
+      13.4
+    ]
+  },
+  "725": {
+    "title": "砂の惑星 feat. HATSUNE MIKU",
+    "chart_difficulty": [
+      2.0,
+      7.6,
+      10.7,
+      13.3
+    ]
+  },
+  "726": {
+    "title": "アンノウン・マザーグース",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      11.1,
+      13.3
+    ]
+  },
+  "728": {
+    "title": "POP TEAM EPIC",
+    "chart_difficulty": [
+      4.0,
+      6.4,
+      9.2,
+      11.2,
+      13.7
+    ]
+  },
+  "729": {
+    "title": "にめんせい☆ウラオモテライフ！",
+    "chart_difficulty": [
+      4.0,
+      6.7,
+      9.6,
+      10.8,
+      11.7
+    ]
+  },
+  "730": {
+    "title": "うまるん体操",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      8.8,
+      10.8,
+      12.2
+    ]
+  },
+  "731": {
+    "title": "妄想感傷代償連盟",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.8,
+      11.4,
+      13.2
+    ]
+  },
+  "732": {
+    "title": "LOVE EAST",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      10.8,
+      12.8
+    ]
+  },
+  "733": {
+    "title": "Fist Bump",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      11.4,
+      13.0
+    ]
+  },
+  "734": {
+    "title": "ENERGY SYNERGY MATRIX",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      13.0,
+      13.9
+    ]
+  },
+  "735": {
+    "title": "Session High⤴",
+    "chart_difficulty": [
+      6.0,
+      7.6,
+      10.6,
+      12.8
+    ]
+  },
+  "736": {
+    "title": "World Vanquisher",
+    "chart_difficulty": [
+      6.0,
+      9.6,
+      12.8,
+      14.3
+    ]
+  },
+  "737": {
+    "title": "FestivaLight",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      10.6,
+      13.4
+    ]
+  },
+  "738": {
+    "title": "Brain Power",
+    "chart_difficulty": [
+      5.0,
+      8.7,
+      11.8,
+      13.4
+    ]
+  },
+  "739": {
+    "title": "進め！イッスン軍団 -Rebellion of the Dwarfs-",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      11.3,
+      13.7
+    ]
+  },
+  "740": {
+    "title": "ULTRA B+K",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.9,
+      13.9
+    ]
+  },
+  "741": {
+    "title": "インビジブル",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      11.5,
+      12.3,
+      13.7
+    ]
+  },
+  "742": {
+    "title": "彗星ハネムーン",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      10.5,
+      12.5
+    ]
+  },
+  "743": {
+    "title": "アンチクロックワイズ",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      10.5,
+      11.7,
+      13.3
+    ]
+  },
+  "744": {
+    "title": "全力☆Summer!",
+    "chart_difficulty": [
+      4.0,
+      6.7,
+      9.4,
+      10.8,
+      12.0
+    ]
+  },
+  "745": {
+    "title": "keep hopping",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      12.5,
+      14.0
+    ]
+  },
+  "746": {
+    "title": "larva",
+    "chart_difficulty": [
+      7.0,
+      9.3,
+      12.9,
+      14.8
+    ]
+  },
+  "747": {
+    "title": "えれくとりっく・えんじぇぅ",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      10.3,
+      11.6
+    ]
+  },
+  "748": {
+    "title": "ミラクルペイント",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      10.9,
+      13.2
+    ]
+  },
+  "749": {
+    "title": "Ievan Polkka",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      11.2,
+      13.1
+    ]
+  },
+  "750": {
+    "title": "初音ミクの激唱",
+    "chart_difficulty": [
+      7.0,
+      8.8,
+      12.4,
+      14.4
+    ]
+  },
+  "751": {
+    "title": "ガチャガチャきゅ～と・ふぃぎゅ@メイト",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      11.4,
+      13.2
+    ]
+  },
+  "752": {
+    "title": "true my heart -Lovable mix-",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.3,
+      12.5
+    ]
+  },
+  "753": {
+    "title": "Rodeo Machine",
+    "chart_difficulty": [
+      3.0,
+      7.3,
+      11.1,
+      13.7
+    ]
+  },
+  "754": {
+    "title": "Arrival of Tears",
+    "chart_difficulty": [
+      4.0,
+      6.2,
+      9.8,
+      12.7
+    ]
+  },
+  "756": {
+    "title": "CYBER Sparks",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.8,
+      12.5,
+      13.7
+    ]
+  },
+  "757": {
+    "title": "Xevel",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.9,
+      14.3
+    ]
+  },
+  "758": {
+    "title": "INFINITE WORLD",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      10.8,
+      12.6
+    ]
+  },
+  "759": {
+    "title": "サドマミホリック",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.6,
+      12.5,
+      13.3
+    ]
+  },
+  "760": {
+    "title": "Ragnarok",
+    "chart_difficulty": [
+      7.0,
+      9.3,
+      12.7,
+      14.1
+    ]
+  },
+  "761": {
+    "title": "このふざけた素晴らしき世界は、僕の為にある",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      10.9,
+      12.8
+    ]
+  },
+  "762": {
+    "title": "このピアノでお前を8759632145回ぶん殴る",
+    "chart_difficulty": [
+      4.0,
+      8.3,
+      11.2,
+      13.4
+    ]
+  },
+  "763": {
+    "title": "はやくそれになりたい！",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      10.8,
+      11.8,
+      13.2
+    ]
+  },
+  "764": {
+    "title": "フィクサー",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      10.3,
+      13.4
+    ]
+  },
+  "765": {
+    "title": "みんなの",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      10.0,
+      12.5
+    ]
+  },
+  "766": {
+    "title": "アマノジャクリバース feat. ｙｔｒ",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.4,
+      13.9
+    ]
+  },
+  "767": {
+    "title": "進捗どうですか？",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.0,
+      13.7
+    ]
+  },
+  "768": {
+    "title": "Help me, あーりん！",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.7,
+      12.6
+    ]
+  },
+  "769": {
+    "title": "なるとなぎのパーフェクトロックンロール教室",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      11.1,
+      13.7
+    ]
+  },
+  "770": {
+    "title": "あねぺったん",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      10.8,
+      13.3
+    ]
+  },
+  "771": {
+    "title": "We Gonna Journey",
+    "chart_difficulty": [
+      7.0,
+      9.1,
+      12.7,
+      13.9
+    ]
+  },
+  "772": {
+    "title": "FREEDOM DiVE (tpz Overcute Remix)",
+    "chart_difficulty": [
+      7.0,
+      9.5,
+      12.8,
+      14.0
+    ]
+  },
+  "773": {
+    "title": "SILENT BLUE",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.8,
+      14.8
+    ]
+  },
+  "774": {
+    "title": "甲賀忍法帖",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      9.8,
+      11.3,
+      12.7
+    ]
+  },
+  "775": {
+    "title": "ジンギスカン",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      10.5,
+      13.3
+    ]
+  },
+  "776": {
+    "title": "にじよめちゃん体操第一億",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.4,
+      13.7
+    ]
+  },
+  "777": {
+    "title": "花と、雪と、ドラムンベース。",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.7,
+      14.3,
+      13.8
+    ]
+  },
+  "778": {
+    "title": "Conquista Ciela",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      9.8,
+      12.7
+    ]
+  },
+  "779": {
+    "title": "怒槌",
+    "chart_difficulty": [
+      7.0,
+      9.6,
+      13.3,
+      14.8
+    ]
+  },
+  "781": {
+    "title": "Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      10.7,
+      13.3
+    ]
+  },
+  "782": {
+    "title": "おねがいダーリン",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      11.3,
+      12.8
+    ]
+  },
+  "786": {
+    "title": "My First Phone",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      12.7,
+      13.8
+    ]
+  },
+  "787": {
+    "title": "SHINY DAYS",
+    "chart_difficulty": [
+      3.0,
+      6.6,
+      8.9,
+      12.6
+    ]
+  },
+  "788": {
+    "title": "NOISY LOVE POWER☆",
+    "chart_difficulty": [
+      4.0,
+      6.2,
+      10.1,
+      10.9,
+      12.8
+    ]
+  },
+  "789": {
+    "title": "ネ！コ！",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.6,
+      13.0
+    ]
+  },
+  "790": {
+    "title": "only my railgun",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.5,
+      11.3,
+      12.6
+    ]
+  },
+  "791": {
+    "title": "ロールプレイングゲーム",
+    "chart_difficulty": [
+      5.0,
+      7.6,
+      10.6,
+      12.6
+    ]
+  },
+  "792": {
+    "title": "ヒバナ",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      11.1,
+      11.8,
+      13.2
+    ]
+  },
+  "793": {
+    "title": "ロキ",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      10.9,
+      11.8,
+      13.3
+    ]
+  },
+  "794": {
+    "title": "Money Money",
+    "chart_difficulty": [
+      4.0,
+      7.3,
+      10.8,
+      13.2
+    ]
+  },
+  "796": {
+    "title": "極圏",
+    "chart_difficulty": [
+      6.0,
+      9.5,
+      12.9,
+      14.4
+    ]
+  },
+  "797": {
+    "title": "Scarlet Lance",
+    "chart_difficulty": [
+      6.0,
+      9.3,
+      12.9,
+      14.2
+    ]
+  },
+  "798": {
+    "title": "セイクリッド　ルイン",
+    "chart_difficulty": [
+      7.0,
+      9.6,
+      12.6,
+      13.9
+    ]
+  },
+  "799": {
+    "title": "QZKago Requiem",
+    "chart_difficulty": [
+      7.0,
+      10.7,
+      13.0,
+      14.8,
+      14.9
+    ]
+  },
+  "800": {
+    "title": "EVERGREEN",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.9,
+      13.5
+    ]
+  },
+  "801": {
+    "title": "金の聖夜霜雪に朽ちて",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.7,
+      13.4
+    ]
+  },
+  "802": {
+    "title": "不思議の国のクリスマス",
+    "chart_difficulty": [
+      4.0,
+      6.6,
+      9.8,
+      13.3
+    ]
+  },
+  "803": {
+    "title": "Schwarzschild",
+    "chart_difficulty": [
+      7.0,
+      9.7,
+      12.9,
+      14.0,
+      14.9
+    ]
+  },
+  "804": {
+    "title": "Magical Sound Shower",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      10.9,
+      13.5
+    ]
+  },
+  "805": {
+    "title": "片想いサンバ",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      11.7,
+      13.2
+    ]
+  },
+  "806": {
+    "title": "ナイトメア☆パーティーナイト",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      11.0,
+      11.9,
+      12.7
+    ]
+  },
+  "807": {
+    "title": "フキゲンワルツ",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.4,
+      13.2
+    ]
+  },
+  "809": {
+    "title": "結ンデ開イテ羅刹ト骸",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.1,
+      12.0,
+      13.3
+    ]
+  },
+  "810": {
+    "title": "サウンド",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      9.5,
+      12.5
+    ]
+  },
+  "811": {
+    "title": "右肩の蝶",
+    "chart_difficulty": [
+      5.0,
+      7.3,
+      11.4,
+      13.1
+    ]
+  },
+  "812": {
+    "title": "Alea jacta est!",
+    "chart_difficulty": [
+      7.0,
+      9.6,
+      12.9,
+      14.4,
+      14.8
+    ]
+  },
+  "815": {
+    "title": "L4TS:2018 (feat. あひる & KTA)",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.9,
+      13.3
+    ]
+  },
+  "816": {
+    "title": "クレイジークレイジーダンサーズ",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      10.8,
+      11.8,
+      13.3
+    ]
+  },
+  "817": {
+    "title": "【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】",
+    "chart_difficulty": [
+      5.0,
+      8.3,
+      11.8,
+      13.4
+    ]
+  },
+  "818": {
+    "title": "隠然",
+    "chart_difficulty": [
+      6.0,
+      8.6,
+      11.5,
+      12.5,
+      13.4
+    ]
+  },
+  "819": {
+    "title": "White Traveling Girl",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      10.7,
+      13.4
+    ]
+  },
+  "820": {
+    "title": "FFT",
+    "chart_difficulty": [
+      7.0,
+      9.5,
+      12.7,
+      14.0,
+      14.5
+    ]
+  },
+  "821": {
+    "title": "-OutsideR:RequieM-",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.4,
+      13.7
+    ]
+  },
+  "822": {
+    "title": "イロトリドリのメロディ",
+    "chart_difficulty": [
+      3.0,
+      7.3,
+      10.9,
+      12.7
+    ]
+  },
+  "823": {
+    "title": "奏者はただ背中と提琴で語るのみ",
+    "chart_difficulty": [
+      7.0,
+      9.2,
+      12.3,
+      13.8
+    ]
+  },
+  "824": {
+    "title": "Deep in Abyss",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      9.0,
+      12.3
+    ]
+  },
+  "825": {
+    "title": "雷切-RAIKIRI-",
+    "chart_difficulty": [
+      7.0,
+      9.3,
+      12.8,
+      14.6,
+      14.8
+    ]
+  },
+  "826": {
+    "title": "キミとボクのミライ",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.5,
+      11.2,
+      12.7
+    ]
+  },
+  "827": {
+    "title": "Lost Princess",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      10.5,
+      11.3,
+      12.5
+    ]
+  },
+  "828": {
+    "title": "アリサのテーマ",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      10.3,
+      13.5
+    ]
+  },
+  "829": {
+    "title": "敗北の少年",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      11.8,
+      13.4
+    ]
+  },
+  "830": {
+    "title": "立ち入り禁止",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      11.7,
+      12.0,
+      13.8
+    ]
+  },
+  "831": {
+    "title": "お気に召すまま",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.4,
+      11.5,
+      13.0
+    ]
+  },
+  "832": {
+    "title": "命ばっかり",
+    "chart_difficulty": [
+      4.0,
+      7.6,
+      10.0,
+      12.7
+    ]
+  },
+  "833": {
+    "title": "the EmpErroR",
+    "chart_difficulty": [
+      5.0,
+      10.5,
+      13.4,
+      14.8,
+      14.9
+    ]
+  },
+  "834": {
+    "title": "PANDORA PARADOXXX",
+    "chart_difficulty": [
+      7.7,
+      11.5,
+      13.9,
+      14.9,
+      15.0
+    ]
+  },
+  "835": {
+    "title": "Believe the Rainbow",
+    "chart_difficulty": [
+      4.0,
+      8.6,
+      10.2,
+      13.4
+    ]
+  },
+  "836": {
+    "title": "Good Bye, Mr. Jack",
+    "chart_difficulty": [
+      4.0,
+      9.0,
+      12.9,
+      13.9
+    ]
+  },
+  "837": {
+    "title": "Altale",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      12.4,
+      13.7
+    ]
+  },
+  "838": {
+    "title": "最終鬼畜妹フランドール・S",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.5,
+      12.1,
+      13.7
+    ]
+  },
+  "839": {
+    "title": "ネクロファンタジア～Arr.Demetori",
+    "chart_difficulty": [
+      4.0,
+      8.3,
+      11.8,
+      13.8
+    ]
+  },
+  "840": {
+    "title": "Imperishable Night 2006 (2016 Refine)",
+    "chart_difficulty": [
+      5.0,
+      8.6,
+      12.3,
+      13.9
+    ]
+  },
+  "841": {
+    "title": "終点",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      12.4,
+      13.8
+    ]
+  },
+  "842": {
+    "title": "WORLD'S END UMBRELLA",
+    "chart_difficulty": [
+      4.0,
+      8.3,
+      10.3,
+      12.5
+    ]
+  },
+  "843": {
+    "title": "ワンダーラスト",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.8,
+      13.8
+    ]
+  },
+  "844": {
+    "title": "End Time",
+    "chart_difficulty": [
+      5.0,
+      9.3,
+      12.8,
+      14.7
+    ]
+  },
+  "847": {
+    "title": "カラフル×メロディ",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.4,
+      12.6
+    ]
+  },
+  "848": {
+    "title": "魔法少女になるしかねぇ",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.4,
+      14.0
+    ]
+  },
+  "849": {
+    "title": "Kattobi KEIKYU Rider",
+    "chart_difficulty": [
+      7.0,
+      9.3,
+      13.2,
+      13.7
+    ]
+  },
+  "850": {
+    "title": "B.M.S.",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.6,
+      14.2
+    ]
+  },
+  "852": {
+    "title": "TiamaT:F minor",
+    "chart_difficulty": [
+      7.0,
+      10.3,
+      13.1,
+      14.6
+    ]
+  },
+  "853": {
+    "title": "前前前世",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.0,
+      12.9
+    ]
+  },
+  "1020": {
+    "title": "Technicians High",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.0,
+      13.8
+    ]
+  },
+  "1051": {
+    "title": "Destr0yer",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      12.0,
+      14.2
+    ]
+  },
+  "1081": {
+    "title": "サンバランド",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      11.0,
+      13.2
+    ]
+  },
+  "1085": {
+    "title": "Halcyon",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.5,
+      14.3
+    ]
+  },
+  "1103": {
+    "title": "渦状銀河のシンフォニエッタ",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      12.7,
+      14.3
+    ]
+  },
+  "1235": {
+    "title": "VIIIbit Explorer",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      12.9,
+      14.5
+    ]
+  },
+  "10021": {
+    "title": "コネクト",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      8.8,
+      11.3,
+      12.8
+    ]
+  },
+  "10044": {
+    "title": "ハッピーシンセサイザ",
+    "chart_difficulty": [
+      12.8
+    ]
+  },
+  "10070": {
+    "title": "ジングルベル",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.8,
+      14.7
+    ]
+  },
+  "10125": {
+    "title": "千本桜",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      9.3,
+      12.5
+    ]
+  },
+  "10145": {
+    "title": "Starlight Disco",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      11.9,
+      13.1
+    ]
+  },
+  "10146": {
+    "title": "39",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      9.3,
+      12.8
+    ]
+  },
+  "10181": {
+    "title": "君の知らない物語",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      8.2,
+      12.0
+    ]
+  },
+  "10185": {
+    "title": "＊ハロー、プラネット。",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      9.0,
+      12.8
+    ]
+  },
+  "10188": {
+    "title": "天ノ弱",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      10.0,
+      12.8
+    ]
+  },
+  "10190": {
+    "title": "モザイクロール",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.2,
+      13.1
+    ]
+  },
+  "10191": {
+    "title": "脳漿炸裂ガール",
+    "chart_difficulty": [
+      4.0,
+      6.0,
+      11.3,
+      12.9
+    ]
+  },
+  "10193": {
+    "title": "セツナトリップ",
+    "chart_difficulty": [
+      2.0,
+      7.8,
+      10.8,
+      13.4
+    ]
+  },
+  "10202": {
+    "title": "Grip & Break down !!",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      9.5,
+      13.5
+    ]
+  },
+  "10204": {
+    "title": "ナイト・オブ・ナイツ",
+    "chart_difficulty": [
+      5.0,
+      7.7,
+      11.8,
+      13.5
+    ]
+  },
+  "10235": {
+    "title": "火炎地獄",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      12.5,
+      14.0
+    ]
+  },
+  "10242": {
+    "title": "ナミダと流星",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      11.0,
+      13.3
+    ]
+  },
+  "10251": {
+    "title": "Monochrome Rainbow",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      11.2,
+      13.3
+    ]
+  },
+  "10256": {
+    "title": "いーあるふぁんくらぶ",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      8.2,
+      11.2
+    ]
+  },
+  "10288": {
+    "title": "六兆年と一夜物語",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      9.4,
+      13.7
+    ]
+  },
+  "10301": {
+    "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      11.0,
+      13.5
+    ]
+  },
+  "10302": {
+    "title": "ケロ⑨destiny",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.2,
+      13.4
+    ]
+  },
+  "10315": {
+    "title": "深海少女",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.5,
+      13.0
+    ]
+  },
+  "10316": {
+    "title": "M.S.S.Planet",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.7,
+      12.9
+    ]
+  },
+  "10319": {
+    "title": "幻想のサテライト",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.4,
+      13.6
+    ]
+  },
+  "10363": {
+    "title": "Oshama Scramble!",
+    "chart_difficulty": [
+      4.0,
+      8.7,
+      11.4,
+      13.7
+    ]
+  },
+  "10366": {
+    "title": "oboro",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.0,
+      13.7
+    ]
+  },
+  "10404": {
+    "title": "響縁",
+    "chart_difficulty": [
+      2.0,
+      7.2,
+      10.5,
+      13.4
+    ]
+  },
+  "10411": {
+    "title": "初音ミクの消失",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      12.0,
+      14.5
+    ]
+  },
+  "10420": {
+    "title": "Change Our MIRAI！",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.8,
+      12.6
+    ]
+  },
+  "10475": {
+    "title": "かくしん的☆めたまるふぉ～ぜっ！",
+    "chart_difficulty": [
+      4.0,
+      6.7,
+      9.0,
+      12.3
+    ]
+  },
+  "10500": {
+    "title": "シュガーソングとビターステップ",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      9.3,
+      11.9
+    ]
+  },
+  "10501": {
+    "title": "Daydream café",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      8.5,
+      11.8
+    ]
+  },
+  "10535": {
+    "title": "色は匂へど散りぬるを",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.0,
+      12.7
+    ]
+  },
+  "10536": {
+    "title": "月に叢雲華に風",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      9.4,
+      12.6
+    ]
+  },
+  "10552": {
+    "title": "ゴーストルール",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      9.8,
+      12.9
+    ]
+  },
+  "10560": {
+    "title": "回レ！雪月花",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.0,
+      12.5
+    ]
+  },
+  "10572": {
+    "title": "Scream out! -maimai SONIC WASHER Edit-",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      11.2,
+      13.6
+    ]
+  },
+  "10574": {
+    "title": "Selector",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      11.0,
+      13.9
+    ]
+  },
+  "10593": {
+    "title": "conflict",
+    "chart_difficulty": [
+      3.0,
+      8.2,
+      11.4,
+      13.5
+    ]
+  },
+  "10602": {
+    "title": "taboo tears you up",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      10.8,
+      13.9
+    ]
+  },
+  "10615": {
+    "title": "Paradisus-Paradoxum",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      9.8,
+      12.8
+    ]
+  },
+  "10625": {
+    "title": "Maxi",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.9,
+      13.8
+    ]
+  },
+  "10641": {
+    "title": "Calamity Fortune",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      11.4,
+      13.5
+    ]
+  },
+  "10665": {
+    "title": "チルノのパーフェクトさんすう教室　⑨周年バージョン",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.4,
+      12.8
+    ]
+  },
+  "10668": {
+    "title": "ようこそジャパリパークへ",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.2,
+      11.8
+    ]
+  },
+  "10690": {
+    "title": "ダンスロボットダンス",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      9.2,
+      12.7
+    ]
+  },
+  "10702": {
+    "title": "WARNING×WARNING×WARNING",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      9.8,
+      11.9
+    ]
+  },
+  "10706": {
+    "title": "シャルル",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      9.2,
+      11.2
+    ]
+  },
+  "10728": {
+    "title": "POP TEAM EPIC",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.2,
+      12.8
+    ]
+  },
+  "10734": {
+    "title": "ENERGY SYNERGY MATRIX",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      11.4,
+      13.5
+    ]
+  },
+  "11001": {
+    "title": "BLACK ROSE",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.7,
+      12.2
+    ]
+  },
+  "11002": {
+    "title": "Secret Sleuth",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      10.8,
+      12.9,
+      13.7
+    ]
+  },
+  "11003": {
+    "title": "でらっくmaimai♪てんてこまい!",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.3,
+      12.7
+    ]
+  },
+  "11004": {
+    "title": "MAXRAGE",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.4,
+      13.8,
+      14.2
+    ]
+  },
+  "11005": {
+    "title": "バーチャルダム　ネーション",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      10.8,
+      13.5,
+      14.4
+    ]
+  },
+  "11006": {
+    "title": "P-qoq",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      10.5,
+      13.2
+    ]
+  },
+  "11007": {
+    "title": "超常マイマイン",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.3,
+      12.7,
+      13.8
+    ]
+  },
+  "11008": {
+    "title": "Crazy Circle",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      9.3,
+      12.6
+    ]
+  },
+  "11009": {
+    "title": "STEREOSCAPE",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.5,
+      12.4,
+      13.3
+    ]
+  },
+  "11010": {
+    "title": "STARTLINER",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      9.1,
+      11.8,
+      12.3
+    ]
+  },
+  "11014": {
+    "title": "♡マイマイマイラブ♡",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.2,
+      12.9
+    ]
+  },
+  "11015": {
+    "title": "一か罰",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.4,
+      12.8,
+      14.0
+    ]
+  },
+  "11016": {
+    "title": "キリキリ舞Mine",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.4,
+      13.4
+    ]
+  },
+  "11017": {
+    "title": "福宿音屋魂音泉",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      10.8,
+      12.9
+    ]
+  },
+  "11018": {
+    "title": "Now or Never",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      10.5,
+      13.5,
+      14.0
+    ]
+  },
+  "11019": {
+    "title": "Scarlet Wings",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.5,
+      12.9
+    ]
+  },
+  "11020": {
+    "title": "Technicians High",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      11.5,
+      13.4
+    ]
+  },
+  "11021": {
+    "title": "魔ジョ狩リ",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      11.1,
+      13.7
+    ]
+  },
+  "11022": {
+    "title": "TwisteD! XD",
+    "chart_difficulty": [
+      4.0,
+      8.7,
+      11.2,
+      13.7
+    ]
+  },
+  "11023": {
+    "title": "Blows Up Everything",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      11.9,
+      13.8,
+      14.3
+    ]
+  },
+  "11024": {
+    "title": "Agitation！",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      10.2,
+      11.9
+    ]
+  },
+  "11025": {
+    "title": "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.5,
+      13.8
+    ]
+  },
+  "11026": {
+    "title": "TEmPTaTiON",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      12.6,
+      14.7
+    ]
+  },
+  "11027": {
+    "title": "アポカリプスに反逆の焔を焚べろ",
+    "chart_difficulty": [
+      7.0,
+      8.5,
+      12.5,
+      14.5
+    ]
+  },
+  "11028": {
+    "title": "玩具狂奏曲 -終焉-",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      13.3,
+      13.9
+    ]
+  },
+  "11029": {
+    "title": "Titania",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      12.5,
+      14.6
+    ]
+  },
+  "11030": {
+    "title": "BOKUTO",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      11.2,
+      13.4
+    ]
+  },
+  "11031": {
+    "title": "立川浄穢捕物帳",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.4,
+      13.9
+    ]
+  },
+  "11032": {
+    "title": "CHOCOLATE BOMB!!!!",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      11.9,
+      13.6
+    ]
+  },
+  "11034": {
+    "title": "METEOR",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.5,
+      12.4
+    ]
+  },
+  "11035": {
+    "title": "LOSER",
+    "chart_difficulty": [
+      1.0,
+      6.5,
+      8.8,
+      11.9
+    ]
+  },
+  "11036": {
+    "title": "U.S.A.",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      9.2,
+      11.5,
+      12.8
+    ]
+  },
+  "11037": {
+    "title": "HOT LIMIT",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      9.4,
+      11.9
+    ]
+  },
+  "11038": {
+    "title": "新宝島",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.1,
+      11.8
+    ]
+  },
+  "11039": {
+    "title": "UNION",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.0,
+      11.8
+    ]
+  },
+  "11041": {
+    "title": "乗ってけ！ジャパリビート",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.2,
+      12.4
+    ]
+  },
+  "11042": {
+    "title": "フレ！フレ！ベストフレンズ",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.2,
+      11.5
+    ]
+  },
+  "11043": {
+    "title": "メルト",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      8.8,
+      11.9
+    ]
+  },
+  "11044": {
+    "title": "メルティランドナイトメア",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      8.7,
+      11.9
+    ]
+  },
+  "11045": {
+    "title": "アウトサイダー",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      9.3,
+      12.7
+    ]
+  },
+  "11046": {
+    "title": "アディショナルメモリー",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      9.9,
+      12.5
+    ]
+  },
+  "11047": {
+    "title": "ジャガーノート",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      9.7,
+      12.4
+    ]
+  },
+  "11048": {
+    "title": "ナイト・オブ・ナイツ (Cranky Remix)",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.4,
+      13.2
+    ]
+  },
+  "11049": {
+    "title": "Bad Apple!! feat.nomico (REDALiCE Remix)",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.5,
+      12.6
+    ]
+  },
+  "11050": {
+    "title": "Strobe♡Girl",
+    "chart_difficulty": [
+      2.0,
+      7.2,
+      10.0,
+      12.6
+    ]
+  },
+  "11051": {
+    "title": "Destr0yer",
+    "chart_difficulty": [
+      2.0,
+      7.8,
+      11.2,
+      12.9
+    ]
+  },
+  "11052": {
+    "title": "グリーンライツ・セレナーデ",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.3,
+      12.7
+    ]
+  },
+  "11055": {
+    "title": "POPPY PAPPY DAY",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      9.1,
+      12.5
+    ]
+  },
+  "11056": {
+    "title": "Clattanoia",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      10.5,
+      12.6
+    ]
+  },
+  "11057": {
+    "title": "The Gong of Knockout",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.2,
+      13.5
+    ]
+  },
+  "11058": {
+    "title": "デンパラダイム",
+    "chart_difficulty": [
+      3.0,
+      7.9,
+      11.7,
+      13.3
+    ]
+  },
+  "11059": {
+    "title": "骸骨楽団とリリア",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      11.3,
+      13.4
+    ]
+  },
+  "11060": {
+    "title": "星屑ユートピア",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.8,
+      12.7
+    ]
+  },
+  "11061": {
+    "title": "アマツキツネ",
+    "chart_difficulty": [
+      2.0,
+      7.5,
+      9.2,
+      11.9
+    ]
+  },
+  "11062": {
+    "title": "徒花ネクロマンシー",
+    "chart_difficulty": [
+      3.0,
+      7.4,
+      10.2,
+      12.6
+    ]
+  },
+  "11063": {
+    "title": "目覚めRETURNER",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      9.2,
+      11.8
+    ]
+  },
+  "11064": {
+    "title": "Little \"Sister\" Bitch",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.1,
+      13.8
+    ]
+  },
+  "11065": {
+    "title": "Yakumo >>JOINT STRUGGLE (2019 Update)",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.1,
+      13.9
+    ]
+  },
+  "11066": {
+    "title": "げきオコスティックファイナリアリティぷんぷんマスタースパーク",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.2,
+      12.8
+    ]
+  },
+  "11067": {
+    "title": "CocktaiL",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.0,
+      12.7
+    ]
+  },
+  "11069": {
+    "title": "太陽系デスコ",
+    "chart_difficulty": [
+      4.0,
+      6.7,
+      9.7,
+      12.0
+    ]
+  },
+  "11070": {
+    "title": "だからパンを焼いたんだ",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.3,
+      12.0
+    ]
+  },
+  "11071": {
+    "title": "東奔西走行進曲",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.8,
+      12.7
+    ]
+  },
+  "11072": {
+    "title": "Soul-ride ON!",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.5,
+      11.8
+    ]
+  },
+  "11073": {
+    "title": "アカリがやってきたぞっ",
+    "chart_difficulty": [
+      3.0,
+      6.7,
+      10.3,
+      12.7
+    ]
+  },
+  "11075": {
+    "title": "プナイプナイせんそう",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      11.8,
+      13.8
+    ]
+  },
+  "11076": {
+    "title": "未完成人",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      8.7,
+      11.9
+    ]
+  },
+  "11077": {
+    "title": "デビル☆アイドル",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.7,
+      12.7
+    ]
+  },
+  "11078": {
+    "title": "quiet room",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      8.8,
+      12.5
+    ]
+  },
+  "11080": {
+    "title": "Jump!! Jump!! Jump!!",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      9.5,
+      12.0
+    ]
+  },
+  "11081": {
+    "title": "サンバランド",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      11.0,
+      12.8
+    ]
+  },
+  "11083": {
+    "title": "サヨナラチェーンソー",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      9.8,
+      12.5
+    ]
+  },
+  "11084": {
+    "title": "イカサマライフゲイム",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.5,
+      12.9
+    ]
+  },
+  "11085": {
+    "title": "Halcyon",
+    "chart_difficulty": [
+      3.0,
+      8.5,
+      11.4,
+      13.6
+    ]
+  },
+  "11086": {
+    "title": "だれかの心臓になれたなら",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.2,
+      11.9
+    ]
+  },
+  "11087": {
+    "title": "幾望の月",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.7,
+      12.8
+    ]
+  },
+  "11088": {
+    "title": "39みゅーじっく！",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      9.3,
+      11.8
+    ]
+  },
+  "11089": {
+    "title": "STEEL TRANSONIC",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      13.0,
+      14.3
+    ]
+  },
+  "11090": {
+    "title": "Flashkick",
+    "chart_difficulty": [
+      5.0,
+      7.9,
+      11.2,
+      13.2
+    ]
+  },
+  "11091": {
+    "title": "Stardust Memories",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.8,
+      13.0
+    ]
+  },
+  "11092": {
+    "title": "My My My",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.0,
+      13.7
+    ]
+  },
+  "11093": {
+    "title": "UniTas",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      11.8,
+      14.3
+    ]
+  },
+  "11094": {
+    "title": "ここからはじまるプロローグ。",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.7,
+      13.4
+    ]
+  },
+  "11095": {
+    "title": "絡めトリック利己ライザー",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.8,
+      12.7
+    ]
+  },
+  "11096": {
+    "title": "モ°ルモ°ル",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      12.2,
+      13.9
+    ]
+  },
+  "11097": {
+    "title": "ブレインジャックシンドローム",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.8,
+      13.3
+    ]
+  },
+  "11098": {
+    "title": "共鳴",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.5,
+      13.0
+    ]
+  },
+  "11099": {
+    "title": "Ututu",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.2,
+      12.9
+    ]
+  },
+  "11100": {
+    "title": "シエルブルーマルシェ",
+    "chart_difficulty": [
+      3.0,
+      7.4,
+      10.4,
+      12.8,
+      13.7
+    ]
+  },
+  "11101": {
+    "title": "GRÄNDIR",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.0,
+      13.9
+    ]
+  },
+  "11102": {
+    "title": "封焔の135秒",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.7,
+      14.8
+    ]
+  },
+  "11103": {
+    "title": "渦状銀河のシンフォニエッタ",
+    "chart_difficulty": [
+      3.0,
+      8.5,
+      11.8,
+      14.6
+    ]
+  },
+  "11104": {
+    "title": "ヤミツキ",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.0,
+      12.7
+    ]
+  },
+  "11105": {
+    "title": "ワードワードワード",
+    "chart_difficulty": [
+      5.0,
+      6.5,
+      9.9,
+      13.3
+    ]
+  },
+  "11106": {
+    "title": "Valsqotch",
+    "chart_difficulty": [
+      6.0,
+      8.9,
+      13.0,
+      14.7
+    ]
+  },
+  "11107": {
+    "title": "最強 the サマータイム!!!!!",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      9.9,
+      12.7
+    ]
+  },
+  "11108": {
+    "title": "UTAKATA",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.4,
+      12.6
+    ]
+  },
+  "11109": {
+    "title": "タテマエと本心の大乱闘",
+    "chart_difficulty": [
+      5.0,
+      7.7,
+      10.1,
+      12.7
+    ]
+  },
+  "11110": {
+    "title": "はちみつアドベンチャー",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.0,
+      12.8
+    ]
+  },
+  "11111": {
+    "title": "popcorn",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      9.0,
+      12.9
+    ]
+  },
+  "11113": {
+    "title": "ハム太郎とっとこうた",
+    "chart_difficulty": [
+      1.0,
+      5.8,
+      8.5,
+      12.0,
+      12.8
+    ]
+  },
+  "11114": {
+    "title": "青空のラプソディ",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.7,
+      12.5
+    ]
+  },
+  "11115": {
+    "title": "だから僕は音楽を辞めた",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      8.7,
+      12.5
+    ]
+  },
+  "11116": {
+    "title": "ラブ・ドラマティック feat. 伊原六花",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      9.2,
+      11.9
+    ]
+  },
+  "11117": {
+    "title": "異世界かるてっと",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.8,
+      12.5
+    ]
+  },
+  "11118": {
+    "title": "いつかいい感じにアレしよう",
+    "chart_difficulty": [
+      4.0,
+      6.2,
+      9.7,
+      12.9
+    ]
+  },
+  "11119": {
+    "title": "I'm with you",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      9.6,
+      11.2
+    ]
+  },
+  "11120": {
+    "title": "オトモダチフィルム",
+    "chart_difficulty": [
+      4.0,
+      7.4,
+      9.8,
+      11.9
+    ]
+  },
+  "11121": {
+    "title": "ビターチョコデコレーション",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.9,
+      12.9
+    ]
+  },
+  "11122": {
+    "title": "アンドロイドガール",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.4,
+      12.9
+    ]
+  },
+  "11123": {
+    "title": "スターリースカイ☆パレード",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.0,
+      12.6
+    ]
+  },
+  "11124": {
+    "title": "スロウダウナー",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      9.8,
+      12.5
+    ]
+  },
+  "11125": {
+    "title": "クレイジー・ビート",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.8,
+      12.8
+    ]
+  },
+  "11126": {
+    "title": "バイオレンストリガー",
+    "chart_difficulty": [
+      5.0,
+      7.7,
+      10.0,
+      13.2
+    ]
+  },
+  "11127": {
+    "title": "グラーヴェ",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.8,
+      12.8
+    ]
+  },
+  "11128": {
+    "title": "KILLER B",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      10.2,
+      12.8
+    ]
+  },
+  "11129": {
+    "title": "すーぱーぬこになれんかった",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      10.0,
+      13.0
+    ]
+  },
+  "11130": {
+    "title": "アスヘノBRAVE",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      9.8,
+      12.7
+    ]
+  },
+  "11131": {
+    "title": "深海シティアンダーグラウンド",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      10.0,
+      12.8
+    ]
+  },
+  "11132": {
+    "title": "表裏一体",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.8,
+      12.9
+    ]
+  },
+  "11133": {
+    "title": "Catch the Wave",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.8,
+      12.4
+    ]
+  },
+  "11134": {
+    "title": "ソリッド",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.7,
+      13.4
+    ]
+  },
+  "11135": {
+    "title": "全力ハッピーライフ",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.2,
+      12.8
+    ]
+  },
+  "11136": {
+    "title": "Oath Act",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      9.7,
+      12.5
+    ]
+  },
+  "11137": {
+    "title": "Witches night",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      9.0,
+      12.8
+    ]
+  },
+  "11138": {
+    "title": "Drive Your Fire",
+    "chart_difficulty": [
+      3.0,
+      6.7,
+      9.7,
+      12.8
+    ]
+  },
+  "11139": {
+    "title": "wheel",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      9.5,
+      12.8
+    ]
+  },
+  "11140": {
+    "title": "Black Lair",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.5,
+      13.8
+    ]
+  },
+  "11141": {
+    "title": "energy trixxx",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      11.0,
+      13.8
+    ]
+  },
+  "11142": {
+    "title": "NULCTRL",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      12.6,
+      13.9
+    ]
+  },
+  "11143": {
+    "title": "アトロポスと最果の探究者",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      10.8,
+      13.7
+    ]
+  },
+  "11145": {
+    "title": "Entrance",
+    "chart_difficulty": [
+      4.0,
+      8.2,
+      11.7,
+      13.7
+    ]
+  },
+  "11146": {
+    "title": "Lunar Mare",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.7,
+      13.8
+    ]
+  },
+  "11147": {
+    "title": "Saika",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      10.2,
+      12.7
+    ]
+  },
+  "11148": {
+    "title": "CHAOS",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.7,
+      13.9
+    ]
+  },
+  "11149": {
+    "title": "Maboroshi",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.2,
+      14.2
+    ]
+  },
+  "11150": {
+    "title": "ウマイネームイズうまみちゃん",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      8.8,
+      12.0
+    ]
+  },
+  "11151": {
+    "title": "馬と鹿",
+    "chart_difficulty": [
+      1.0,
+      5.8,
+      8.5,
+      12.3
+    ]
+  },
+  "11152": {
+    "title": "ぼくたちいつでも　しゅわっしゅわ！",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      11.3,
+      13.0,
+      13.8
+    ]
+  },
+  "11153": {
+    "title": "Boys O’Clock",
+    "chart_difficulty": [
+      5.0,
+      7.7,
+      10.8,
+      13.0
+    ]
+  },
+  "11154": {
+    "title": "居並ぶ穀物と溜息まじりの運送屋",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      11.8,
+      12.9
+    ]
+  },
+  "11155": {
+    "title": "ARAIS",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.0,
+      14.4
+    ]
+  },
+  "11156": {
+    "title": "マイオドレ！舞舞タイム",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.0,
+      12.8
+    ]
+  },
+  "11157": {
+    "title": "Aetheric Energy",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.0,
+      13.4
+    ]
+  },
+  "11158": {
+    "title": "Komplexe",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      11.0,
+      13.7
+    ]
+  },
+  "11159": {
+    "title": "Beautiful Future",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      10.8,
+      13.7
+    ]
+  },
+  "11160": {
+    "title": "Mutation",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.5,
+      14.0
+    ]
+  },
+  "11161": {
+    "title": "オリフィス",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      10.4,
+      13.0
+    ]
+  },
+  "11162": {
+    "title": "ユメヒバナ",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.0,
+      13.4
+    ]
+  },
+  "11163": {
+    "title": "REAL VOICE",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      10.2,
+      12.8
+    ]
+  },
+  "11164": {
+    "title": "パラボラ",
+    "chart_difficulty": [
+      3.0,
+      8.0,
+      11.2,
+      13.9
+    ]
+  },
+  "11165": {
+    "title": "Regulus",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.5,
+      14.7
+    ]
+  },
+  "11166": {
+    "title": "ワンダーシャッフェンの法則",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.7,
+      14.0
+    ]
+  },
+  "11167": {
+    "title": "BIRTH",
+    "chart_difficulty": [
+      3.0,
+      7.9,
+      12.8,
+      14.5
+    ]
+  },
+  "11168": {
+    "title": "シアトリカル・ケース",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.8,
+      12.7
+    ]
+  },
+  "11169": {
+    "title": "ステップアンドライム",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      10.0,
+      12.8
+    ]
+  },
+  "11170": {
+    "title": "届かない花束",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      9.8,
+      13.0
+    ]
+  },
+  "11171": {
+    "title": "YURUSHITE",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.5,
+      14.4
+    ]
+  },
+  "11172": {
+    "title": "ポケットからぬりつぶせ！",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.2,
+      13.2
+    ]
+  },
+  "11173": {
+    "title": "トリドリ⇒モリモリ！Lovely fruits☆",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.7,
+      13.2
+    ]
+  },
+  "11174": {
+    "title": "Desperado Waltz",
+    "chart_difficulty": [
+      5.0,
+      8.4,
+      11.8,
+      14.2
+    ]
+  },
+  "11175": {
+    "title": "宛城、炎上！！",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.5,
+      13.8
+    ]
+  },
+  "11176": {
+    "title": "Climax",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      12.0,
+      14.3
+    ]
+  },
+  "11177": {
+    "title": "レーイレーイ",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.5,
+      13.0,
+      13.7
+    ]
+  },
+  "11178": {
+    "title": "ノーポイッ!",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      8.9,
+      12.0
+    ]
+  },
+  "11179": {
+    "title": "町かどタンジェント",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      8.8,
+      11.8
+    ]
+  },
+  "11180": {
+    "title": "紅蓮華",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      9.0,
+      11.5,
+      13.0
+    ]
+  },
+  "11182": {
+    "title": "MIRACLE RUSH",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      9.5,
+      12.0
+    ]
+  },
+  "11183": {
+    "title": "お願いマッスル",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      8.9,
+      12.7
+    ]
+  },
+  "11184": {
+    "title": "Virtual to LIVE",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      8.7,
+      12.0,
+      12.8
+    ]
+  },
+  "11185": {
+    "title": "命に嫌われている",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.2,
+      12.8
+    ]
+  },
+  "11186": {
+    "title": "アンクローズ・ヒューマン",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      9.8,
+      13.2
+    ]
+  },
+  "11187": {
+    "title": "乙女解剖",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      8.8,
+      12.5
+    ]
+  },
+  "11188": {
+    "title": "絶え間なく藍色",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      8.5,
+      13.4
+    ]
+  },
+  "11189": {
+    "title": "ガランド",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      9.9,
+      12.9
+    ]
+  },
+  "11190": {
+    "title": "とりあえずアナタがいなくなるまえに",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      8.8,
+      11.9
+    ]
+  },
+  "11191": {
+    "title": "明星ギャラクティカ",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      8.7,
+      12.4
+    ]
+  },
+  "11192": {
+    "title": "絶対にチョコミントを食べるアオイチャン",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      9.8,
+      12.9
+    ]
+  },
+  "11193": {
+    "title": "デリヘル呼んだら君が来た",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      10.5,
+      13.1
+    ]
+  },
+  "11194": {
+    "title": "ベノム",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      9.0,
+      12.7
+    ]
+  },
+  "11195": {
+    "title": "マネマネサイコトロピック",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      10.7,
+      13.7
+    ]
+  },
+  "11197": {
+    "title": "劣等上等",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      10.0,
+      13.1
+    ]
+  },
+  "11198": {
+    "title": "アスノヨゾラ哨戒班",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.0,
+      12.8
+    ]
+  },
+  "11199": {
+    "title": "悪戯センセーション",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      9.8,
+      12.7
+    ]
+  },
+  "11200": {
+    "title": "Paranoia",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.5,
+      13.0
+    ]
+  },
+  "11201": {
+    "title": "絡繰りドール",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.0,
+      12.9
+    ]
+  },
+  "11202": {
+    "title": "物凄いヴァイブスで魔理沙が物凄いラップ",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.7,
+      13.4
+    ]
+  },
+  "11204": {
+    "title": "Sweet Requiem",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.7,
+      13.7
+    ]
+  },
+  "11205": {
+    "title": "Dive into The Sky ～initialized～",
+    "chart_difficulty": [
+      4.0,
+      6.2,
+      9.2,
+      13.0
+    ]
+  },
+  "11206": {
+    "title": "BATTLE NO.1",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      12.2,
+      14.5
+    ]
+  },
+  "11207": {
+    "title": "Ether Strike",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.8,
+      13.9
+    ]
+  },
+  "11208": {
+    "title": "Cyaegha",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.0,
+      13.7
+    ]
+  },
+  "11209": {
+    "title": "Grievous Lady",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.0,
+      14.1
+    ]
+  },
+  "11210": {
+    "title": "c.s.q.n.",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.2,
+      13.8
+    ]
+  },
+  "11211": {
+    "title": "カラッポ・ノンフィクション",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.0,
+      13.7
+    ]
+  },
+  "11212": {
+    "title": "emomomo",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.7,
+      13.7
+    ]
+  },
+  "11213": {
+    "title": "Arty Party",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      11.8,
+      13.9
+    ]
+  },
+  "11214": {
+    "title": "Jörqer",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      11.8,
+      13.5
+    ]
+  },
+  "11215": {
+    "title": "Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.2,
+      14.5
+    ]
+  },
+  "11216": {
+    "title": "felys -final remix-",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.7,
+      14.4
+    ]
+  },
+  "11217": {
+    "title": "Pretender",
+    "chart_difficulty": [
+      2.0,
+      5.8,
+      9.0,
+      12.7
+    ]
+  },
+  "11218": {
+    "title": "自傷無色",
+    "chart_difficulty": [
+      2.0,
+      5.8,
+      9.0,
+      12.7
+    ]
+  },
+  "11219": {
+    "title": "Prismatic",
+    "chart_difficulty": [
+      3.0,
+      7.4,
+      9.4,
+      12.2
+    ]
+  },
+  "11221": {
+    "title": "≠彡\"/了→",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      12.7,
+      14.4
+    ]
+  },
+  "11222": {
+    "title": "BREaK! BREaK! BREaK!",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.8,
+      14.7
+    ]
+  },
+  "11223": {
+    "title": "Heavenly Blast",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      12.8,
+      14.8
+    ]
+  },
+  "11224": {
+    "title": "Paradisoda",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.7,
+      13.1
+    ]
+  },
+  "11225": {
+    "title": "VANTABLACK RAVER",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.1,
+      13.8
+    ]
+  },
+  "11226": {
+    "title": "時計の国のジェミニ",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.0,
+      13.0
+    ]
+  },
+  "11227": {
+    "title": "Xenovcipher",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      12.5,
+      14.3
+    ]
+  },
+  "11228": {
+    "title": "星めぐり、果ての君へ。",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.7,
+      12.9,
+      13.0
+    ]
+  },
+  "11229": {
+    "title": "スローアライズ",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.9,
+      12.8
+    ]
+  },
+  "11230": {
+    "title": "チエルカ／エソテリカ",
+    "chart_difficulty": [
+      5.0,
+      8.7,
+      12.5,
+      14.2
+    ]
+  },
+  "11231": {
+    "title": "生命不詳",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      11.7,
+      13.7
+    ]
+  },
+  "11232": {
+    "title": "Never Give Up!",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.8,
+      13.8,
+      13.7
+    ]
+  },
+  "11233": {
+    "title": "Starry Colors",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.0,
+      14.0
+    ]
+  },
+  "11234": {
+    "title": "ほしぞらスペクタクル",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.5,
+      14.4
+    ]
+  },
+  "11235": {
+    "title": "VIIIbit Explorer",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      13.0,
+      14.7
+    ]
+  },
+  "11236": {
+    "title": "Last Samurai",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      12.0,
+      13.9
+    ]
+  },
+  "11237": {
+    "title": "蒼穹舞楽",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.8,
+      13.9
+    ]
+  },
+  "11238": {
+    "title": "AMABIE",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.4,
+      14.6
+    ]
+  },
+  "11239": {
+    "title": "オーケー？　オーライ！",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      9.5,
+      12.8
+    ]
+  },
+  "11240": {
+    "title": "サヨナラフリーウェイ",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      9.7,
+      12.6
+    ]
+  },
+  "11241": {
+    "title": "単一指向性オーバーブルーム",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.2,
+      13.2,
+      13.8
+    ]
+  },
+  "11242": {
+    "title": "みなえをチェック！",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      10.0,
+      13.0
+    ]
+  },
+  "11243": {
+    "title": "ハジマリノピアノ",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.8,
+      13.8
+    ]
+  },
+  "11246": {
+    "title": "BOUNCE & DANCE",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      10.5,
+      13.7
+    ]
+  },
+  "11247": {
+    "title": "Kiss Me Kiss",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.8,
+      12.8
+    ]
+  },
+  "11248": {
+    "title": "MEGATON BLAST",
+    "chart_difficulty": [
+      5.0,
+      9.5,
+      12.9,
+      14.3
+    ]
+  },
+  "11249": {
+    "title": "Splash Dance!!",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.0,
+      13.4
+    ]
+  },
+  "11250": {
+    "title": "インフェルノ",
+    "chart_difficulty": [
+      2.0,
+      7.5,
+      9.8,
+      11.7,
+      13.0
+    ]
+  },
+  "11251": {
+    "title": "冬のこもりうた",
+    "chart_difficulty": [
+      1.0,
+      5.0,
+      7.9,
+      10.7,
+      13.0
+    ]
+  },
+  "11252": {
+    "title": "God knows...",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.7,
+      11.7,
+      13.0
+    ]
+  },
+  "11253": {
+    "title": "おジャ魔女カーニバル!!",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      8.8,
+      12.8
+    ]
+  },
+  "11254": {
+    "title": "秒針を噛む",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      8.7,
+      11.0,
+      12.7
+    ]
+  },
+  "11255": {
+    "title": "タケモトピアノCMソング",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.0,
+      12.7
+    ]
+  },
+  "11256": {
+    "title": "乙女のルートはひとつじゃない！",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.7,
+      12.5
+    ]
+  },
+  "11257": {
+    "title": "ビックカメラのテーマソング",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      8.5,
+      12.7
+    ]
+  },
+  "11258": {
+    "title": "電話革命ナイセン",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      8.2,
+      12.5
+    ]
+  },
+  "11259": {
+    "title": "Shiny Smily Story",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      10.0,
+      12.5
+    ]
+  },
+  "11260": {
+    "title": "ネガティブ進化論",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      8.8,
+      12.7
+    ]
+  },
+  "11261": {
+    "title": "雨とペトラ",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      9.0,
+      12.4
+    ]
+  },
+  "11262": {
+    "title": "永遠にゲームで対戦したいキリタン",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.2,
+      12.8
+    ]
+  },
+  "11263": {
+    "title": "KING",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.7,
+      12.9
+    ]
+  },
+  "11264": {
+    "title": "幽霊東京",
+    "chart_difficulty": [
+      1.0,
+      6.5,
+      8.7,
+      12.5
+    ]
+  },
+  "11265": {
+    "title": "Alice in 冷凍庫",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.8,
+      12.8
+    ]
+  },
+  "11266": {
+    "title": "キラメキ居残り大戦争",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.8,
+      13.2
+    ]
+  },
+  "11267": {
+    "title": "ディカディズム",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      9.8,
+      13.1
+    ]
+  },
+  "11268": {
+    "title": "猫猫的宇宙論",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      9.5,
+      12.7
+    ]
+  },
+  "11269": {
+    "title": "ラットが死んだnew words",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      9.8,
+      12.8
+    ]
+  },
+  "11270": {
+    "title": "阿吽のビーツ",
+    "chart_difficulty": [
+      1.0,
+      6.0,
+      10.0,
+      12.8
+    ]
+  },
+  "11271": {
+    "title": "再会",
+    "chart_difficulty": [
+      1.0,
+      6.2,
+      8.8,
+      12.2
+    ]
+  },
+  "11272": {
+    "title": "約束",
+    "chart_difficulty": [
+      1.0,
+      6.0,
+      8.2,
+      12.0
+    ]
+  },
+  "11273": {
+    "title": "トラフィック・ジャム",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.8,
+      12.8
+    ]
+  },
+  "11274": {
+    "title": "アルティメットセンパイ",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      9.0,
+      13.0
+    ]
+  },
+  "11275": {
+    "title": "ロストワードクロニカル",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.0,
+      13.4
+    ]
+  },
+  "11276": {
+    "title": "今、誰が為のかがり火へ",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      8.8,
+      12.4
+    ]
+  },
+  "11277": {
+    "title": "Melody！",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.8,
+      12.2
+    ]
+  },
+  "11278": {
+    "title": "下克上々",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      10.2,
+      13.0
+    ]
+  },
+  "11279": {
+    "title": "ハウリング",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      9.8,
+      13.0
+    ]
+  },
+  "11280": {
+    "title": "トランスダンスアナーキー",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.8,
+      13.5
+    ]
+  },
+  "11281": {
+    "title": "Re：End of a Dream",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      12.0,
+      14.4
+    ]
+  },
+  "11282": {
+    "title": "もぺもぺ",
+    "chart_difficulty": [
+      3.0,
+      8.0,
+      12.8,
+      13.9
+    ]
+  },
+  "11283": {
+    "title": "Sound Chimera",
+    "chart_difficulty": [
+      4.0,
+      8.2,
+      12.5,
+      13.9
+    ]
+  },
+  "11284": {
+    "title": "CO5M1C R4ILR0AD",
+    "chart_difficulty": [
+      4.0,
+      8.2,
+      11.8,
+      14.4
+    ]
+  },
+  "11285": {
+    "title": "MAKE IT FUNKY NOW",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      11.7,
+      13.7
+    ]
+  },
+  "11286": {
+    "title": "Rush-More",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      10.7,
+      13.5
+    ]
+  },
+  "11287": {
+    "title": "Strange Bar",
+    "chart_difficulty": [
+      2.0,
+      7.9,
+      10.7,
+      13.9
+    ]
+  },
+  "11288": {
+    "title": "Big Daddy",
+    "chart_difficulty": [
+      4.0,
+      8.8,
+      12.0,
+      13.8
+    ]
+  },
+  "11289": {
+    "title": "ベースラインやってる？笑",
+    "chart_difficulty": [
+      2.0,
+      7.7,
+      11.0,
+      13.4
+    ]
+  },
+  "11290": {
+    "title": "ALiVE",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      11.0,
+      13.2
+    ]
+  },
+  "11291": {
+    "title": "ヒミツCULT",
+    "chart_difficulty": [
+      3.0,
+      8.2,
+      11.5,
+      13.7
+    ]
+  },
+  "11292": {
+    "title": "MEGATON KICK",
+    "chart_difficulty": [
+      5.0,
+      8.7,
+      11.8,
+      13.9
+    ]
+  },
+  "11293": {
+    "title": "LOSE CONTROL",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      12.4,
+      13.7
+    ]
+  },
+  "11294": {
+    "title": "宿星審判",
+    "chart_difficulty": [
+      4.0,
+      8.2,
+      12.2,
+      14.3
+    ]
+  },
+  "11295": {
+    "title": "脳天直撃",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.9,
+      14.6
+    ]
+  },
+  "11296": {
+    "title": "とびだせ！TO THE COSMIC!!",
+    "chart_difficulty": [
+      4.0,
+      8.2,
+      12.5,
+      13.7
+    ]
+  },
+  "11297": {
+    "title": "噛み係",
+    "chart_difficulty": [
+      2.0,
+      7.8,
+      10.8,
+      13.5
+    ]
+  },
+  "11298": {
+    "title": "トリアージ",
+    "chart_difficulty": [
+      2.0,
+      7.8,
+      10.0,
+      13.1
+    ]
+  },
+  "11299": {
+    "title": "NAGAREBOSHI☆ROCKET",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      12.0,
+      14.2
+    ]
+  },
+  "11300": {
+    "title": "U&iVERSE -銀河鸞翔-",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      12.1,
+      14.4
+    ]
+  },
+  "11301": {
+    "title": "華の集落、秋のお届け",
+    "chart_difficulty": [
+      3.0,
+      7.9,
+      11.8,
+      13.9
+    ]
+  },
+  "11302": {
+    "title": "BLACK SWAN",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      12.7,
+      14.6
+    ]
+  },
+  "11303": {
+    "title": "星詠みとデスペラード",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.8,
+      14.0
+    ]
+  },
+  "11304": {
+    "title": "Round Round Spinning Around",
+    "chart_difficulty": [
+      4.0,
+      8.2,
+      10.0,
+      13.3
+    ]
+  },
+  "11305": {
+    "title": "Alcyone",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      12.0,
+      14.0
+    ]
+  },
+  "11306": {
+    "title": "Raven Emperor",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.0,
+      14.5
+    ]
+  },
+  "11307": {
+    "title": "Yorugao",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.2,
+      14.7
+    ]
+  },
+  "11308": {
+    "title": "ヨミビトシラズ",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      12.5,
+      13.7
+    ]
+  },
+  "11309": {
+    "title": "前衛的Landscape",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      11.4,
+      13.8
+    ]
+  },
+  "11310": {
+    "title": "Trick tear",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.5,
+      14.4
+    ]
+  },
+  "11311": {
+    "title": "躯樹の墓守",
+    "chart_difficulty": [
+      6.0,
+      9.8,
+      13.0,
+      14.9
+    ]
+  },
+  "11312": {
+    "title": "ぱくぱく☆がーる",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.2,
+      13.0
+    ]
+  },
+  "11313": {
+    "title": "No Limit RED Force",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      9.7,
+      12.7
+    ]
+  },
+  "11314": {
+    "title": "LiftOff",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      11.7,
+      13.9
+    ]
+  },
+  "11315": {
+    "title": "Falsum Atlantis.",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      12.5,
+      14.5
+    ]
+  },
+  "11316": {
+    "title": "We Are Us",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      10.0,
+      13.5
+    ]
+  },
+  "11317": {
+    "title": "Limits",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.5,
+      13.6
+    ]
+  },
+  "11318": {
+    "title": "スピカの天秤",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      13.1,
+      14.4
+    ]
+  },
+  "11319": {
+    "title": "ハードコア・シンドローム",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.5,
+      13.9
+    ]
+  },
+  "11321": {
+    "title": "夜に駆ける",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      8.5,
+      11.2,
+      12.8
+    ]
+  },
+  "11322": {
+    "title": "うっせぇわ",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      9.8,
+      11.7,
+      13.2
+    ]
+  },
+  "11323": {
+    "title": "Shooting Stars",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      8.0,
+      12.5
+    ]
+  },
+  "11324": {
+    "title": "MOON NIGHTのせいにして",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      8.5,
+      12.2
+    ]
+  },
+  "11325": {
+    "title": "テレキャスタービーボーイ",
+    "chart_difficulty": [
+      2.0,
+      7.2,
+      9.8,
+      11.8,
+      12.8
+    ]
+  },
+  "11327": {
+    "title": "僕は空気が嫁ない",
+    "chart_difficulty": [
+      2.0,
+      7.2,
+      10.0,
+      13.2
+    ]
+  },
+  "11328": {
+    "title": "デッドマンズバラッド",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.5,
+      14.2
+    ]
+  },
+  "11329": {
+    "title": "イヤホンロマンス",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      9.5,
+      12.9
+    ]
+  },
+  "11330": {
+    "title": "竹",
+    "chart_difficulty": [
+      5.0,
+      8.7,
+      12.0,
+      14.2
+    ]
+  },
+  "11331": {
+    "title": "スーパーシンメトリー",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.0,
+      13.9
+    ]
+  },
+  "11333": {
+    "title": "Southern Cross",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.7,
+      13.2,
+      13.9
+    ]
+  },
+  "11334": {
+    "title": "Upshift",
+    "chart_difficulty": [
+      2.0,
+      8.2,
+      11.0,
+      13.8
+    ]
+  },
+  "11335": {
+    "title": "MOBILYS",
+    "chart_difficulty": [
+      2.0,
+      7.8,
+      10.0,
+      13.1
+    ]
+  },
+  "11336": {
+    "title": "ドラゴンエネルギー",
+    "chart_difficulty": [
+      2.0,
+      6.7,
+      9.8,
+      12.5
+    ]
+  },
+  "11337": {
+    "title": "セカイはまだ始まってすらいない",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      8.7,
+      12.7
+    ]
+  },
+  "11340": {
+    "title": "Sweets Time",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      10.0,
+      13.0
+    ]
+  },
+  "11341": {
+    "title": "紅星ミゼラブル～廃憶編",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.0,
+      13.2
+    ]
+  },
+  "11342": {
+    "title": "幻想に咲いた花",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.7,
+      13.1
+    ]
+  },
+  "11343": {
+    "title": "マツヨイナイトバグ",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      10.7,
+      13.9
+    ]
+  },
+  "11344": {
+    "title": "ポッピンキャンディ☆フィーバー！",
+    "chart_difficulty": [
+      2.0,
+      7.7,
+      10.0,
+      12.9
+    ]
+  },
+  "11345": {
+    "title": "どぅーまいべすと！",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.8,
+      12.4
+    ]
+  },
+  "11346": {
+    "title": "春を告げる",
+    "chart_difficulty": [
+      1.0,
+      6.0,
+      9.8,
+      12.9
+    ]
+  },
+  "11347": {
+    "title": "泥の分際で私だけの大切を奪おうだなんて",
+    "chart_difficulty": [
+      2.0,
+      7.8,
+      10.7,
+      13.7
+    ]
+  },
+  "11348": {
+    "title": "VOLTAGE",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      11.0,
+      13.2
+    ]
+  },
+  "11349": {
+    "title": "失敗作少女",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.2,
+      13.1
+    ]
+  },
+  "11350": {
+    "title": "悪魔の踊り方",
+    "chart_difficulty": [
+      2.0,
+      6.7,
+      9.8,
+      13.0
+    ]
+  },
+  "11351": {
+    "title": "ノイローゼ",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      10.0,
+      13.0
+    ]
+  },
+  "11352": {
+    "title": "Seize The Day",
+    "chart_difficulty": [
+      1.0,
+      6.0,
+      8.0,
+      11.8
+    ]
+  },
+  "11353": {
+    "title": "グッバイ宣言",
+    "chart_difficulty": [
+      2.0,
+      7.2,
+      9.8,
+      12.8
+    ]
+  },
+  "11354": {
+    "title": "春嵐",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      10.2,
+      13.4
+    ]
+  },
+  "11355": {
+    "title": "ラグトレイン",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.8,
+      13.2,
+      0.0
+    ]
+  },
+  "11356": {
+    "title": "なだめスかし Negotiation（TVsize）",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      8.2,
+      12.5
+    ]
+  },
+  "11358": {
+    "title": "インドア系ならトラックメイカー",
+    "chart_difficulty": [
+      2.0,
+      7.9,
+      10.5,
+      13.4
+    ]
+  },
+  "11359": {
+    "title": "アカツキアライヴァル",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      10.0,
+      13.0
+    ]
+  },
+  "11360": {
+    "title": "リモコン",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.5,
+      13.2
+    ]
+  },
+  "11361": {
+    "title": "on the rocks",
+    "chart_difficulty": [
+      1.0,
+      6.2,
+      8.8,
+      12.8
+    ]
+  },
+  "11362": {
+    "title": "響け！CHIREI MY WAY!",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      9.5,
+      12.7
+    ]
+  },
+  "11363": {
+    "title": "神々が恋した幻想郷",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      10.8,
+      13.5
+    ]
+  },
+  "11364": {
+    "title": "Lia=Fail",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      12.8,
+      14.7
+    ]
+  },
+  "11365": {
+    "title": "アンビバレンス",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.7,
+      13.0
+    ]
+  },
+  "11367": {
+    "title": "veil",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      8.7,
+      12.7
+    ]
+  },
+  "11369": {
+    "title": "廻廻奇譚",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      9.8,
+      11.8,
+      13.5
+    ]
+  },
+  "11370": {
+    "title": "さんさーら！",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      8.8,
+      12.9
+    ]
+  },
+  "11371": {
+    "title": "アイドル新鋭隊",
+    "chart_difficulty": [
+      2.0,
+      7.4,
+      9.7,
+      12.2
+    ]
+  },
+  "11372": {
+    "title": "needLe",
+    "chart_difficulty": [
+      2.0,
+      7.7,
+      9.8,
+      12.8
+    ]
+  },
+  "11373": {
+    "title": "ヒステリックナイトガール",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.8,
+      12.8
+    ]
+  },
+  "11374": {
+    "title": "GIGANTØMAKHIA",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      12.9,
+      14.7
+    ]
+  },
+  "11375": {
+    "title": "ミルキースター・シューティングスター",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      10.7,
+      12.9
+    ]
+  },
+  "11376": {
+    "title": "ｉｓｏｐｈｏｔｅ",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      10.0,
+      13.0
+    ]
+  },
+  "11377": {
+    "title": "パラマウント☆ショータイム！！",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.7,
+      13.9
+    ]
+  },
+  "11378": {
+    "title": "Strive against fate",
+    "chart_difficulty": [
+      6.0,
+      7.9,
+      13.2,
+      14.5
+    ]
+  },
+  "11379": {
+    "title": "sølips",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      13.7,
+      14.9
+    ]
+  },
+  "11380": {
+    "title": "パーフェクション",
+    "chart_difficulty": [
+      2.0,
+      7.8,
+      10.8,
+      13.5
+    ]
+  },
+  "11381": {
+    "title": "デーモンベット",
+    "chart_difficulty": [
+      2.0,
+      7.5,
+      10.5,
+      13.2
+    ]
+  },
+  "11382": {
+    "title": "HECATONCHEIR",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.7,
+      14.1
+    ]
+  },
+  "11383": {
+    "title": "Irresistible",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      11.0,
+      13.7
+    ]
+  },
+  "11384": {
+    "title": "HAGAKIRI",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      12.5,
+      13.9
+    ]
+  },
+  "11385": {
+    "title": "N3V3R G3T OV3R",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      12.0,
+      14.3
+    ]
+  },
+  "11386": {
+    "title": "Swift Swing",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      12.5,
+      14.3
+    ]
+  },
+  "11387": {
+    "title": "星空パーティーチューン",
+    "chart_difficulty": [
+      4.0,
+      8.8,
+      11.5,
+      13.7
+    ]
+  },
+  "11388": {
+    "title": "チューリングの跡",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      13.5,
+      14.7
+    ]
+  },
+  "11389": {
+    "title": "Sage",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      12.9,
+      14.6
+    ]
+  },
+  "11390": {
+    "title": "OTOGEMA",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.7,
+      13.7
+    ]
+  },
+  "11391": {
+    "title": "WiPE OUT MEMORIES",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.9,
+      14.7
+    ]
+  },
+  "11392": {
+    "title": "Metamorphosism",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      12.8,
+      14.7
+    ]
+  },
+  "11393": {
+    "title": "白花の天使",
+    "chart_difficulty": [
+      5.0,
+      8.7,
+      12.0,
+      13.9
+    ]
+  },
+  "11394": {
+    "title": "World's end loneliness",
+    "chart_difficulty": [
+      7.0,
+      9.8,
+      13.0,
+      14.9
+    ]
+  },
+  "11395": {
+    "title": "Jouez Avec Moi?",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.8,
+      13.8
+    ]
+  },
+  "11396": {
+    "title": "テリトリーバトル",
+    "chart_difficulty": [
+      4.0,
+      6.2,
+      10.0,
+      13.5
+    ]
+  },
+  "11398": {
+    "title": "Good bye, Merry-Go-Round.",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      12.5,
+      14.1
+    ]
+  },
+  "11399": {
+    "title": "ツクヨミステップ",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.8,
+      13.5
+    ]
+  },
+  "11400": {
+    "title": "folern",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.2,
+      13.9
+    ]
+  },
+  "11401": {
+    "title": "コスモポップファンクラブ",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      10.7,
+      13.0
+    ]
+  },
+  "11402": {
+    "title": "撩乱乙女†無双劇",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      11.7,
+      13.4
+    ]
+  },
+  "11404": {
+    "title": "See The Light",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      11.5,
+      13.8
+    ]
+  },
+  "11405": {
+    "title": "エータ・ベータ・イータ",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      12.4,
+      14.1
+    ]
+  },
+  "11406": {
+    "title": "愛のシュプリーム！",
+    "chart_difficulty": [
+      1.0,
+      6.2,
+      8.0,
+      12.6
+    ]
+  },
+  "11407": {
+    "title": "くらべられっ子",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      9.8,
+      11.5,
+      13.0
+    ]
+  },
+  "11408": {
+    "title": "あの世行きのバスに乗ってさらば。",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      11.7,
+      13.2
+    ]
+  },
+  "11409": {
+    "title": "うまぴょい伝説",
+    "chart_difficulty": [
+      5.0,
+      6.5,
+      9.8,
+      11.0,
+      13.5
+    ]
+  },
+  "11410": {
+    "title": "ヴァンパイア",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      10.2,
+      11.7,
+      13.4
+    ]
+  },
+  "11411": {
+    "title": "エンヴィーベイビー",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.7,
+      13.0
+    ]
+  },
+  "11412": {
+    "title": "初音天地開闢神話",
+    "chart_difficulty": [
+      5.0,
+      8.4,
+      11.0,
+      13.9
+    ]
+  },
+  "11413": {
+    "title": "Armageddon",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.9,
+      13.9
+    ]
+  },
+  "11415": {
+    "title": "Dreadnought",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.5,
+      13.9
+    ]
+  },
+  "11418": {
+    "title": "enchanted love",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      11.8,
+      13.7
+    ]
+  },
+  "11419": {
+    "title": "Caterpillar Song",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      12.0,
+      13.9
+    ]
+  },
+  "11420": {
+    "title": "Photon Melodies",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.5,
+      13.2
+    ]
+  },
+  "11421": {
+    "title": "吾輩よ猫であれ",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      8.7,
+      12.2
+    ]
+  },
+  "11422": {
+    "title": "　",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.5,
+      12.8
+    ]
+  },
+  "11423": {
+    "title": "BLUE ZONE",
+    "chart_difficulty": [
+      4.0,
+      8.2,
+      11.5,
+      14.1
+    ]
+  },
+  "11424": {
+    "title": "Estahv",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      11.7,
+      13.9
+    ]
+  },
+  "11425": {
+    "title": "First Dance",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      12.1,
+      13.9
+    ]
+  },
+  "11426": {
+    "title": "Mjölnir",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.7,
+      14.4
+    ]
+  },
+  "11427": {
+    "title": "Define",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      11.7,
+      13.6
+    ]
+  },
+  "11428": {
+    "title": "BANG!",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      10.8,
+      13.0
+    ]
+  },
+  "11429": {
+    "title": "Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      13.0,
+      14.1
+    ]
+  },
+  "11430": {
+    "title": "オントロジー",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      10.2,
+      12.8
+    ]
+  },
+  "11431": {
+    "title": "剣を抜け！GCCX MAX",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.0,
+      12.9
+    ]
+  },
+  "11432": {
+    "title": "Princess♂",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      10.5,
+      13.7
+    ]
+  },
+  "11433": {
+    "title": "ヒトガタ",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      10.8,
+      13.4
+    ]
+  },
+  "11434": {
+    "title": "Spring of Dreams",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.5,
+      12.8
+    ]
+  },
+  "11435": {
+    "title": "大輪の魂 (feat. AO, 司芭扶)",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      9.8,
+      13.3
+    ]
+  },
+  "11436": {
+    "title": "紅に染まる恋の花",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      10.0,
+      12.5
+    ]
+  },
+  "11437": {
+    "title": "三妖精SAY YA!!!",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      10.0,
+      13.3
+    ]
+  },
+  "11438": {
+    "title": "Reach For The Stars (Re-Colors)",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.5,
+      13.9
+    ]
+  },
+  "11439": {
+    "title": "ジャンキーナイトタウンオーケストラ",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.0,
+      12.9
+    ]
+  },
+  "11441": {
+    "title": "終焉逃避行",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      9.8,
+      12.9
+    ]
+  },
+  "11443": {
+    "title": "8-EM",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.5,
+      13.8
+    ]
+  },
+  "11444": {
+    "title": "若い力",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      9.0,
+      13.3
+    ]
+  },
+  "11445": {
+    "title": "遺伝子レベル∞スパイラル",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      9.8,
+      13.7
+    ]
+  },
+  "11446": {
+    "title": "otorii INNOVATED -[i]3-",
+    "chart_difficulty": [
+      6.0,
+      8.9,
+      13.0,
+      14.5
+    ]
+  },
+  "11447": {
+    "title": "エゴロック",
+    "chart_difficulty": [
+      5.0,
+      7.7,
+      10.5,
+      13.7
+    ]
+  },
+  "11448": {
+    "title": "ただ選択があった",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      9.0,
+      12.7
+    ]
+  },
+  "11449": {
+    "title": "パズルリボン",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.2,
+      13.3
+    ]
+  },
+  "11450": {
+    "title": "YONA YONA DANCE",
+    "chart_difficulty": [
+      1.0,
+      6.5,
+      9.0,
+      12.5
+    ]
+  },
+  "11451": {
+    "title": "Transcend Lights",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      11.5,
+      13.5
+    ]
+  },
+  "11452": {
+    "title": "ホシシズク",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.5,
+      12.9
+    ]
+  },
+  "11453": {
+    "title": "Rainbow Rush Story",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      10.5,
+      13.8
+    ]
+  },
+  "11454": {
+    "title": "Tricolor⁂circuS",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.7,
+      14.0
+    ]
+  },
+  "11455": {
+    "title": "[X]",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.0,
+      13.9
+    ]
+  },
+  "11456": {
+    "title": "分解収束テイル",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      11.0,
+      13.7
+    ]
+  },
+  "11457": {
+    "title": "mystique as iris",
+    "chart_difficulty": [
+      5.0,
+      9.7,
+      12.8,
+      14.7
+    ]
+  },
+  "11458": {
+    "title": "Rising on the horizon",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.7,
+      14.5
+    ]
+  },
+  "11459": {
+    "title": "You Mean the World to Me",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      11.5,
+      13.8
+    ]
+  },
+  "11460": {
+    "title": "Neon Kingdom",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      10.9,
+      13.8
+    ]
+  },
+  "11461": {
+    "title": "#狂った民族２ PRAVARGYAZOOQA",
+    "chart_difficulty": [
+      6.0,
+      7.8,
+      12.7,
+      14.4
+    ]
+  },
+  "11462": {
+    "title": "VSpook!",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      12.9,
+      14.4
+    ]
+  },
+  "11463": {
+    "title": "RIFFRAIN",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      9.7,
+      13.0
+    ]
+  },
+  "11464": {
+    "title": "Falling",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.2,
+      13.4
+    ]
+  },
+  "11465": {
+    "title": "ピリオドサイン",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.7,
+      13.6
+    ]
+  },
+  "11466": {
+    "title": "群青シグナル",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      11.7,
+      13.9
+    ]
+  },
+  "11467": {
+    "title": "Beat Opera op.1",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      10.8,
+      14.0
+    ]
+  },
+  "11468": {
+    "title": "星見草",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      11.0,
+      13.8
+    ]
+  },
+  "11469": {
+    "title": "\"411Ψ892\"",
+    "chart_difficulty": [
+      5.0,
+      8.7,
+      12.7,
+      14.3
+    ]
+  },
+  "11470": {
+    "title": "康莊大道",
+    "chart_difficulty": [
+      6.0,
+      8.7,
+      13.2,
+      14.7
+    ]
+  },
+  "11471": {
+    "title": "蜘蛛の糸",
+    "chart_difficulty": [
+      5.0,
+      8.8,
+      12.8,
+      14.2
+    ]
+  },
+  "11472": {
+    "title": "Don't Fight The Music",
+    "chart_difficulty": [
+      5.0,
+      9.0,
+      12.8,
+      14.1
+    ]
+  },
+  "11473": {
+    "title": "Catch Me If You Can",
+    "chart_difficulty": [
+      5.0,
+      7.0,
+      10.8,
+      13.2
+    ]
+  },
+  "11474": {
+    "title": "MAGNETAR GIRL",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      10.7,
+      13.8
+    ]
+  },
+  "11475": {
+    "title": "SUPER AMBULANCE",
+    "chart_difficulty": [
+      6.0,
+      8.7,
+      12.0,
+      14.3
+    ]
+  },
+  "11477": {
+    "title": "Ghost Dance",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.0,
+      13.3
+    ]
+  },
+  "11478": {
+    "title": "電光石火",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.8,
+      14.3
+    ]
+  },
+  "11479": {
+    "title": "Hainuwele",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.9,
+      14.3
+    ]
+  },
+  "11480": {
+    "title": "アノーイング！さんさんウィーク！",
+    "chart_difficulty": [
+      1.0,
+      6.0,
+      8.5,
+      12.8
+    ]
+  },
+  "11481": {
+    "title": "アニマル",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      10.8,
+      13.1
+    ]
+  },
+  "11482": {
+    "title": "ジレンマ",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.2,
+      12.9
+    ]
+  },
+  "11483": {
+    "title": "踊",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      8.5,
+      11.5,
+      13.2
+    ]
+  },
+  "11484": {
+    "title": "残響散歌",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.7,
+      13.4
+    ]
+  },
+  "11485": {
+    "title": "フォニイ",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      9.8,
+      11.5,
+      13.3
+    ]
+  },
+  "11486": {
+    "title": "ヴィラン",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      9.2,
+      11.8,
+      13.0
+    ]
+  },
+  "11487": {
+    "title": "EYE",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.0,
+      13.0
+    ]
+  },
+  "11488": {
+    "title": "スカーレット警察のゲットーパトロール24時",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.5,
+      13.5
+    ]
+  },
+  "11489": {
+    "title": "田中",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.1,
+      14.3
+    ]
+  },
+  "11490": {
+    "title": "Random",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      11.2,
+      13.7
+    ]
+  },
+  "11491": {
+    "title": "Luminaria",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      12.2,
+      14.0
+    ]
+  },
+  "11492": {
+    "title": "群青讃歌",
+    "chart_difficulty": [
+      1.0,
+      6.2,
+      9.5,
+      12.4
+    ]
+  },
+  "11493": {
+    "title": "セカイ",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      10.0,
+      12.8
+    ]
+  },
+  "11494": {
+    "title": "ワーワーワールド",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      9.7,
+      13.0
+    ]
+  },
+  "11495": {
+    "title": "銀のめぐり",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.0,
+      12.9
+    ]
+  },
+  "11496": {
+    "title": "Destiny Runner",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      11.2,
+      14.0
+    ]
+  },
+  "11497": {
+    "title": "アマカミサマ",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.5,
+      12.7
+    ]
+  },
+  "11498": {
+    "title": "モンダイナイトリッパー！",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.7,
+      13.7
+    ]
+  },
+  "11499": {
+    "title": "マーシャル・マキシマイザー",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      9.8,
+      13.2
+    ]
+  },
+  "11500": {
+    "title": "秋の未確認生物",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      10.5,
+      12.9
+    ]
+  },
+  "11501": {
+    "title": "Dive into the ZONe",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.8,
+      13.3
+    ]
+  },
+  "11502": {
+    "title": "エナドリおいしいソング",
+    "chart_difficulty": [
+      5.0,
+      8.7,
+      12.8,
+      14.0
+    ]
+  },
+  "11503": {
+    "title": "Baddest",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      10.7,
+      13.8
+    ]
+  },
+  "11504": {
+    "title": "ばかみたい【Taxi Driver Edition】",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      12.0,
+      13.4
+    ]
+  },
+  "11505": {
+    "title": "れっつ！みらくる☆はーどこあっ！",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      11.8,
+      13.9
+    ]
+  },
+  "11506": {
+    "title": "Blank Paper (Prod. TEMPLIME)",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      8.7,
+      12.9
+    ]
+  },
+  "11507": {
+    "title": "In my world (Prod. KOTONOHOUSE)",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.0,
+      13.3
+    ]
+  },
+  "11508": {
+    "title": "アイム・マイヒーロー",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      9.0,
+      13.2
+    ]
+  },
+  "11509": {
+    "title": "NightTheater",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      11.8,
+      13.9
+    ]
+  },
+  "11510": {
+    "title": "キュートなカノジョ",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.8,
+      12.8
+    ]
+  },
+  "11511": {
+    "title": "へべれけジャンキー",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      9.7,
+      13.2
+    ]
+  },
+  "11512": {
+    "title": "きゅうくらりん",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      11.5,
+      13.7
+    ]
+  },
+  "11513": {
+    "title": "回る空うさぎ",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      8.2,
+      12.0
+    ]
+  },
+  "11514": {
+    "title": "Lost Desire",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      11.7,
+      13.8
+    ]
+  },
+  "11516": {
+    "title": "Aegleseeker",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      12.8,
+      14.5
+    ]
+  },
+  "11517": {
+    "title": "最強STRONGER",
+    "chart_difficulty": [
+      6.0,
+      8.7,
+      12.8,
+      14.6
+    ]
+  },
+  "11518": {
+    "title": "ボッカデラベリタ",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.0,
+      13.1
+    ]
+  },
+  "11519": {
+    "title": "『んっあっあっ。』",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      9.5,
+      12.8
+    ]
+  },
+  "11520": {
+    "title": "独りんぼエンヴィー",
+    "chart_difficulty": [
+      1.0,
+      6.5,
+      8.5,
+      12.7
+    ]
+  },
+  "11521": {
+    "title": "ロータスイーター",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      9.8,
+      13.3
+    ]
+  },
+  "11523": {
+    "title": "ViRTUS",
+    "chart_difficulty": [
+      6.0,
+      9.0,
+      13.2,
+      14.7
+    ]
+  },
+  "11524": {
+    "title": "Alice's Suitcase",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      10.7,
+      13.8
+    ]
+  },
+  "11525": {
+    "title": "ピュグマリオンの咒文",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      10.7,
+      13.8
+    ]
+  },
+  "11526": {
+    "title": "トノサマビーム",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.5,
+      12.8
+    ]
+  },
+  "11527": {
+    "title": "enchanted wanderer",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      12.0,
+      13.8
+    ]
+  },
+  "11528": {
+    "title": "Comet Panto Men!",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      12.0,
+      14.0
+    ]
+  },
+  "11529": {
+    "title": "ツムギボシ",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.9,
+      14.1
+    ]
+  },
+  "11530": {
+    "title": "VeRForTe αRtE:VEiN",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      12.9,
+      14.8
+    ]
+  },
+  "11532": {
+    "title": "ヱデン",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.0,
+      12.8
+    ]
+  },
+  "11533": {
+    "title": "にゃーにゃー冒険譚",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      11.0,
+      13.7
+    ]
+  },
+  "11534": {
+    "title": "The Great Banquet",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      11.5,
+      14.2
+    ]
+  },
+  "11535": {
+    "title": "Redemption",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.8,
+      13.9
+    ]
+  },
+  "11536": {
+    "title": "Ether Second",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.8,
+      13.9
+    ]
+  },
+  "11537": {
+    "title": "Straight into the lights",
+    "chart_difficulty": [
+      4.0,
+      8.5,
+      12.5,
+      14.8
+    ]
+  },
+  "11538": {
+    "title": "アンバークロニクル",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.0,
+      13.3
+    ]
+  },
+  "11539": {
+    "title": "リフヴェイン",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.8,
+      13.7
+    ]
+  },
+  "11540": {
+    "title": "Kairos",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.2,
+      13.8
+    ]
+  },
+  "11541": {
+    "title": "宵の鳥",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.7,
+      13.8
+    ]
+  },
+  "11542": {
+    "title": "ここからはじまるプロローグ。 (Kanon Remix)",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      11.8,
+      13.8
+    ]
+  },
+  "11543": {
+    "title": "モ°ルモ°ル (MZK Skippin' Remix)",
+    "chart_difficulty": [
+      3.0,
+      6.0,
+      10.9,
+      13.7
+    ]
+  },
+  "11544": {
+    "title": "VERTeX (rintaro soma deconstructed remix)",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      12.8,
+      14.7
+    ]
+  },
+  "11545": {
+    "title": "隠密あんみつDX",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.7,
+      13.5
+    ]
+  },
+  "11546": {
+    "title": "地球",
+    "chart_difficulty": [
+      6.0,
+      9.0,
+      12.8,
+      14.3
+    ]
+  },
+  "11547": {
+    "title": "Churros Parlor",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      12.5,
+      13.8
+    ]
+  },
+  "11548": {
+    "title": "超熊猫的周遊記（ワンダーパンダートラベラー）",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      12.7,
+      14.8
+    ]
+  },
+  "11549": {
+    "title": "Trrricksters!!",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      12.8,
+      14.5
+    ]
+  },
+  "11550": {
+    "title": "FLUFFY FLASH",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      12.8,
+      14.3
+    ]
+  },
+  "11551": {
+    "title": "STARRED HEART",
+    "chart_difficulty": [
+      3.0,
+      5.8,
+      9.7,
+      12.5
+    ]
+  },
+  "11552": {
+    "title": "Y.Y.Y.計画!!!!",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.7,
+      13.3
+    ]
+  },
+  "11553": {
+    "title": "Last Kingdom",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      12.5,
+      13.8
+    ]
+  },
+  "11554": {
+    "title": "LAMIA",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      13.0,
+      14.7
+    ]
+  },
+  "11555": {
+    "title": "ヒバリ",
+    "chart_difficulty": [
+      2.0,
+      5.0,
+      10.7,
+      13.4
+    ]
+  },
+  "11556": {
+    "title": "Hello, Hologram",
+    "chart_difficulty": [
+      5.0,
+      7.2,
+      10.5,
+      13.7
+    ]
+  },
+  "11557": {
+    "title": "不機嫌なスリーカード",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.5,
+      12.9
+    ]
+  },
+  "11558": {
+    "title": "神っぽいな",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      8.7,
+      11.7,
+      13.3
+    ]
+  },
+  "11559": {
+    "title": "魔法少女とチョコレゐト",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      9.5,
+      13.5
+    ]
+  },
+  "11560": {
+    "title": "阿修羅ちゃん",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      10.0,
+      13.2
+    ]
+  },
+  "11561": {
+    "title": "おとせサンダー",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      9.8,
+      11.5,
+      13.7
+    ]
+  },
+  "11562": {
+    "title": "ロウワー",
+    "chart_difficulty": [
+      2.0,
+      6.0,
+      8.8,
+      11.5,
+      13.5
+    ]
+  },
+  "11563": {
+    "title": "キャットラビング",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      8.8,
+      12.8
+    ]
+  },
+  "11564": {
+    "title": "リスペク風神",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      10.8,
+      13.7
+    ]
+  },
+  "11565": {
+    "title": "Let you DIVE!",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      11.7,
+      12.8
+    ]
+  },
+  "11566": {
+    "title": "Knight Rider",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      11.2,
+      13.8
+    ]
+  },
+  "11567": {
+    "title": "I’m Here (feat. Merry Kirk-Holmes)",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.0,
+      13.2
+    ]
+  },
+  "11568": {
+    "title": "INTERNET OVERDOSE",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.8,
+      13.5
+    ]
+  },
+  "11569": {
+    "title": "魂のルフラン",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.5,
+      12.9
+    ]
+  },
+  "11570": {
+    "title": "Shooting Shower～DANCE TIME(シンディ)～",
+    "chart_difficulty": [
+      4.0,
+      6.5,
+      9.0,
+      13.0
+    ]
+  },
+  "11571": {
+    "title": "Lights of Muse",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.0,
+      13.2
+    ]
+  },
+  "11572": {
+    "title": "tape/stop/night",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      10.2,
+      12.8
+    ]
+  },
+  "11573": {
+    "title": "Final Step!",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      11.0,
+      13.8
+    ]
+  },
+  "11574": {
+    "title": "The 90's Decision",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      11.2,
+      13.0
+    ]
+  },
+  "11575": {
+    "title": "僕の和風本当上手",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.0,
+      14.0
+    ]
+  },
+  "11576": {
+    "title": "Cthugha",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.5,
+      14.3
+    ]
+  },
+  "11577": {
+    "title": "はんぶんこ",
+    "chart_difficulty": [
+      1.0,
+      6.0,
+      8.7,
+      12.8
+    ]
+  },
+  "11578": {
+    "title": "PUPA",
+    "chart_difficulty": [
+      6.0,
+      7.7,
+      12.8,
+      14.5
+    ]
+  },
+  "11580": {
+    "title": "解けないように",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      9.8,
+      12.8
+    ]
+  },
+  "11583": {
+    "title": "インターネットサバイバー",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      11.0,
+      13.4
+    ]
+  },
+  "11584": {
+    "title": "コンティニュー！ feat. 藍月なくる",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      10.7,
+      13.7
+    ]
+  },
+  "11585": {
+    "title": "Sunday Night feat Kanata.N",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.8,
+      13.5
+    ]
+  },
+  "11586": {
+    "title": "PERSONA feat. PANXI",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.8,
+      13.3
+    ]
+  },
+  "11587": {
+    "title": "Halfway(>∀<)",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      12.0,
+      13.8
+    ]
+  },
+  "11588": {
+    "title": "Complex Mind",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.7,
+      13.8
+    ]
+  },
+  "11589": {
+    "title": "DROPS feat. Such",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.7,
+      13.2
+    ]
+  },
+  "11590": {
+    "title": "あつすぎの歌",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      10.5,
+      13.8
+    ]
+  },
+  "11591": {
+    "title": "ULTRA SYNERGY MATRIX",
+    "chart_difficulty": [
+      5.0,
+      7.4,
+      12.0,
+      14.0
+    ]
+  },
+  "11592": {
+    "title": "花となれ",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      8.8,
+      12.2
+    ]
+  },
+  "11593": {
+    "title": "私のドッペルゲンガー",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.7,
+      13.2
+    ]
+  },
+  "11594": {
+    "title": "BULK UP (GAME EXCLUSIVE EDIT)",
+    "chart_difficulty": [
+      5.0,
+      8.5,
+      11.9,
+      14.2
+    ]
+  },
+  "11596": {
+    "title": "Vallista",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      12.5,
+      14.1
+    ]
+  },
+  "11597": {
+    "title": "ノンブレス・オブリージュ",
+    "chart_difficulty": [
+      3.0,
+      7.2,
+      10.0,
+      13.0
+    ]
+  },
+  "11598": {
+    "title": "テオ",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      10.8,
+      13.2
+    ]
+  },
+  "11599": {
+    "title": "まにまに",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      9.8,
+      12.8
+    ]
+  },
+  "11600": {
+    "title": "感情ディシーブ",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.7,
+      13.0
+    ]
+  },
+  "11601": {
+    "title": "ド屑",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.5,
+      13.0
+    ]
+  },
+  "11602": {
+    "title": "絶対敵対メチャキライヤー",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      9.8,
+      12.9
+    ]
+  },
+  "11603": {
+    "title": "つるぺったん",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.0,
+      12.7
+    ]
+  },
+  "11604": {
+    "title": "『ウソテイ』 ～一回戦せりなvsしろなvsなずな～",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.5,
+      13.7
+    ]
+  },
+  "11605": {
+    "title": "Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.7,
+      13.3
+    ]
+  },
+  "11606": {
+    "title": "Snow Colored Score",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.9,
+      12.9
+    ]
+  },
+  "11607": {
+    "title": "MAGENTA POTION",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      10.5,
+      13.8
+    ]
+  },
+  "11608": {
+    "title": "NOIZY BOUNCE",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      10.0,
+      13.4
+    ]
+  },
+  "11609": {
+    "title": "サンバディ！",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.7,
+      13.2
+    ]
+  },
+  "11610": {
+    "title": "Horoscope Express",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.5,
+      13.9
+    ]
+  },
+  "11611": {
+    "title": "Party☆People☆Princess",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.9,
+      14.3
+    ]
+  },
+  "11612": {
+    "title": "Latent Kingdom",
+    "chart_difficulty": [
+      6.0,
+      8.5,
+      12.8,
+      14.8
+    ]
+  },
+  "11613": {
+    "title": "Mystic Parade",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.0,
+      13.5
+    ]
+  },
+  "11614": {
+    "title": "Cry Cry Cry",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      9.8,
+      12.8
+    ]
+  },
+  "11615": {
+    "title": "ぽわわん劇場",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.2,
+      13.4
+    ]
+  },
+  "11616": {
+    "title": "my flow",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.0,
+      13.7
+    ]
+  },
+  "11617": {
+    "title": "POWER OF UNITY",
+    "chart_difficulty": [
+      5.0,
+      8.2,
+      12.0,
+      13.8
+    ]
+  },
+  "11618": {
+    "title": "Energizing Flame",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      12.8,
+      14.4
+    ]
+  },
+  "11619": {
+    "title": "KHYMΞXΛ",
+    "chart_difficulty": [
+      6.0,
+      8.7,
+      12.9,
+      14.7
+    ]
+  },
+  "11620": {
+    "title": "フェイクフェイス・フェイルセイフ",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      11.9,
+      13.8
+    ]
+  },
+  "11621": {
+    "title": "ふらふらふら、",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      11.5,
+      13.8
+    ]
+  },
+  "11622": {
+    "title": "シックスプラン",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      9.2,
+      13.2
+    ]
+  },
+  "11623": {
+    "title": "フタタビ",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      11.2,
+      13.4
+    ]
+  },
+  "11624": {
+    "title": "SQUAD-Phvntom-",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      12.8,
+      14.4
+    ]
+  },
+  "11625": {
+    "title": "GEOMETRIC DANCE",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      12.5,
+      14.4
+    ]
+  },
+  "11626": {
+    "title": "Ring",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.8,
+      12.8
+    ]
+  },
+  "11627": {
+    "title": "インパアフェクシオン・ホワイトガアル",
+    "chart_difficulty": [
+      4.0,
+      7.9,
+      11.5,
+      14.2
+    ]
+  },
+  "11628": {
+    "title": "WE'RE BACK!!",
+    "chart_difficulty": [
+      4.0,
+      8.0,
+      12.2,
+      14.0
+    ]
+  },
+  "11629": {
+    "title": "熱異常",
+    "chart_difficulty": [
+      4.0,
+      7.7,
+      10.2,
+      11.8,
+      13.9
+    ]
+  },
+  "11630": {
+    "title": "1000年生きてる",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      9.0,
+      13.4
+    ]
+  },
+  "11631": {
+    "title": "IMAWANOKIWA",
+    "chart_difficulty": [
+      3.0,
+      7.5,
+      10.8,
+      13.7
+    ]
+  },
+  "11632": {
+    "title": "Play merrily NEO",
+    "chart_difficulty": [
+      2.0,
+      7.0,
+      9.8,
+      12.9
+    ]
+  },
+  "11633": {
+    "title": "OMAKENO Stroke",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.9,
+      13.8
+    ]
+  },
+  "11634": {
+    "title": "青春コンプレックス",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.0,
+      11.8,
+      13.8
+    ]
+  },
+  "11635": {
+    "title": "アンダーキッズ",
+    "chart_difficulty": [
+      5.0,
+      7.5,
+      10.8,
+      13.4
+    ]
+  },
+  "11636": {
+    "title": "さくゆいたいそう",
+    "chart_difficulty": [
+      2.0,
+      6.8,
+      9.7,
+      12.7
+    ]
+  },
+  "11637": {
+    "title": "バグ",
+    "chart_difficulty": [
+      4.0,
+      7.5,
+      10.2,
+      11.8,
+      13.9
+    ]
+  },
+  "11638": {
+    "title": "星界ちゃんと可不ちゃんのおつかい合騒曲",
+    "chart_difficulty": [
+      5.0,
+      8.0,
+      11.9,
+      13.8
+    ]
+  },
+  "11639": {
+    "title": "Burn My Soul",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      10.5,
+      12.8
+    ]
+  },
+  "11640": {
+    "title": "with U",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      12.0,
+      13.4
+    ]
+  },
+  "11641": {
+    "title": "Love Kills U",
+    "chart_difficulty": [
+      3.0,
+      7.8,
+      10.7,
+      13.4
+    ]
+  },
+  "11642": {
+    "title": "DANGEROOOOUS JUNGLE",
+    "chart_difficulty": [
+      4.0,
+      7.8,
+      11.8,
+      13.8
+    ]
+  },
+  "11643": {
+    "title": "天使光輪",
+    "chart_difficulty": [
+      6.0,
+      8.2,
+      12.5,
+      14.4
+    ]
+  },
+  "11644": {
+    "title": "story",
+    "chart_difficulty": [
+      3.0,
+      7.7,
+      10.8,
+      12.2
+    ]
+  },
+  "11645": {
+    "title": "トンデモワンダーズ",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      10.0,
+      13.6
+    ]
+  },
+  "11646": {
+    "title": "神威",
+    "chart_difficulty": [
+      6.0,
+      8.7,
+      12.8,
+      14.6
+    ]
+  },
+  "11647": {
+    "title": "ozma",
+    "chart_difficulty": [
+      6.0,
+      8.8,
+      12.9,
+      13.9
+    ]
+  },
+  "11648": {
+    "title": "月面基地",
+    "chart_difficulty": [
+      5.0,
+      7.8,
+      12.5,
+      13.7
+    ]
+  },
+  "11650": {
+    "title": "ずんだもんの朝食　〜目覚ましずんラップ〜",
+    "chart_difficulty": [
+      3.0,
+      8.0,
+      10.8,
+      13.2
+    ]
+  },
+  "11651": {
+    "title": "あなたは世界の終わりにずんだを食べるのだ",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      9.8,
+      12.9
+    ]
+  },
+  "11652": {
+    "title": "HUMANBORG",
+    "chart_difficulty": [
+      4.0,
+      7.0,
+      12.0,
+      13.8
+    ]
+  },
+  "11653": {
+    "title": "ULTRA POWER",
+    "chart_difficulty": [
+      3.0,
+      6.2,
+      11.2,
+      13.5
+    ]
+  },
+  "11654": {
+    "title": "ジェヘナ",
+    "chart_difficulty": [
+      2.0,
+      6.5,
+      9.8,
+      13.3
+    ]
+  },
+  "11655": {
+    "title": "ツギハギスタッカート",
+    "chart_difficulty": [
+      1.0,
+      6.0,
+      9.5,
+      12.7
+    ]
+  },
+  "11656": {
+    "title": "HANIPAGANDA",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      11.8,
+      13.6
+    ]
+  },
+  "11657": {
+    "title": "Rush-Hour",
+    "chart_difficulty": [
+      4.0,
+      8.7,
+      12.5,
+      13.8
+    ]
+  },
+  "11658": {
+    "title": "QUEEN",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.0,
+      12.8
+    ]
+  },
+  "11659": {
+    "title": "天使の翼。",
+    "chart_difficulty": [
+      2.0,
+      6.2,
+      9.8,
+      12.9
+    ]
+  },
+  "11660": {
+    "title": "さよならプリンセス",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      10.8,
+      13.0
+    ]
+  },
+  "11661": {
+    "title": "Apollo",
+    "chart_difficulty": [
+      7.0,
+      8.8,
+      13.0,
+      14.7
+    ]
+  },
+  "11662": {
+    "title": "raputa",
+    "chart_difficulty": [
+      7.0,
+      8.7,
+      13.7,
+      14.9
+    ]
+  },
+  "11663": {
+    "title": "系ぎて",
+    "chart_difficulty": [
+      7.0,
+      10.5,
+      13.8,
+      14.8,
+      15.0
+    ]
+  },
+  "11664": {
+    "title": "アルカンシエル",
+    "chart_difficulty": [
+      4.0,
+      7.2,
+      10.7,
+      13.0
+    ]
+  },
+  "11665": {
+    "title": "RAD DOGS",
+    "chart_difficulty": [
+      3.0,
+      6.5,
+      10.0,
+      13.0
+    ]
+  },
+  "11666": {
+    "title": "アイディスマイル",
+    "chart_difficulty": [
+      3.0,
+      7.0,
+      9.7,
+      12.8
+    ]
+  },
+  "11667": {
+    "title": "にっこり^^調査隊のテーマ",
+    "chart_difficulty": [
+      3.0,
+      6.8,
+      10.5,
+      12.8
+    ]
+  },
+  "11668": {
+    "title": "PinqPiq (xovevox Remix)",
+    "chart_difficulty": [
+      4.0,
+      6.8,
+      11.0,
+      13.8
+    ]
+  },
+  "11686": {
+    "title": "Λzure Vixen",
+    "chart_difficulty": [
+      6.0,
+      8.0,
+      13.2,
+      14.7
+    ]
+  },
+  "15009": {
+    "title": "INTERNET YAMERO",
+    "chart_difficulty": [
+      13.7
+    ]
+  },
+  "15211": {
+    "title": "壱雫空",
+    "chart_difficulty": [
+      13.6
+    ]
+  },
+  "15212": {
+    "title": "酔いどれ知らず",
+    "chart_difficulty": [
+      11.7
+    ]
+  },
+  "18001": {
+    "title": "INTERNET YAMERO",
+    "chart_difficulty": [
+      11.9,
+      13.8
+    ]
+  },
+  "18002": {
+    "title": "QuiQ",
+    "chart_difficulty": [
+      14.4
+    ]
+  },
+  "18003": {
+    "title": "Marbleblue.",
+    "chart_difficulty": [
+      14.4
+    ]
+  },
+  "18004": {
+    "title": "強風オールバック",
+    "chart_difficulty": [
+      12.6
+    ]
+  },
+  "18005": {
+    "title": "酔いどれ知らず",
+    "chart_difficulty": [
+      11.6,
+      13.2
+    ]
+  },
+  "18006": {
+    "title": "匿名M",
+    "chart_difficulty": [
+      12.8
+    ]
+  },
+  "18007": {
+    "title": "Edelweiss",
+    "chart_difficulty": [
+      13.9
+    ]
+  },
+  "18008": {
+    "title": "New York Back Raise",
+    "chart_difficulty": [
+      13.7
+    ]
+  },
+  "18009": {
+    "title": "アイドル",
+    "chart_difficulty": [
+      11.4,
+      13.1
+    ]
+  },
+  "18010": {
+    "title": "エスオーエス",
+    "chart_difficulty": [
+      13.6
+    ]
+  },
+  "18011": {
+    "title": "のじゃロリック",
+    "chart_difficulty": [
+      13.1
+    ]
+  },
+  "18012": {
+    "title": "ラビットホール",
+    "chart_difficulty": [
+      11.8,
+      13.3
+    ]
+  },
+  "18013": {
+    "title": "壱雫空",
+    "chart_difficulty": [
+      13.6
+    ]
+  },
+  "18016": {
+    "title": "過去を喰らう",
+    "chart_difficulty": [
+      12.9
+    ]
+  },
+  "18017": {
+    "title": "DUAL ROZES",
+    "chart_difficulty": [
+      13.7
+    ]
+  },
+  "18018": {
+    "title": "Freak Out Hr.",
+    "chart_difficulty": [
+      13.3
+    ]
+  },
+  "18019": {
+    "title": "MUSIC PЯAYER",
+    "chart_difficulty": [
+      13.5
+    ]
+  },
+  "18020": {
+    "title": "IF:U",
+    "chart_difficulty": [
+      14.7
+    ]
+  },
+  "18021": {
+    "title": "さよならヒストリー",
+    "chart_difficulty": [
+      13.1
+    ]
+  },
+  "18022": {
+    "title": "ouroboros -twin stroke of the end-",
+    "chart_difficulty": [
+      14.4
+    ]
+  },
+  "100018": {
+    "title": "[協]Love You",
+    "chart_difficulty": [
+      12.0
+    ]
+  },
+  "100022": {
+    "title": "[蔵]In Chaos",
+    "chart_difficulty": [
+      14.7
+    ]
+  },
+  "100114": {
+    "title": "[耐]Space Harrier Main Theme [Reborn]",
+    "chart_difficulty": [
+      14.7
+    ]
+  },
+  "100199": {
+    "title": "[蛸]チルノのパーフェクトさんすう教室",
+    "chart_difficulty": [
+      12.7
+    ]
+  },
+  "100206": {
+    "title": "[星]しゅわスパ大作戦☆",
+    "chart_difficulty": [
+      13.0
+    ]
+  },
+  "100220": {
+    "title": "[宴]セガサターン起動音[H.][Remix]",
+    "chart_difficulty": [
+      13.7
+    ]
+  },
+  "100227": {
+    "title": "[は]Garakuta Doll Play",
+    "chart_difficulty": [
+      14.0
+    ]
+  },
+  "100230": {
+    "title": "[宴]CYCLES",
+    "chart_difficulty": [
+      13.0
+    ]
+  },
+  "100259": {
+    "title": "[協]ぽっぴっぽー",
+    "chart_difficulty": [
+      13.7
+    ]
+  },
+  "100327": {
+    "title": "[狂]タカハせ！名人マン",
+    "chart_difficulty": [
+      14.7
+    ]
+  },
+  "100363": {
+    "title": "[宴]Oshama Scramble!",
+    "chart_difficulty": [
+      13.0
+    ]
+  },
+  "100456": {
+    "title": "[蔵]Glorious Crown",
+    "chart_difficulty": [
+      14.7
+    ]
+  },
+  "100508": {
+    "title": "[協]恋愛裁判",
+    "chart_difficulty": [
+      13.0
+    ]
+  },
+  "100517": {
+    "title": "[覚]東京リアルワールド",
+    "chart_difficulty": [
+      12.0
+    ]
+  },
+  "100524": {
+    "title": "[協]Hand in Hand",
+    "chart_difficulty": [
+      13.0
+    ]
+  },
+  "100548": {
+    "title": "[宴]DETARAME ROCK&ROLL THEORY",
+    "chart_difficulty": [
+      13.0
+    ]
+  },
+  "100606": {
+    "title": "[右]The wheel to the right",
+    "chart_difficulty": [
+      14.7
+    ]
+  },
+  "100631": {
+    "title": "[逆]KING is BACK!!",
+    "chart_difficulty": [
+      13.7
+    ]
+  },
+  "100700": {
+    "title": "[協]疾走あんさんぶる",
+    "chart_difficulty": [
+      14.0
+    ]
+  },
+  "100793": {
+    "title": "[疑]ロキ",
+    "chart_difficulty": [
+      13.0
+    ]
+  },
+  "110227": {
+    "title": "[J]Garakuta Doll Play",
+    "chart_difficulty": [
+      14.0
+    ]
+  },
+  "110579": {
+    "title": "[協]ポップミュージックは僕のもの",
+    "chart_difficulty": [
+      12.7
+    ]
+  },
+  "111222": {
+    "title": "[光]BREaK! BREaK! BREaK!",
+    "chart_difficulty": [
+      14.7
+    ]
+  },
+  "111513": {
+    "title": "[回]回る空うさぎ",
+    "chart_difficulty": [
+      11.0
+    ]
+  },
+  "111516": {
+    "title": "[蔵]Aegleseeker",
+    "chart_difficulty": [
+      14.7
+    ]
+  },
+  "111597": {
+    "title": "[息]ノンブレス・オブリージュ",
+    "chart_difficulty": [
+      13.7
+    ]
+  },
+  "120227": {
+    "title": "[r]Garakuta Doll Play",
+    "chart_difficulty": [
+      14.0
+    ]
+  },
+  "130227": {
+    "title": "[玉]Garakuta Doll Play",
+    "chart_difficulty": [
+      14.7
+    ]
+  },
+  "140227": {
+    "title": "[某]Garakuta Doll Play",
+    "chart_difficulty": [
+      14.7
+    ]
+  }
+}}
