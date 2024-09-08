@@ -1,7 +1,7 @@
 import json
 import os
 
-from src.plugins.maimai_new.data import root_path
+from data import root_path
 
 
 class GameDataManager:

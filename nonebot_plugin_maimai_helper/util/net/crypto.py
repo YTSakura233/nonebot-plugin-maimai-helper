@@ -2,7 +2,7 @@ import nonebot
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.backends import default_backend
 
-from src.plugins.maimai_new.util.utils import is_hex_string
+from util.utils import is_hex_string
 
 
 config = nonebot.get_driver().config

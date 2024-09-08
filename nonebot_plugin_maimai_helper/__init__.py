@@ -2,8 +2,8 @@ from nonebot import on_command, on_regex, on_startswith
 from nonebot.adapters.onebot.v11 import GroupMessageEvent, Message
 from nonebot.params import EventMessage
 
-from src.plugins.maimai_new.helper.simai import *
-from src.plugins.maimai_new.util.utils import save_user_id, get_userid, is_userid_exist
+from helper.simai import *
+from util.utils import save_user_id, get_userid, is_userid_exist
 
 bind_user_id = on_startswith(('SGWCMAID'), ignorecase=False)
 seeme = on_command('seeme', aliases={'看我', '审视党性'}, priority=20)

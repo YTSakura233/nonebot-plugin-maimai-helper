@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "nonebot_plugin_maimai_helper"
+version = "0.1.00"
+description = "Nonebot2 plugin for maimaiDX game account support function"
+authors = ["YTSakura233 <jionglian5566@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/YTSakura233/nonebot_plugin_maimai_helper"
+repository = "https://github.com/YTSakura233/nonebot_plugin_maimai_helper"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+nonebot2 = { version = "^2.0.0-rc.1", extras = ["fastapi"] }
+nonebot-adapter-onebot = "^2.1.1"
+pymysql = ">=1.0.0"
+requests = ">=2.20.1"
+cryptography = ">=42.0.0"
+urllib3 = ">=2.2.0"
+
+
+[tool.poetry.dev-dependencies]
+black = "^22.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
