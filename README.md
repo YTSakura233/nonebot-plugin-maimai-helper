@@ -19,28 +19,13 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
 
 ### 安装
 
-- 使用 nb-cli
-
-```
-    还在整
-```
-
-[//]: # (```)
-
-[//]: # (nb plugin install nonebot_plugin_maimai_helper)
-
-[//]: # (```)
-
 - 使用 pip
 
 ```
-    还在整
+
+pip install nonebot-plugin-maimai-helper
+
 ```
-[//]: # (```)
-
-[//]: # (pip install nonebot_plugin_maimai_helper)
-
-[//]: # (```)
 
 - 直接下载
 
