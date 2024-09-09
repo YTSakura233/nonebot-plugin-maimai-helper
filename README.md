@@ -22,9 +22,7 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
 - 使用 pip
 
 ```
-
-pip install nonebot-plugin-maimai-helper
-
+    pip install nonebot-plugin-maimai-helper
 ```
 
 - 直接下载
