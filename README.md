@@ -12,6 +12,9 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
   <img src="https://img.shields.io/github/license/noneplugin/nonebot-plugin-petpet" alt="license">
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/nonebot-2.0.0rc1+-red.svg" alt="NoneBot">
+    <a href="https://pypi.org/project/nonebot-plugin-maimai-helper">
+    <img src="https://img.shields.io/pypi/v/nonebot-plugin-maimai-helper?logo=python&logoColor=edb641" alt="pypi">
+  </a>
 </p>
 
 </div>
