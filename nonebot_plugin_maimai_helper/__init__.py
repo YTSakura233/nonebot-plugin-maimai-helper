@@ -19,61 +19,24 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
     user_id = None
     id_result = get_user_id_by_qr(str(message))
     logger.debug(f'USERID获取结果:{id_result}')
+    errorResult = {
+        1: "ReaderSetupFail", 2: "二维码可能已过期", 3: "ReaderIncompatible", 4: "DBResolveFail",
+        5: "DBAccessTimeout", 6: "DBAccessFail", 7: "AimeIdInvalid", 8: "NoBoardInfo",
+        9: "LockBanSystemUser", 10: "LockBanSystem", 11: "LockBanUser", 12: "LockBan",
+        13: "LockSystem", 14: "LockUser"
+    }
     if id_result['errorID'] == 0:
         user_id = id_result['userID']
-    elif id_result['errorID'] == 1:
-        await bind_user_id.send("ReaderSetupFail")
-        return
-    elif id_result['errorID'] == 2:
-        await bind_user_id.send("二维码可能已过期，请刷新重试")
-        return
-    elif id_result['errorID'] == 3:
-        await bind_user_id.send("ReaderIncompatible")
-        return
-    elif id_result['errorID'] == 4:
-        await bind_user_id.send("DBResolveFail")
-        return
-    elif id_result['errorID'] == 5:
-        await bind_user_id.send("DBAccessTimeout")
-        return
-    elif id_result['errorID'] == 6:
-        await bind_user_id.send("DBAccessFail")
-        return
-    elif id_result['errorID'] == 7:
-        await bind_user_id.send("AimeIdInvalid")
-        return
-    elif id_result['errorID'] == 8:
-        await bind_user_id.send("NoBoardInfo")
-        return
-    elif id_result['errorID'] == 9:
-        await bind_user_id.send("LockBanSystemUser")
-        return
-    elif id_result['errorID'] == 10:
-        await bind_user_id.send("LockBanSystem")
-        return
-    elif id_result['errorID'] == 11:
-        await bind_user_id.send("LockBanUser")
-        return
-    elif id_result['errorID'] == 12:
-        await bind_user_id.send("LockBan")
-        return
-    elif id_result['errorID'] == 13:
-        await bind_user_id.send("LockSystem")
-        return
-    elif id_result['errorID'] == 14:
-        await bind_user_id.send("LockUser")
-        return
     else:
-        await bind_user_id.send("查询ID失败")
-        return
+        await bind_user_id.finish([MessageSegment.reply(event.message_id), MessageSegment.text(f"查询ID失败:{errorResult[id_result['errorID']]}")])
     if save_user_id(user_qq, user_id) == 1:
-        await bind_user_id.send("绑定成功")
+        await bind_user_id.finish([MessageSegment.reply(event.message_id), MessageSegment.text("绑定成功")])
     elif save_user_id(user_qq, user_id) == -1:
-        await bind_user_id.send("请先联系机修解绑账号")
+        await bind_user_id.finish([MessageSegment.reply(event.message_id), MessageSegment.text("请先联系机修解绑账号")])
     elif save_user_id(user_qq, user_id) == -2:
-        await bind_user_id.send("绑定错误，请联系机修。")
+        await bind_user_id.finish([MessageSegment.reply(event.message_id), MessageSegment.text("绑定错误，请联系机修。")])
     else:
-        await bind_user_id.send("绑定错误，请联系机修。")
+        await bind_user_id.finish([MessageSegment.reply(event.message_id), MessageSegment.text("绑定错误，请联系机修。")])
 
 
 @seeme.handle()
@@ -85,22 +48,48 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
     else:
         await seeme.send("请先绑定账号")
     if user_id != -1:
-        data = get_preview(user_id)
-        if data['is_success']:
-            await seeme.send(
+        data = get_preview_detailed(user_id)
+        if data["is_got_qr_code"]:
+            await seeme.send([MessageSegment.reply(event.message_id), MessageSegment.text(
                 f"玩家昵称：\t{data['data']['userName']}\n"
                 f"玩家Rating：\t{data['data']['playerRating']}\n"
                 f"总觉醒数：\t{data['data']['totalAwake']}\n"
                 f"头像：\t{data['data']['iconName']}\n"
+                f"背景板：\t{data['data']['frameName']}\n"
+                f"姓名框：\t{data['data']['plateName']}\n"
+                f"称号：\t{data['data']['titleName']}\n"
+                f"搭档：\t{data['data']['partnerName']}\n"
                 f"最近登录系统号：\t{data['data']['lastRomVersion']}\n"
                 f"最近登录版本号：\t{data['data']['lastDataVersion']}\n"
                 f"上次登陆时间：\t{data['data']['lastLoginDate']}\n"
-                f"上次游玩时间：\t{data['data']['lastPlayDate']}\n"
-                f"是否登入：\t{data['data']['isLogin']}\n"
+                f"最后游玩时间：\t{data['data']['lastPlayDate']}\n"
+                f"玩家注册时间：\t{data['data']['firstPlayDate']}\n"
+                f"游玩次数：\t{data['data']['playCount']}\n"
+                f"当前游玩区域：\t{data['data']['lastSelectCourse']}\n"
+                f"旅行伙伴名称：\t{data['data']['charaName']}\n"
+                f"旅行伙伴等级：\t{data['data']['charaLevel']}\n"
+                f"旅行伙伴觉醒数：\t{data['data']['charaAwakening']}\n"
                 f"banState：\t{data['data']['banState']}\n"
             )
+                              ])
         else:
-            await seeme.send("获取失败，请联系机修。")
+            data1 = get_preview(user_id)
+            if data1['is_success']:
+                await seeme.send([MessageSegment.reply(event.message_id), MessageSegment.text(
+                    f"玩家昵称：\t{data1['data']['userName']}\n"
+                    f"玩家Rating：\t{data1['data']['playerRating']}\n"
+                    f"总觉醒数：\t{data1['data']['totalAwake']}\n"
+                    f"头像：\t{data1['data']['iconName']}\n"
+                    f"最近登录系统号：\t{data1['data']['lastRomVersion']}\n"
+                    f"最近登录版本号：\t{data1['data']['lastDataVersion']}\n"
+                    f"上次登陆时间：\t{data1['data']['lastLoginDate']}\n"
+                    f"上次游玩时间：\t{data1['data']['lastPlayDate']}\n"
+                    f"是否登入：\t{data1['data']['isLogin']}\n"
+                    f"banState：\t{data1['data']['banState']}\n"
+                    f"在公众号获取二维码后可以查看更多信息哟~"
+                )])
+            else:
+                await seeme.send([MessageSegment.reply(event.message_id), MessageSegment.text("获取失败，请联系机修。")])
 
 
 @maihelp.handle()
@@ -128,48 +117,51 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
         try:
             ticket_id = int(match.group(1))
         except ValueError:
-            await ticket.send("参数错误")
+            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("世嘉现在还不支持这种券哟~")])
             raise ValueError("匹配的不是有效的数字")
     else:
-        await ticket.send("请输入参数")
+        await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("你想发什么券呢？")])
         return
     if is_userid_exist(user_qq):
         # 判断是否存在userid
         user_id = get_userid(user_qq)
     else:
-        await ticket.send("请先绑定账号")
+        await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("先绑定账号叭~")])
         return
 
     if ticket_id == 2:
         result = send_ticket(user_id, 2)
         if result["is_success"]:
-            await ticket.send("发送成功")
+            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
         else:
-            await ticket.send(f"发送失败,{result['msg_body']}")
+            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
             return
     elif ticket_id == 3:
         result = send_ticket(user_id, 3)
         if result["is_success"]:
-            await ticket.send("发送成功")
+            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
         else:
-            await ticket.send(f"发送失败,{result['msg_body']}")
+            await ticket.send(
+                [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
             return
     elif ticket_id == 5:
         result = send_ticket(user_id, 5)
         if result["is_success"]:
-            await ticket.send("发送成功")
+            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
         else:
-            await ticket.send(f"发送失败,{result['msg_body']}")
+            await ticket.send(
+                [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
             return
     elif ticket_id == 6:
         result = send_ticket(user_id, 6)
         if result["is_success"]:
-            await ticket.send("发送成功")
+            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
         else:
-            await ticket.send(f"发送失败,{result['msg_body']}")
+            await ticket.send(
+                [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
             return
     else:
-        await ticket.send("无效参数请重新输入")
+        await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("你想发什么券呢？")])
         return
 
 
@@ -181,13 +173,13 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
         result = login(user_id)
         if result["data"]:
             if result["data"]["returnCode"] == 1:
-                await g_login.send("登入成功")
+                await g_login.send([MessageSegment.reply(event.message_id), MessageSegment.text("登入成功啦！")])
             else:
-                await g_login.send(f"登入失败,{result['msg_body']}")
+                await g_login.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"登入失败了,{result['msg_body']}")])
         else:
-            await g_login.send(f"登入失败,{result['msg_body']}")
+            await g_login.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"登入失败了,{result['msg_body']}")])
     else:
-        await g_login.send("请先绑定账号")
+        await g_login.send([MessageSegment.reply(event.message_id), MessageSegment.text("先绑定账号叭")])
 
 
 @g_logout.handle()
@@ -198,13 +190,13 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
         result = logout(user_id, 114514)
         if result["data"]:
             if result["data"]["returnCode"] == 1:
-                await g_logout.send("登出成功")
+                await g_logout.send([MessageSegment.reply(event.message_id), MessageSegment.text("登出成功啦")])
             else:
-                await g_logout.send(f"登出失败,{result['msg_body']}")
+                await g_logout.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"登出失败了,{result['msg_body']}")])
         else:
-            await g_logout.send(f"登出失败,{result['msg_body']}")
+            await g_logout.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"登出失败了,{result['msg_body']}")])
     else:
-        await g_logout.send("请先绑定账号")
+        await g_logout.send([MessageSegment.reply(event.message_id), MessageSegment.text("先绑定账号叭")])
 
 
 @tickets.handle()
@@ -214,9 +206,9 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
         user_id = get_userid(user_qq)
         result = query_ticket(user_id)
         if len(result["data"]["userChargeList"]) != 5:
-            await tickets.send("请先在本版本游戏登陆一次")
+            await tickets.send([MessageSegment.reply(event.message_id), MessageSegment.text("需要先在本版本游戏登陆一次哟")])
         else:
-            await tickets.send(
+            await tickets.send([MessageSegment.reply(event.message_id), MessageSegment.text(
                 f"您有：\n"
                 f"2倍券：{result['data']['userChargeList'][0]['stock']}张\n"
                 f"3倍券：{result['data']['userChargeList'][1]['stock']}张\n"
@@ -224,5 +216,6 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
                 f"6倍券：{result['data']['userChargeList'][3]['stock']}张\n"
                 f"联合券：{result['data']['userChargeList'][4]['stock']}张\n"
             )
+                                ])
     else:
-        await tickets.send("请先绑定账号")
+        await tickets.send([MessageSegment.reply(event.message_id), MessageSegment.text("先绑定账号叭")])

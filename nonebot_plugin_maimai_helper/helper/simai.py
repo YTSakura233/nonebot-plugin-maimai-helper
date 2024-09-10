@@ -64,7 +64,7 @@ def get_preview(uid):
 
 def get_preview_detailed(uid):
     result = {"is_success": False, "is_error": False, "user_id": uid, "data": {}, "msg_body": "",
-              "is_in_whitelist": False}
+              "is_in_whitelist": False, "is_got_qr_code": False}
     login_dict = {
         "userId": uid,
         "accessCode": "",
@@ -88,8 +88,10 @@ def get_preview_detailed(uid):
             result["msg_body"] = "请在微信“舞萌 | 中二”服务号上点击一次“玩家二维码”按钮后再试一遍"
             logger.error("登入失败，请在微信“舞萌 | 中二”服务号上点击一次“玩家二维码”按钮后再试一遍")
             return result
-    else:
         logger.success("登入成功")
+        result["is_got_qr_code"] = True
+    else:
+        result["is_got_qr_code"] = True
         result["is_already_login"] = True
     logger.debug("开始获取用户详细信息")
     user_data = request.Request("GetUserDataApiMaimaiChn", login_dict)
@@ -451,7 +453,6 @@ def get_user_id(qr_code):
     timestamp = datetime.now().strftime("%Y%m%d%H%M%S")[2:]
     chip_id = "A63E-01E{0:08}".format(random.randint(0, 99999999))
     key = hashlib.sha256(f"{chip_id}{timestamp}{AIME_SALT}".encode()).hexdigest().upper()
-    # 别问我为什么用字符串拼接不用json.dumps()，要问去问SBGA
     data_json = f"{{\"chipID\":\"{chip_id}\",\"openGameID\":\"{GAME_ID}\",\"key\":\"{key}\",\"qrCode\":\"{qr_code}\",\"timestamp\":\"{timestamp}\"}}"
 
     logger.debug("开始获取用户USER_ID")
