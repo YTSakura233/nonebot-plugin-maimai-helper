@@ -11,6 +11,7 @@ maihelp = on_command('maihelp', priority=20)
 g_login = on_command('login', priority=20)
 g_logout = on_command('logout', priority=20)
 tickets = on_command('ticket',aliases={'查票'}, priority=20)
+trick = on_command('舞萌足迹', priority=20)
 
 
 @bind_user_id.handle()
@@ -96,12 +97,13 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
 async def _(event: GroupMessageEvent, message: Message = EventMessage()):
     await maihelp.send(
         "maimai插件帮助\n"
-        "绑定账号 - 发送二维码解析出来的内容\n"
+        "绑定账号 - 发送二维码解析出来的内容 - SGWCMAID123456\n"
         "查询账号 - 发送'seeme'\n"
         "发2/3/5/6倍券 - 发送'发券2/3/5/6'\n"
         "查询账户内剩余功能票 - 发送'ticket'\n"
         "登入账号 - 发送login\n"
-        "登出账号 - 发送logout(仅限通过本机器人登入的账号)"
+        "登出账号 - 发送logout(仅限通过本机器人登入的账号)\n"
+        "游玩足迹 - 发送'舞萌足迹'\n"
     )
 
 
@@ -219,3 +221,25 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
                                 ])
     else:
         await tickets.send([MessageSegment.reply(event.message_id), MessageSegment.text("先绑定账号叭")])
+
+
+@trick.handle()
+async def _(event: GroupMessageEvent, message: Message = EventMessage()):
+    user_qq = event.get_user_id()
+    if is_userid_exist(user_qq):
+        user_id = get_userid(user_qq)
+        USERID = True
+    else:
+        USERID = False
+        await trick.send('请先绑定账号叭')
+    if USERID:
+        tricklist = [MessageSegment.reply(event.message_id),]
+        data = get_user_region(user_id)['data']['userRegionList']
+        for place in data:
+            tricklist.append(
+                MessageSegment.text(
+                    f"您在{place['regionName']}游玩过{place['playCount']}次\n"
+                    f"最初游玩时间为{place['created']}\n"
+                )
+            )
+        await trick.send(tricklist)
