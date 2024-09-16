@@ -207,18 +207,19 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
     if is_userid_exist(user_qq):
         user_id = get_userid(user_qq)
         result = query_ticket(user_id)
-        if len(result["data"]["userChargeList"]) != 5:
-            await tickets.send([MessageSegment.reply(event.message_id), MessageSegment.text("需要先在本版本游戏登陆一次哟")])
-        else:
-            await tickets.send([MessageSegment.reply(event.message_id), MessageSegment.text(
-                f"您有：\n"
-                f"2倍券：{result['data']['userChargeList'][0]['stock']}张\n"
-                f"3倍券：{result['data']['userChargeList'][1]['stock']}张\n"
-                f"5倍券：{result['data']['userChargeList'][2]['stock']}张\n"
-                f"6倍券：{result['data']['userChargeList'][3]['stock']}张\n"
-                f"联合券：{result['data']['userChargeList'][4]['stock']}张\n"
-            )
-                                ])
+        ticketlist = [MessageSegment.reply(event.message_id),]
+        for ticket in result['data']['userChargeList']:
+            if ticket['chargeId'] == 2:
+                ticketlist.append(MessageSegment.text(f"您有2倍券:{ticket['stock']}张\n"))
+            elif ticket['chargeId'] == 3:
+                ticketlist.append(MessageSegment.text(f"您有3倍券:{ticket['stock']}张\n"))
+            elif ticket['chargeId'] == 5:
+                ticketlist.append(MessageSegment.text(f"您有5倍券:{ticket['stock']}张\n"))
+            elif ticket['chargeId'] == 6:
+                ticketlist.append(MessageSegment.text(f"您有6倍券:{ticket['stock']}张\n"))
+            elif ticket['chargeId'] == 20020:
+                ticketlist.append(MessageSegment.text(f"您有联合券:{ticket['stock']}张\n"))
+        await tickets.send(ticketlist)
     else:
         await tickets.send([MessageSegment.reply(event.message_id), MessageSegment.text("先绑定账号叭")])
 
