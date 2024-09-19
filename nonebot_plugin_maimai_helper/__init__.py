@@ -12,6 +12,8 @@ g_login = on_command('login', priority=20)
 g_logout = on_command('logout', priority=20)
 tickets = on_command('ticket',aliases={'查票'}, priority=20)
 trick = on_command('舞萌足迹', priority=20)
+token_bind = on_command("bind", priority=20)
+gb = on_command("gb", priority=20)
 
 
 def check_time():
@@ -112,11 +114,12 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
         "绑定账号 - 发送二维码解析出来的内容 - SGWCMAID123456\n"
         "查询账号 - 发送'seeme'\n"
         "发2/3/5/6倍券 - 发送'发券2/3/5/6'\n"
-        "(发券7 可发送中二·舞萌联合2倍券)\n"
         "查询账户内剩余功能票 - 发送'ticket'\n"
         "登入账号 - 发送login\n"
         "登出账号 - 发送logout(仅限通过本机器人登入的账号)\n"
         "游玩足迹 - 发送'舞萌足迹'\n"
+        "绑定查分器 - 发送'bind+查分器token'\n"
+        "更新b50 - 发送'gb'\n"
         "请勿在凌晨三点至凌晨七点内使用本Bot！！\n"
     )
 
@@ -279,3 +282,63 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
             await trick.send(tricklist)
     else:
         await bind_user_id.send([MessageSegment.reply(event.message_id), MessageSegment.text("现在为服务器维护时间，本功能暂停使用")])
+
+
+@token_bind.handle()
+async def _(event: GroupMessageEvent, message: Message = EventMessage()):
+    if check_time():
+        token = str(event.message)[4:].strip()
+        user_qq = event.get_user_id()
+        if token and len(token) == 128:
+            if is_token_exist(user_qq):
+                await token_bind.send([MessageSegment.reply(event.message_id), MessageSegment.text("请先联系机修解绑token")])
+            else:
+                if save_user_token(user_qq, token) == 1:
+                    await token_bind.send([MessageSegment.reply(event.message_id), MessageSegment.text("绑定成功,请及时撤回token")])
+                elif save_user_token(user_qq, token) == -1:
+                    await token_bind.send(
+                        [MessageSegment.reply(event.message_id), MessageSegment.text("请先联系机修解绑token")])
+                elif save_user_token(user_qq, token) == -2:
+                    await token_bind.send(
+                        [MessageSegment.reply(event.message_id), MessageSegment.text("绑定错误，请联系机修。")])
+        else:
+            await token_bind.send("请正确输入token")
+    else:
+        await bind_user_id.send(
+            [MessageSegment.reply(event.message_id), MessageSegment.text("现在为服务器维护时间，本功能暂停使用")])
+
+
+@gb.handle()
+async def _(event: GroupMessageEvent, message: Message = EventMessage()):
+    if check_time():
+        user_qq = event.get_user_id()
+        if not is_token_exist(user_qq):
+            await gb.send([MessageSegment.reply(event.message_id), MessageSegment.text("请先绑定token")])
+        else:
+            if not is_userid_exist(user_qq):
+                await gb.send([MessageSegment.reply(event.message_id), MessageSegment.text("请先绑定账号")])
+            else:
+                await gb.send([MessageSegment.reply(event.message_id), MessageSegment.text("正在更新b50，请耐心等待，不要重复发送")])
+                token = get_token(user_qq)
+                user_id = get_userid(user_qq)
+                old_data = dump_user_all(user_id)
+                if not old_data['is_success']:
+                    await gb.finish([MessageSegment.reply(event.message_id), MessageSegment.text(f"更新失败，{old_data['msg_body']}")])
+                else:
+                    old_data = old_data['data']['userMusicDetailList']
+                try:
+                    print(-1)
+                    new_data, n = change_data(old_data)
+                    print(0)
+                    result = send_user_data(new_data, token)
+                    print(1)
+                    if result['status'] == 200:
+                        await gb.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"更新成功，发送{n}首歌曲")])
+                    else:
+                        await gb.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"更新失败了，请联系机修查看错误信息，{result['msg']}")])
+                except Exception as e:
+                    await gb.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"更新失败，请联系机修查看错误信息，{e}")])
+    else:
+        await bind_user_id.send(
+            [MessageSegment.reply(event.message_id), MessageSegment.text("现在为服务器维护时间，本功能暂停使用")])
+

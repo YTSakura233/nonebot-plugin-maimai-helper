@@ -38,12 +38,21 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
 ### 数据库
 
 请建立如下配置数据库
+#### 表1
 ```
     表名：id
 ```
 ```
     字段1：qq
     字段2：userid
+```
+#### 表2
+```
+    表名：diving
+```
+```
+    字段1：qq
+    字段2：token
 ```
 
 
@@ -174,11 +183,34 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
 
 将会登出玩家账号（仅支持由本插件登入的账户）
 
+
 #### 查询足迹
 
 前缀 + 舞萌足迹
 
 可以查看在哪些地区玩过舞萌
+
+
+#### 绑定token
+
+前缀 + bind + 水鱼token
+
+即可绑定token至机器人
+
+
+#### 更新b50
+
+前缀 + gb
+
+即可更新b50
+
+
+#### 更新水鱼歌曲列表（针对管理员）
+
+执行本插件目录下的update_music_list.py
+进行歌曲信息的更新
+
+建议定期执行一次
 
 
 ### 特别感谢

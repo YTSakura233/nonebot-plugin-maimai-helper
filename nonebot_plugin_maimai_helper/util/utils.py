@@ -171,3 +171,81 @@ def get_userid(user_qq):
         return -1
     finally:
         conn.close()
+
+def is_token_exist(user_qq):
+    """
+    根据QQ号查询token是否在数据库内
+
+    :param user_qq: 用户QQ号
+    """
+    conn = pymysql.connect(host=db_host, port=3306, user=db_user, passwd=db_pass, db=db, charset='utf8')
+    try:
+        with conn.cursor() as cursor:
+            logger.debug(f"开始查询数据库是否有QQ号:{user_qq}对应TOKEN")
+            sql = 'select * from diving where qq = %s'
+            result = cursor.execute(sql, (user_qq,))
+            if result > 0:
+                logger.success("查询成功")
+                return True
+            else:
+                logger.success("查询无结果")
+                return False
+    except Exception as e:
+        logger.error(f"USER_ID查询失败:{e}")
+        return False
+    finally:
+        conn.close()
+
+
+def save_user_token(user_qq, token):
+    """
+    存入对应QQ号的USER_ID
+
+    :param user_qq: 用户QQ号
+    :param user_token: 用户USER_TOKEN
+    """
+    conn = pymysql.connect(host=db_host, port=3306, user=db_user, passwd=db_pass, db=db, charset='utf8')
+    try:
+        if not is_token_exist(user_qq):
+            with conn.cursor() as cursor:
+                logger.debug(f"开始存入QQ:{user_qq}的TOKEN:{token}")
+                sql = 'insert into diving (qq, token) values (%s, %s)' % (user_qq, f"'{token}'")
+                print(sql)
+                cursor.execute(sql)
+                conn.commit()
+                logger.success("存入成功")
+                return 1
+        else:
+            return -1
+    except Exception as e:
+        logger.error(f"插入/更新QQ:{user_qq}对应USERID:{token}失败:{e}")
+        return -2
+    finally:
+        conn.close()
+
+
+def get_token(user_qq):
+    """
+    根据QQ号查询token
+
+    :param user_qq: 用户QQ号
+    """
+    conn = pymysql.connect(host=db_host, port=3306, user=db_user, passwd=db_pass, db=db, charset='utf8')
+    try:
+        if is_token_exist(user_qq):
+            with conn.cursor() as cursor:
+                logger.debug(f"开始获取QQ号:{user_qq}对应USER_ID")
+                sql = 'select * from diving where qq = %s' % (user_qq)
+                cursor.execute(sql)
+                result = cursor.fetchall()
+                for row in result:
+                    logger.success(f'获取QQ:{user_qq}对应USER_ID成功:{row[1]}')
+                    return row[1]
+        else:
+            logger.error(f"QQ:{user_qq}不存在USER_ID")
+            return -1
+    except Exception as e:
+        logger.error(f"QQ:{user_qq}对应USER_ID获取失败:{e}")
+        return -1
+    finally:
+        conn.close()
