@@ -1,7 +1,7 @@
 import json
 import os
 
-from data import root_path
+from nonebot_plugin_maimai_helper.data import root_path
 
 
 class GameDataManager:

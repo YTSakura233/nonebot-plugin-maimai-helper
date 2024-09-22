@@ -9,10 +9,10 @@ from nonebot.log import logger
 
 import requests
 
-from util.net.HTTPRequest import HTTPRequest
-from data import ticket_define, region_map
-from util.utils import find_chara_levels, find_chara_awakening
-from manager.game_data import GameDataManager
+from nonebot_plugin_maimai_helper.util.net.HTTPRequest import HTTPRequest
+from nonebot_plugin_maimai_helper.data import ticket_define, region_map
+from nonebot_plugin_maimai_helper.util.utils import find_chara_levels, find_chara_awakening
+from nonebot_plugin_maimai_helper.manager.game_data import GameDataManager
 
 chara_manager = GameDataManager("chara")
 title_manager = GameDataManager("title")

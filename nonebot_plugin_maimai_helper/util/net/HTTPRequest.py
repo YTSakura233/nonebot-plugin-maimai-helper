@@ -8,9 +8,9 @@ import nonebot
 import urllib3
 from nonebot.log import logger
 
-from util.net.crypto import CipherAES
-from util.net.SocketHttps import HttpClient
-from data import network_count
+from nonebot_plugin_maimai_helper.util.net.crypto import CipherAES
+from nonebot_plugin_maimai_helper.util.net.SocketHttps import HttpClient
+from nonebot_plugin_maimai_helper.data import network_count
 
 
 config = nonebot.get_driver().config

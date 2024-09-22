@@ -3,7 +3,7 @@ import os
 
 import requests
 from nonebot.log import logger
-from src.plugins.maimai_new.data import root_path
+from data import root_path
 
 
 URL = "https://www.diving-fish.com/api/maimaidxprober/music_data"

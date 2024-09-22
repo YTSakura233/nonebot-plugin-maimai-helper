@@ -1,7 +1,7 @@
 import json
 
 import requests
-from src.plugins.maimai_new.data import root_path
+from nonebot_plugin_maimai_helper.data import root_path
 
 URL = "https://www.diving-fish.com/api/maimaidxprober/player/update_records"
 

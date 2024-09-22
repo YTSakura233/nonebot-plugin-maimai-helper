@@ -1,6 +1,6 @@
 import os
 from datetime import datetime
-from src.plugins.maimai_new.manager.usage_count import NetworkCount
+from manager.usage_count import NetworkCount
 
 
 root_path = os.path.dirname(__file__)
