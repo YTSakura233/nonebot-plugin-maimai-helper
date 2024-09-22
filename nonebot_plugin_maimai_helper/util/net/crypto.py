@@ -6,8 +6,8 @@ from util.utils import is_hex_string
 
 
 config = nonebot.get_driver().config
-aes_key = getattr(config, 'aes_key')
-aes_iv = getattr(config, 'aes_iv')
+aes_key = getattr(config, 'aes_key', 'EQ:R@')
+aes_iv = getattr(config, 'aes_iv', ';1ovXa')
 
 
 if is_hex_string(aes_key):

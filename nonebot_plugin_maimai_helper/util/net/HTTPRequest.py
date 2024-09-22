@@ -14,9 +14,9 @@ from data import network_count
 
 
 config = nonebot.get_driver().config
-TITLE_HOST = getattr(config, 'title_host')
-CLIENT_ID = getattr(config, 'client_id')
-OBFUSCATE_PARAM = getattr(config, 'obfuscate_param')
+TITLE_HOST = getattr(config, 'title_host', 'https://localhost')
+CLIENT_ID = getattr(config, 'client_id', 'ABCDEFG')
+OBFUSCATE_PARAM = getattr(config, 'obfuscate_param', '12Aacc')
 
 
 class HTTPRequest:

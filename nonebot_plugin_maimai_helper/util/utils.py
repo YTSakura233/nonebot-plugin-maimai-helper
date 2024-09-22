@@ -6,10 +6,10 @@ from nonebot.log import logger
 
 
 config = nonebot.get_driver().config
-db_host = getattr(config, 'db_host')
-db_user = getattr(config, 'db_user')
-db_pass = getattr(config, 'db_pass')
-db = getattr(config, 'db_name')
+db_host = getattr(config, 'db_host', 'localhost')
+db_user = getattr(config, 'db_user', 'root')
+db_pass = getattr(config, 'db_pass', '<PASSWORD>')
+db = getattr(config, 'db_name', 'aime')
 
 
 def is_hex_string(s):

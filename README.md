@@ -59,35 +59,41 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
 ### 配置项
 
 > 以下配置项可在 `.env.*` 文件中设置，具体参考 [NoneBot 配置方式](https://v2.nonebot.dev/docs/tutorial/configuration#%E9%85%8D%E7%BD%AE%E6%96%B9%E5%BC%8F)
+> 以下配置缺一不可，必须全部正确配置，否则插件无法运行。
+
+#### `SUPERUSERS`
+ - 类型：`list`
+ - 默认：`[]`
+ - 说明：机修的QQ号，nonebot1请在.env进行配置,nonebot2请在bot.py内的init内进行配置
 
 #### `aes_key`
  - 类型：`str`
- - 默认：`无`
+ - 默认：`EQ:R@`
  - 说明：服务器请求的相关加密信息，请自行寻找
 
 #### `aes_iv `
  - 类型：`str`
- - 默认：`无`
+ - 默认：`;1ovXa`
  - 说明：服务器请求的相关加密信息，请自行寻找
 
 #### `db_host `
  - 类型：`str`
- - 默认：`无`
+ - 默认：`localhost`
  - 说明：存储用户信息的数据库地址
 
 #### `db_user`
  - 类型：`str`
- - 默认：`无`
+ - 默认：`root`
  - 说明：存储用户信息的数据库用户名
 
 #### `db_pass`
  - 类型：`str`
- - 默认：`无`
+ - 默认：`<PASSWORD>`
  - 说明：存储用户信息的数据库密码
 
 #### `db_name`
  - 类型：`str`
- - 默认：`无`
+ - 默认：`aime`
  - 说明：存储用户信息的数据库名
 
 #### `datatime_constant`
@@ -97,42 +103,42 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
 
 #### `region_id`
  - 类型：`int`
- - 默认：`无`
+ - 默认：`114514`
  - 说明：服务器交互有关参数，请自行寻找
 
 #### `place_id`
  - 类型：`int`
- - 默认：`无`
+ - 默认：`115414`
  - 说明：服务器交互有关参数，请自行寻找
 
 #### `client_id`
  - 类型：`int`
- - 默认：`无`
+ - 默认：`ABCDEFG`
  - 说明：服务器交互有关参数，请自行寻找
 
 #### `chime_salt`
  - 类型：`str`
- - 默认：`无`
+ - 默认：`PArBXE`
  - 说明：服务器交互有关加密参数，请自行寻找
 
 #### `chime_host`
  - 类型：`str`
- - 默认：`无`
+ - 默认：`localhost`
  - 说明：游戏相关服务器地址，请自行寻找
 
 #### `aime_host`
  - 类型：`str`
- - 默认：`无`
+ - 默认：`http://localhost`
  - 说明：游戏相关服务器地址，请自行寻找
 
 #### `obfuscate_param`
  - 类型：`str`
- - 默认：`无`
+ - 默认：`12Aacc`
  - 说明：服务器交互有关加密参数，请自行寻找
 
 #### `title_host`
  - 类型：`str`
- - 默认：`无`
+ - 默认：`https://localhost`
  - 说明：游戏相关服务器地址，请自行寻找
 
 
@@ -143,7 +149,8 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
 **请勿在凌晨3点至凌晨7点使用本插件！！！**
 
 #### 绑定账号
-- 前缀 + 玩家二维码解析内容，如： SGWCMAID123456
+
+前缀 + 玩家二维码解析内容，如： SGWCMAID123456
 
 本命令将会绑定玩家游戏账号信息到数据库
 
@@ -206,10 +213,9 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
 即可更新b50
 
 
-#### 更新水鱼歌曲列表（针对管理员）
+#### 更新水鱼歌曲列表（针对机修）
 
-执行本插件目录下的update_music_list.py
-进行歌曲信息的更新
+前缀 + uplist
 
 建议定期执行一次
 

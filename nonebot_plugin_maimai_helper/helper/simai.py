@@ -24,12 +24,12 @@ icon_manager = GameDataManager("icon")
 
 config = nonebot.get_driver().config
 dateTime_constant = getattr(config, 'dateTime_constant', 114514)
-region_id = getattr(config, 'region_id')
-placeId = getattr(config, 'place_id')
-clientId = getattr(config, 'client_id')
-chimeSalt = getattr(config, 'chime_salt')
-chimeHost = getattr(config, 'chime_host')
-aimeHost = getattr(config, 'aime_host')
+region_id = getattr(config, 'region_id', 114514)
+placeId = getattr(config, 'place_id', 114514)
+clientId = getattr(config, 'client_id', 'ABCDEFG')
+chimeSalt = getattr(config, 'chime_salt', 'PArBXE')
+chimeHost = getattr(config, 'chime_host', 'localhost')
+aimeHost = getattr(config, 'aime_host', 'http://localhost')
 
 
 def get_user_music_details(uid: int):

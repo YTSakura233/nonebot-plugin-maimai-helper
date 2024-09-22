@@ -1,6 +1,7 @@
 from nonebot import on_command, on_regex, on_startswith
 from nonebot.adapters.onebot.v11 import GroupMessageEvent, Message
 from nonebot.params import EventMessage
+from nonebot.permission import SUPERUSER
 
 from helper.simai import *
 from util.utils import save_user_id, get_userid, is_userid_exist
@@ -14,6 +15,7 @@ tickets = on_command('ticket',aliases={'查票'}, priority=20)
 trick = on_command('舞萌足迹', priority=20)
 token_bind = on_command("bind", priority=20)
 gb = on_command("gb", priority=20)
+up_list = on_command('uplist', priority=20, permission=SUPERUSER)
 
 
 def check_time():
@@ -110,16 +112,18 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
 @maihelp.handle()
 async def _(event: GroupMessageEvent, message: Message = EventMessage()):
     await maihelp.send(
-        "maimai插件帮助\n"
+        "maimai插件帮助 - Ver.1.2.2\n"
         "绑定账号 - 发送二维码解析出来的内容 - SGWCMAID123456\n"
         "查询账号 - 发送'seeme'\n"
         "发2/3/5/6倍券 - 发送'发券2/3/5/6'\n"
+        "(发券7 可发送中二·舞萌联合2倍券)\n"
         "查询账户内剩余功能票 - 发送'ticket'\n"
         "登入账号 - 发送login\n"
         "登出账号 - 发送logout(仅限通过本机器人登入的账号)\n"
         "游玩足迹 - 发送'舞萌足迹'\n"
         "绑定查分器 - 发送'bind+查分器token'\n"
         "更新b50 - 发送'gb'\n"
+        "更新水鱼乐曲列表 - 发送'uplist'(仅限机修)\n"
         "请勿在凌晨三点至凌晨七点内使用本Bot！！\n"
     )
 
@@ -342,3 +346,11 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
         await bind_user_id.send(
             [MessageSegment.reply(event.message_id), MessageSegment.text("现在为服务器维护时间，本功能暂停使用")])
 
+
+@up_list.handle()
+async def _(event: GroupMessageEvent, message: Message = EventMessage()):
+    try:
+        update_music_list()
+        await up_list.send([MessageSegment.reply(event.message_id), MessageSegment.text("更新成功")])
+    except Exception as e:
+        await up_list.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"更新失败,{e}")])
