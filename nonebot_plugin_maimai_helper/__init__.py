@@ -114,7 +114,7 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
 @maihelp.handle()
 async def _(event: GroupMessageEvent, message: Message = EventMessage()):
     await maihelp.send(
-        "maimai插件帮助 - Ver.1.2.3\n"
+        "maimai插件帮助 - Ver.1.2.4\n"
         "绑定账号 - 发送二维码解析出来的内容 - SGWCMAID123456\n"
         "查询账号 - 发送'seeme'\n"
         "发2/3/5/6倍券 - 发送'发券2/3/5/6'\n"
