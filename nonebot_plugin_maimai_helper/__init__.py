@@ -4,7 +4,9 @@ from nonebot.params import EventMessage
 from nonebot.permission import SUPERUSER
 
 from helper.simai import *
-from util.utils import save_user_id, get_userid, is_userid_exist
+from util.utils import *
+from helper.diving_fish import *
+from update_music_list import *
 
 bind_user_id = on_startswith(('SGWCMAID'), ignorecase=False)
 seeme = on_command('seeme', aliases={'看我', '审视党性'}, priority=20)
