@@ -66,6 +66,11 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
  - 默认：`[]`
  - 说明：机修的QQ号，nonebot1请在.env进行配置,nonebot2请在bot.py内的init内进行配置
 
+#### `ticket`
+ - 类型：`bool`
+ - 默认：`True`
+ - 说明：是否开启发票功能。（true/false）
+
 #### `aes_key`
  - 类型：`str`
  - 默认：`EQ:R@`
