@@ -401,3 +401,22 @@ def get_user_id(qr_code):
         "User-Agent": "WC_AIME_LIB",
     })
     return resp.json()
+
+
+def get_user_music(uid):
+    result = {"is_success": False, "is_error": False, "user_id": uid, "data": {}, "msg_body": "",
+              "is_in_whitelist": False}
+    data = {}
+    dump_dict = {"userId": uid, "nextIndex": 0,
+                         "maxCount": 2147483647}
+    request = HTTPRequest(uid=uid)
+    logger.debug("开始获取用户音乐数据")
+    preview = request.Request("GetUserMusicApiMaimaiChn", dump_dict)
+    data["userMusicDetailList"] = []
+    for music in preview["userMusicList"]:
+        data["userMusicDetailList"] += music["userMusicDetailList"]
+    result["data"] = data
+    result["is_success"] = True
+    result["is_error"] = False
+    result["msg_body"] = "成功"
+    return result

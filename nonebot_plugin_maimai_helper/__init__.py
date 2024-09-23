@@ -117,7 +117,7 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
 @maihelp.handle()
 async def _(event: GroupMessageEvent, message: Message = EventMessage()):
     await maihelp.send(
-        "maimai插件帮助 - Ver.1.2.5\n"
+        "maimai插件帮助 - Ver.1.2.6\n"
         "绑定账号 - 发送二维码解析出来的内容 - SGWCMAID123456\n"
         "查询账号 - 发送'seeme'\n"
         "发2/3/5/6倍券 - 发送'发券2/3/5/6'\n"
@@ -311,7 +311,7 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
             await gb.send([MessageSegment.reply(event.message_id), MessageSegment.text("正在更新b50，请耐心等待，不要重复发送")])
             token = get_token(user_qq)
             user_id = get_userid(user_qq)
-            old_data = dump_user_all(user_id)
+            old_data = get_user_music(user_id)
             if not old_data['is_success']:
                 await gb.finish([MessageSegment.reply(event.message_id), MessageSegment.text(f"更新失败，{old_data['msg_body']}")])
             else:
