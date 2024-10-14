@@ -10,6 +10,8 @@ from update_music_list import *
 
 config = nonebot.get_driver().config
 TICKET = getattr(config, 'ticket', True)
+ALLOWGROUP = getattr(config, 'allowgroup', [6324])
+WHITELIST = getattr(config, 'whitelist', False)
 
 def check_time() -> bool:
 
@@ -34,6 +36,7 @@ trick = on_command('舞萌足迹', priority=20, rule=check_time)
 token_bind = on_command("bind", priority=20, rule=check_time)
 gb = on_command("gb", priority=20, rule=check_time)
 up_list = on_command('uplist', priority=20, permission=SUPERUSER)
+status = on_command('status', priority=20, rule=check_time)
 
 
 @bind_user_id.handle()
@@ -117,7 +120,7 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
 @maihelp.handle()
 async def _(event: GroupMessageEvent, message: Message = EventMessage()):
     await maihelp.send(
-        "maimai插件帮助 - Ver.1.2.6\n"
+        "maimai插件帮助 - Ver.1.3.2\n"
         "绑定账号 - 发送二维码解析出来的内容 - SGWCMAID123456\n"
         "查询账号 - 发送'seeme'\n"
         "发2/3/5/6倍券 - 发送'发券2/3/5/6'\n"
@@ -129,75 +132,88 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
         "绑定查分器 - 发送'bind+查分器token'\n"
         "更新b50 - 发送'gb'\n"
         "更新水鱼乐曲列表 - 发送'uplist'(仅限机修)\n"
+        "检测服务器状态 - 发送'status'\n"
         "请勿在凌晨三点至凌晨七点内使用本Bot！！\n"
+        "由于华立近期严查发票，请勿频繁使用发票功能！！\n"
     )
 
 
 ticket = on_regex(r"发券(\d+)", priority=20, rule=is_ticket_enable)
 @ticket.handle()
 async def _(event: GroupMessageEvent, message: Message = EventMessage()):
-    regex = r"发券(\d+)"
-    user_qq = event.get_user_id()
-    user_id = None
-    ticket_id = None
-    match = re.search(regex, str(event.get_message()))
-    if match:
-        try:
-            ticket_id = int(match.group(1))
-        except ValueError:
-            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("世嘉现在还不支持这种券哟~")])
-            raise ValueError("匹配的不是有效的数字")
+    OPEN = False
+    if WHITELIST:
+        if event.group_id in ALLOWGROUP:
+            OPEN = True
     else:
-        await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("你想发什么券呢？")])
-        return
-    if is_userid_exist(user_qq):
-        # 判断是否存在userid
-        user_id = get_userid(user_qq)
-    else:
-        await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("先绑定账号叭~")])
-        return
+        OPEN = True
+    if OPEN:
+        regex = r"发券(\d+)"
+        user_qq = event.get_user_id()
+        user_id = None
+        ticket_id = None
+        match = re.search(regex, str(event.get_message()))
+        if match:
+            try:
+                ticket_id = int(match.group(1))
+            except ValueError:
+                await ticket.send(
+                    [MessageSegment.reply(event.message_id), MessageSegment.text("世嘉现在还不支持这种券哟~")])
+                raise ValueError("匹配的不是有效的数字")
+        else:
+            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("你想发什么券呢？")])
+            return
+        if is_userid_exist(user_qq):
+            # 判断是否存在userid
+            user_id = get_userid(user_qq)
+        else:
+            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("先绑定账号叭~")])
+            return
 
-    if ticket_id == 2:
-        result = send_ticket(user_id, 2)
-        if result["is_success"]:
-            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
+        if ticket_id == 2:
+            result = send_ticket(user_id, 2)
+            if result["is_success"]:
+                await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
+            else:
+                await ticket.send(
+                    [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
+                return
+        elif ticket_id == 3:
+            result = send_ticket(user_id, 3)
+            if result["is_success"]:
+                await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
+            else:
+                await ticket.send(
+                    [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
+                return
+        elif ticket_id == 5:
+            result = send_ticket(user_id, 5)
+            if result["is_success"]:
+                await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
+            else:
+                await ticket.send(
+                    [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
+                return
+        elif ticket_id == 6:
+            result = send_ticket(user_id, 6)
+            if result["is_success"]:
+                await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
+            else:
+                await ticket.send(
+                    [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
+                return
+        elif ticket_id == 7:
+            result = send_ticket(user_id, 20020)
+            if result["is_success"]:
+                await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
+            else:
+                await ticket.send(
+                    [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
         else:
-            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
+            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("你想发什么券呢？")])
             return
-    elif ticket_id == 3:
-        result = send_ticket(user_id, 3)
-        if result["is_success"]:
-            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
-        else:
-            await ticket.send(
-                [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
-            return
-    elif ticket_id == 5:
-        result = send_ticket(user_id, 5)
-        if result["is_success"]:
-            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
-        else:
-            await ticket.send(
-                [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
-            return
-    elif ticket_id == 6:
-        result = send_ticket(user_id, 6)
-        if result["is_success"]:
-            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
-        else:
-            await ticket.send(
-                [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
-            return
-    elif ticket_id == 7:
-        result = send_ticket(user_id, 20020)
-        if result["is_success"]:
-            await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("购买成功喽\(^o^)/~")])
-        else:
-            await ticket.send(
-                [MessageSegment.reply(event.message_id), MessageSegment.text(f"购买失败了,{result['msg_body']}")])
     else:
-        await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("你想发什么券呢？")])
-        return
+        await ticket.send([MessageSegment.reply(event.message_id), MessageSegment.text("本群暂无权限，请联系机修授权。")])
 
 
 @g_login.handle()
@@ -337,3 +353,22 @@ async def _(event: GroupMessageEvent, message: Message = EventMessage()):
         await up_list.send([MessageSegment.reply(event.message_id), MessageSegment.text("更新成功")])
     except Exception as e:
         await up_list.send([MessageSegment.reply(event.message_id), MessageSegment.text(f"更新失败,{e}")])
+
+
+@status.handle()
+async def _(event: GroupMessageEvent, message: Message = EventMessage()):
+    result = {'title': '坏', 'chime': '坏', 'all_net': '坏'}
+    title = title_ping()
+    chime = chime_ping()
+    all_net = all_net_ping()
+    if title['is_success']:
+        result['title'] = '好'
+    if chime['is_success']:
+        result['chime'] = '好'
+    if all_net['is_success']:
+        result['all_net'] = '好'
+    await status.send([MessageSegment.reply(event.message_id), MessageSegment.text(
+        f"标题服务器：\t{result['title']}\n"
+        f"会员服务器：\t{result['chime']}\n"
+        f"NET服务器：\t{result['all_net']}\n"
+    )])

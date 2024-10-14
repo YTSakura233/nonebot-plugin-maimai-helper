@@ -146,12 +146,23 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
  - 默认：`https://localhost`
  - 说明：游戏相关服务器地址，请自行寻找
 
+#### `allowgroup`
+ - 类型：`list`
+ - 默认：`[6334]`
+ - 说明：发票功能群组白名单
+
+#### `whitelist`
+ - 类型：`bool`
+ - 默认：`False`
+ - 说明：是否开启发票白名单
 
 ### 使用
 
 **以下命令需要加[命令前缀](https://v2.nonebot.dev/docs/api/config#Config-command_start) (默认为`/`)，可自行设置为空: `.env.*` 文件中设置 `COMMAND_START=[""]`**
 
 **请勿在凌晨3点至凌晨7点使用本插件！！！**
+
+**近期严查发票，请提请群友不要频繁使用发票功能！！！**
 
 #### 绑定账号
 
@@ -223,6 +234,13 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 插件，用于maimaiDX的�
 前缀 + uplist
 
 建议定期执行一次
+
+
+#### 检测服务器状态
+
+前缀 + status
+
+查看服务当前状态（可用于检测是否被封IP）
 
 
 ### 特别感谢

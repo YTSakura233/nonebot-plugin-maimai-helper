@@ -420,3 +420,73 @@ def get_user_music(uid):
     result["is_error"] = False
     result["msg_body"] = "成功"
     return result
+
+
+def title_ping():
+    result = {"is_success": False, "is_error": False, "data": {}, "msg_body": ""}
+    login_dict = {}
+    try:
+        request = HTTPRequest(uid=-1)
+        resp = request.Request("PingMaimaiChn", login_dict)
+        result["is_success"] = True
+        result["msg_body"] = "成功"
+        result['data'] = resp
+    except Exception as e:
+        e.with_traceback(None)
+        result["is_error"] = True
+        result["msg_body"] = f"未知错误：{e.with_traceback(None)}"
+
+    return result
+
+
+def chime_ping():
+    result = {"is_success": False, "is_error": False, "data": {}, "msg_body": ""}
+    headers = {
+        'Connection': 'Close',
+        'Host': 'at.sys-all.cn',
+        'User-Agent': 'SDGB',
+        'Content-Length': '0',
+        'Content-Type': 'application/x-www-form-urlencoded',
+    }
+    data = {}
+    url = "http://at.sys-all.cn/report-api/Report"
+    try:
+        request = requests.post(url, headers=headers, data=data)
+        if request.status_code == 200:
+            result['is_success'] = True
+            result['data'] = request.text
+            result['msg_body'] = '成功'
+        else:
+            result['is_error'] = True
+            result['msg_body'] = request.status_code
+        return result
+    except Exception as e:
+        result['is_error'] = True
+        result['msg_body'] = e
+        return result
+
+
+def all_net_ping():
+    result = {"is_success": False, "is_error": False, "data": {}, "msg_body": ""}
+    url = "http://ai.sys-all.cn/wc_aime/api/alive_check"
+    headers = {
+        'Connection': 'Keep-Alive',
+        'Host': 'ai.sys-all.cn',
+        'User-Agent': 'WC_AIME_LIB',
+        'Content-Length': '0'
+    }
+    data = {}
+    try:
+        request = requests.post(url, headers=headers, data=data)
+        if request.text == 'alive':
+            result['is_success'] = True
+            result['data'] = request.text
+            result['msg_body'] = '成功'
+        else:
+            result['is_error'] = True
+            result['msg_body'] = request.status_code
+        return result
+    except Exception as e:
+        result['is_error'] = True
+        result['msg_body'] = e
+        return result

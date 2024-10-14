@@ -38,6 +38,8 @@ def sega_data_pre_format(sega_data):
             old['syncStatus'] = "fsd"
         elif old['syncStatus'] == 4:
             old['syncStatus'] = "fsdp"
+        elif old['syncStatus'] == 5:
+            old['syncStatus'] = "sync"
         else:
             old['syncStatus'] = ""
     return sega_data
@@ -83,5 +85,4 @@ def send_user_data(data, token):
         back['status'] = 0
         back['msg'] = str(e)
         return back
-
 
