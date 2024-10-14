@@ -27,7 +27,7 @@ def is_ticket_enable() -> bool:
 
 
 bind_user_id = on_startswith(('SGWCMAID'), ignorecase=False, rule=check_time)
-seeme = on_command('seeme', aliases={'看我', '审视党性'}, priority=20, rule=check_time)
+seeme = on_command('seeme', aliases={'看我'}, priority=20, rule=check_time)
 maihelp = on_command('maihelp', priority=20)
 g_login = on_command('login', priority=20, rule=check_time)
 g_logout = on_command('logout', priority=20, rule=check_time)
